@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -3379,6 +3379,174 @@
       "kkTranscription": "Jylan",
       "category": "animals",
       "id": 422
+    },
+    {
+      "ru": "Спорт",
+      "kk": "Спорт",
+      "ruTranscription": "спорт",
+      "kkTranscription": "Sport",
+      "category": "sports",
+      "id": 423
+    },
+    {
+      "ru": "Футбол",
+      "kk": "Футбол",
+      "ruTranscription": "футбол",
+      "kkTranscription": "Futbol",
+      "category": "sports",
+      "id": 424
+    },
+    {
+      "ru": "Баскетбол",
+      "kk": "Баскетбол",
+      "ruTranscription": "баскетбол",
+      "kkTranscription": "Basketbol",
+      "category": "sports",
+      "id": 425
+    },
+    {
+      "ru": "Волейбол",
+      "kk": "Волейбол",
+      "ruTranscription": "волейбол",
+      "kkTranscription": "Voleibol",
+      "category": "sports",
+      "id": 426
+    },
+    {
+      "ru": "Теннис",
+      "kk": "Теннис",
+      "ruTranscription": "теннис",
+      "kkTranscription": "Tennis",
+      "category": "sports",
+      "id": 427
+    },
+    {
+      "ru": "Хоккей",
+      "kk": "Хоккей",
+      "ruTranscription": "хоккей",
+      "kkTranscription": "Hokkei",
+      "category": "sports",
+      "id": 428
+    },
+    {
+      "ru": "Бег",
+      "kk": "Жүгіру",
+      "ruTranscription": "жүгіру",
+      "kkTranscription": "Jügıru",
+      "category": "sports",
+      "id": 429
+    },
+    {
+      "ru": "Плавание",
+      "kk": "Жүзу",
+      "ruTranscription": "жүзу",
+      "kkTranscription": "Jüzu",
+      "category": "sports",
+      "id": 430
+    },
+    {
+      "ru": "Лыжи",
+      "kk": "Шаңғы",
+      "ruTranscription": "шаңғы",
+      "kkTranscription": "Şañğy",
+      "category": "sports",
+      "id": 431
+    },
+    {
+      "ru": "Велоспорт",
+      "kk": "Велоспорт",
+      "ruTranscription": "велоспорт",
+      "kkTranscription": "Velosport",
+      "category": "sports",
+      "id": 432
+    },
+    {
+      "ru": "Бокс",
+      "kk": "Бокс",
+      "ruTranscription": "бокс",
+      "kkTranscription": "Boks",
+      "category": "sports",
+      "id": 433
+    },
+    {
+      "ru": "Борьба",
+      "kk": "Күрес",
+      "ruTranscription": "күрес",
+      "kkTranscription": "Küres",
+      "category": "sports",
+      "id": 434
+    },
+    {
+      "ru": "Тренажерный зал",
+      "kk": "Спорт зал",
+      "ruTranscription": "спорт зал",
+      "kkTranscription": "Sport zal",
+      "category": "sports",
+      "id": 435
+    },
+    {
+      "ru": "Стадион",
+      "kk": "Стадион",
+      "ruTranscription": "стадион",
+      "kkTranscription": "Stadion",
+      "category": "sports",
+      "id": 436
+    },
+    {
+      "ru": "Команда",
+      "kk": "Команда",
+      "ruTranscription": "команда",
+      "kkTranscription": "Komanda",
+      "category": "sports",
+      "id": 437
+    },
+    {
+      "ru": "Игрок",
+      "kk": "Ойыншы",
+      "ruTranscription": "ойыншы",
+      "kkTranscription": "Oiynşy",
+      "category": "sports",
+      "id": 438
+    },
+    {
+      "ru": "Тренер",
+      "kk": "Жаттықтырушы",
+      "ruTranscription": "жаттықтырушы",
+      "kkTranscription": "Jattyqtyruşy",
+      "category": "sports",
+      "id": 439
+    },
+    {
+      "ru": "Соревнование",
+      "kk": "Жарыс",
+      "ruTranscription": "жарыс",
+      "kkTranscription": "Jarys",
+      "category": "sports",
+      "id": 440
+    },
+    {
+      "ru": "Победа",
+      "kk": "Жеңіс",
+      "ruTranscription": "жеңіс",
+      "kkTranscription": "Jeñıs",
+      "category": "sports",
+      "id": 441
+    },
+    {
+      "ru": "Мяч",
+      "kk": "Доп",
+      "ruTranscription": "доп",
+      "kkTranscription": "Dop",
+      "category": "sports",
+      "id": 442
+    },
+    {
+      "ru": "Ворота",
+      "kk": "Қақпа",
+      "ruTranscription": "қақпа",
+      "kkTranscription": "Qaqpa",
+      "category": "sports",
+      "id": 443
     }
   ],
   "categories": {
