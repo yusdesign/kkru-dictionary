@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -1427,6 +1427,206 @@
       "kkTranscription": "Jaña söz",
       "category": "category_name",
       "id": 178
+    },
+    {
+      "ru": "Одежда",
+      "kk": "Киім",
+      "ruTranscription": "киім",
+      "kkTranscription": "Kiım",
+      "category": "clothing",
+      "id": 179
+    },
+    {
+      "ru": "Рубашка",
+      "kk": "Көйлек",
+      "ruTranscription": "көйлек",
+      "kkTranscription": "Köilek",
+      "category": "clothing",
+      "id": 180
+    },
+    {
+      "ru": "Футболка",
+      "kk": "Футболка",
+      "ruTranscription": "футболка",
+      "kkTranscription": "Futbolka",
+      "category": "clothing",
+      "id": 181
+    },
+    {
+      "ru": "Брюки",
+      "kk": "Шалбар",
+      "ruTranscription": "шалбар",
+      "kkTranscription": "Şalbar",
+      "category": "clothing",
+      "id": 182
+    },
+    {
+      "ru": "Джинсы",
+      "kk": "Джинсы",
+      "ruTranscription": "джинсы",
+      "kkTranscription": "Jinsy",
+      "category": "clothing",
+      "id": 183
+    },
+    {
+      "ru": "Платье",
+      "kk": "Көйлек",
+      "ruTranscription": "көйлек",
+      "kkTranscription": "Köilek",
+      "category": "clothing",
+      "id": 184
+    },
+    {
+      "ru": "Юбка",
+      "kk": "Белдемше",
+      "ruTranscription": "белдемше",
+      "kkTranscription": "Beldemşe",
+      "category": "clothing",
+      "id": 185
+    },
+    {
+      "ru": "Куртка",
+      "kk": "Күрте",
+      "ruTranscription": "күрте",
+      "kkTranscription": "Kürte",
+      "category": "clothing",
+      "id": 186
+    },
+    {
+      "ru": "Пальто",
+      "kk": "Пальто",
+      "ruTranscription": "пальто",
+      "kkTranscription": "Palto",
+      "category": "clothing",
+      "id": 187
+    },
+    {
+      "ru": "Шапка",
+      "kk": "Бас киім",
+      "ruTranscription": "бас киім",
+      "kkTranscription": "Bas kiım",
+      "category": "clothing",
+      "id": 188
+    },
+    {
+      "ru": "Обувь",
+      "kk": "Аяқ киім",
+      "ruTranscription": "аяқ киім",
+      "kkTranscription": "Ayaq kiım",
+      "category": "clothing",
+      "id": 189
+    },
+    {
+      "ru": "Туфли",
+      "kk": "Туфли",
+      "ruTranscription": "туфли",
+      "kkTranscription": "Tufli",
+      "category": "clothing",
+      "id": 190
+    },
+    {
+      "ru": "Кроссовки",
+      "kk": "Кроссовки",
+      "ruTranscription": "кроссовки",
+      "kkTranscription": "Krossovki",
+      "category": "clothing",
+      "id": 191
+    },
+    {
+      "ru": "Носки",
+      "kk": "Шұлық",
+      "ruTranscription": "шұлық",
+      "kkTranscription": "Şūlyq",
+      "category": "clothing",
+      "id": 192
+    },
+    {
+      "ru": "Шарф",
+      "kk": "Шарф",
+      "ruTranscription": "шарф",
+      "kkTranscription": "Şarf",
+      "category": "clothing",
+      "id": 193
+    },
+    {
+      "ru": "Перчатки",
+      "kk": "Қолғап",
+      "ruTranscription": "қолғап",
+      "kkTranscription": "Qolğap",
+      "category": "clothing",
+      "id": 194
+    },
+    {
+      "ru": "Свитер",
+      "kk": "Свитер",
+      "ruTranscription": "свитер",
+      "kkTranscription": "Sviter",
+      "category": "clothing",
+      "id": 195
+    },
+    {
+      "ru": "Пиджак",
+      "kk": "Пиджак",
+      "ruTranscription": "пиджак",
+      "kkTranscription": "Pidjak",
+      "category": "clothing",
+      "id": 196
+    },
+    {
+      "ru": "Шорты",
+      "kk": "Шорт",
+      "ruTranscription": "шорт",
+      "kkTranscription": "Şort",
+      "category": "clothing",
+      "id": 197
+    },
+    {
+      "ru": "Костюм",
+      "kk": "Костюм",
+      "ruTranscription": "костюм",
+      "kkTranscription": "Kostüm",
+      "category": "clothing",
+      "id": 198
+    },
+    {
+      "ru": "Платок",
+      "kk": "Орамал",
+      "ruTranscription": "орамал",
+      "kkTranscription": "Oramal",
+      "category": "clothing",
+      "id": 199
+    },
+    {
+      "ru": "Ремень",
+      "kk": "Белбеу",
+      "ruTranscription": "белбеу",
+      "kkTranscription": "Belbeu",
+      "category": "clothing",
+      "id": 200
+    },
+    {
+      "ru": "Зонт",
+      "kk": "Қолшатыр",
+      "ruTranscription": "қолшатыр",
+      "kkTranscription": "Qolşatyr",
+      "category": "clothing",
+      "id": 201
+    },
+    {
+      "ru": "Сумка",
+      "kk": "Сөмке",
+      "ruTranscription": "сөмке",
+      "kkTranscription": "Sömke",
+      "category": "clothing",
+      "id": 202
+    },
+    {
+      "ru": "Галстук",
+      "kk": "Галстук",
+      "ruTranscription": "галстук",
+      "kkTranscription": "Galstuk",
+      "category": "clothing",
+      "id": 203
     }
   ],
   "categories": {
