@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -5890,6 +5890,294 @@
       "kkTranscription": "Fotojurnalist",
       "category": "journalism",
       "id": 733
+    },
+    {
+      "ru": "в",
+      "kk": "ішінде",
+      "ruTranscription": "ішінде",
+      "kkTranscription": "ışınde",
+      "category": "grammar",
+      "note": "Предлог места. Пример: в доме — үйдің ішінде",
+      "id": 734
+    },
+    {
+      "ru": "на",
+      "kk": "үстінде",
+      "ruTranscription": "үстінде",
+      "kkTranscription": "üstınde",
+      "category": "grammar",
+      "note": "Предлог места. Пример: на столе — үстелдің үстінде",
+      "id": 735
+    },
+    {
+      "ru": "под",
+      "kk": "астында",
+      "ruTranscription": "астында",
+      "kkTranscription": "astında",
+      "category": "grammar",
+      "note": "Предлог места. Пример: под столом — үстелдің астында",
+      "id": 736
+    },
+    {
+      "ru": "над",
+      "kk": "үстінде",
+      "ruTranscription": "үстінде",
+      "kkTranscription": "üstınde",
+      "category": "grammar",
+      "note": "Предлог места. Пример: над городом — қаланың үстінде",
+      "id": 737
+    },
+    {
+      "ru": "перед",
+      "kk": "алдында",
+      "ruTranscription": "алдында",
+      "kkTranscription": "aldında",
+      "category": "grammar",
+      "note": "Предлог места. Пример: перед домом — үйдің алдында",
+      "id": 738
+    },
+    {
+      "ru": "за",
+      "kk": "артында",
+      "ruTranscription": "артында",
+      "kkTranscription": "artında",
+      "category": "grammar",
+      "note": "Предлог места. Пример: за домом — үйдің артында",
+      "id": 739
+    },
+    {
+      "ru": "между",
+      "kk": "арасында",
+      "ruTranscription": "арасында",
+      "kkTranscription": "arasında",
+      "category": "grammar",
+      "note": "Предлог места. Пример: между домами — үйлердің арасында",
+      "id": 740
+    },
+    {
+      "ru": "около",
+      "kk": "жанында",
+      "ruTranscription": "жанында",
+      "kkTranscription": "janında",
+      "category": "grammar",
+      "note": "Предлог места. Пример: около школы — мектептің жанында",
+      "id": 741
+    },
+    {
+      "ru": "у",
+      "kk": "жанында",
+      "ruTranscription": "жанында",
+      "kkTranscription": "janında",
+      "category": "grammar",
+      "note": "Предлог места. Пример: у реки — өзеннің жанында",
+      "id": 742
+    },
+    {
+      "ru": "без",
+      "kk": "сыз",
+      "ruTranscription": "сыз",
+      "kkTranscription": "syz",
+      "category": "grammar",
+      "note": "Предлог отсутствия. Пример: без воды — сусыз",
+      "id": 743
+    },
+    {
+      "ru": "для",
+      "kk": "үшін",
+      "ruTranscription": "үшін",
+      "kkTranscription": "üşın",
+      "category": "grammar",
+      "note": "Предлог цели. Пример: для тебя — сен үшін",
+      "id": 744
+    },
+    {
+      "ru": "о",
+      "kk": "туралы",
+      "ruTranscription": "туралы",
+      "kkTranscription": "turaly",
+      "category": "grammar",
+      "note": "Предлог о ком-чем. Пример: о друге — дос туралы",
+      "id": 745
+    },
+    {
+      "ru": "про",
+      "kk": "туралы",
+      "ruTranscription": "туралы",
+      "kkTranscription": "turaly",
+      "category": "grammar",
+      "note": "Предлог про. Пример: про книгу — кітап туралы",
+      "id": 746
+    },
+    {
+      "ru": "с",
+      "kk": "бен",
+      "ruTranscription": "бен",
+      "kkTranscription": "ben",
+      "category": "grammar",
+      "note": "Предлог совместности. Пример: с другом — досыммен",
+      "id": 747
+    },
+    {
+      "ru": "со",
+      "kk": "мен",
+      "ruTranscription": "мен",
+      "kkTranscription": "men",
+      "category": "grammar",
+      "note": "Предлог совместности. Пример: со мной — менімен",
+      "id": 748
+    },
+    {
+      "ru": "к",
+      "kk": "қарай",
+      "ruTranscription": "қарай",
+      "kkTranscription": "qarai",
+      "category": "grammar",
+      "note": "Предлог направления. Пример: к дому — үйге қарай",
+      "id": 749
+    },
+    {
+      "ru": "от",
+      "kk": "дан",
+      "ruTranscription": "дан",
+      "kkTranscription": "dan",
+      "category": "grammar",
+      "note": "Предлог удаления. Пример: от дома — үйден",
+      "id": 750
+    },
+    {
+      "ru": "до",
+      "kk": "дейін",
+      "ruTranscription": "дейін",
+      "kkTranscription": "deiın",
+      "category": "grammar",
+      "note": "Предлог предела. Пример: до вечера — кешке дейін",
+      "id": 751
+    },
+    {
+      "ru": "из",
+      "kk": "дан",
+      "ruTranscription": "дан",
+      "kkTranscription": "dan",
+      "category": "grammar",
+      "note": "Предлог исхода. Пример: из дома — үйден",
+      "id": 752
+    },
+    {
+      "ru": "по",
+      "kk": "бойынша",
+      "ruTranscription": "бойынша",
+      "kkTranscription": "boiynşa",
+      "category": "grammar",
+      "note": "Предлог согласно. Пример: по плану — жоспар бойынша",
+      "id": 753
+    },
+    {
+      "ru": "через",
+      "kk": "арқылы",
+      "ruTranscription": "арқылы",
+      "kkTranscription": "arqyly",
+      "category": "grammar",
+      "note": "Предлог через. Пример: через дорогу — жол арқылы",
+      "id": 754
+    },
+    {
+      "ru": "же",
+      "kk": "же",
+      "ruTranscription": "же",
+      "kkTranscription": "je",
+      "category": "grammar",
+      "note": "Частица усиления. Пример: я же говорил — мен айттым ғой",
+      "id": 755
+    },
+    {
+      "ru": "лишь",
+      "kk": "ғана",
+      "ruTranscription": "ғана",
+      "kkTranscription": "ğana",
+      "category": "grammar",
+      "note": "Частица ограничения. Пример: лишь сегодня — тек бүгін",
+      "id": 756
+    },
+    {
+      "ru": "только",
+      "kk": "тек",
+      "ruTranscription": "тек",
+      "kkTranscription": "tek",
+      "category": "grammar",
+      "note": "Частица ограничения. Пример: только ты — тек сен",
+      "id": 757
+    },
+    {
+      "ru": "даже",
+      "kk": "тіпті",
+      "ruTranscription": "тіпті",
+      "kkTranscription": "tıptı",
+      "category": "grammar",
+      "note": "Частица усиления. Пример: даже он — тіпті ол",
+      "id": 758
+    },
+    {
+      "ru": "именно",
+      "kk": "дәл",
+      "ruTranscription": "дәл",
+      "kkTranscription": "däl",
+      "category": "grammar",
+      "note": "Частица уточнения. Пример: именно сегодня — дәл бүгін",
+      "id": 759
+    },
+    {
+      "ru": "вот",
+      "kk": "міне",
+      "ruTranscription": "міне",
+      "kkTranscription": "mıne",
+      "category": "grammar",
+      "note": "Указательная частица. Пример: вот дом — міне үй",
+      "id": 760
+    },
+    {
+      "ru": "ведь",
+      "kk": "ғой",
+      "ruTranscription": "ғой",
+      "kkTranscription": "ğoi",
+      "category": "grammar",
+      "note": "Частица утверждения. Пример: ведь ты знаешь — сен білесің ғой",
+      "id": 761
+    },
+    {
+      "ru": "разве",
+      "kk": "ме",
+      "ruTranscription": "ме",
+      "kkTranscription": "me",
+      "category": "grammar",
+      "note": "Вопросительная частица. Пример: разве это правда? — бұл шын ба?",
+      "id": 762
+    },
+    {
+      "ru": "неужели",
+      "kk": "ма",
+      "ruTranscription": "ма",
+      "kkTranscription": "ma",
+      "category": "grammar",
+      "note": "Вопросительная частица. Пример: неужели? — рас па?",
+      "id": 763
+    },
+    {
+      "ru": "пусть",
+      "kk": "қой",
+      "ruTranscription": "қой",
+      "kkTranscription": "qoi",
+      "category": "grammar",
+      "note": "Побудительная частица. Пример: пусть придет — келсін",
+      "id": 764
+    },
+    {
+      "ru": "давай",
+      "kk": "кел",
+      "ruTranscription": "кел",
+      "kkTranscription": "kel",
+      "category": "grammar",
+      "note": "Побудительная частица. Пример: давай пойдем — барайық",
+      "id": 765
     }
   ],
   "categories": {
@@ -5918,6 +6206,7 @@
     "body": "Части тела",
     "culture": "Казахская культура",
     "literature": "Литература",
-    "journalism": "Журналистика"
+    "journalism": "Журналистика",
+    "grammar": "Грамматика (предлоги и частицы)"
   }
 }
