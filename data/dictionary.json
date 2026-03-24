@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -2979,6 +2979,206 @@
       "kkTranscription": "Turistık agenttık",
       "category": "travel",
       "id": 372
+    },
+    {
+      "ru": "Дом",
+      "kk": "Үй",
+      "ruTranscription": "үй",
+      "kkTranscription": "Üi",
+      "category": "house",
+      "id": 373
+    },
+    {
+      "ru": "Квартира",
+      "kk": "Пәтер",
+      "ruTranscription": "пәтер",
+      "kkTranscription": "Päter",
+      "category": "house",
+      "id": 374
+    },
+    {
+      "ru": "Комната",
+      "kk": "Бөлме",
+      "ruTranscription": "бөлме",
+      "kkTranscription": "Bölme",
+      "category": "house",
+      "id": 375
+    },
+    {
+      "ru": "Кухня",
+      "kk": "Асхана",
+      "ruTranscription": "асхана",
+      "kkTranscription": "Askhana",
+      "category": "house",
+      "id": 376
+    },
+    {
+      "ru": "Ванная",
+      "kk": "Жуынатын бөлме",
+      "ruTranscription": "жуынатын бөлме",
+      "kkTranscription": "Juynatyn bölme",
+      "category": "house",
+      "id": 377
+    },
+    {
+      "ru": "Спальня",
+      "kk": "Ұйықтайтын бөлме",
+      "ruTranscription": "ұйықтайтын бөлме",
+      "kkTranscription": "Ūiyqtaityn bölme",
+      "category": "house",
+      "id": 378
+    },
+    {
+      "ru": "Гостиная",
+      "kk": "Қонақ бөлме",
+      "ruTranscription": "қонақ бөлме",
+      "kkTranscription": "Qonaq bölme",
+      "category": "house",
+      "id": 379
+    },
+    {
+      "ru": "Коридор",
+      "kk": "Дәліз",
+      "ruTranscription": "дәліз",
+      "kkTranscription": "Dälız",
+      "category": "house",
+      "id": 380
+    },
+    {
+      "ru": "Балкон",
+      "kk": "Балкон",
+      "ruTranscription": "балкон",
+      "kkTranscription": "Balkon",
+      "category": "house",
+      "id": 381
+    },
+    {
+      "ru": "Дверь",
+      "kk": "Есік",
+      "ruTranscription": "есік",
+      "kkTranscription": "Esık",
+      "category": "house",
+      "id": 382
+    },
+    {
+      "ru": "Окно",
+      "kk": "Терезе",
+      "ruTranscription": "терезе",
+      "kkTranscription": "Tereze",
+      "category": "house",
+      "id": 383
+    },
+    {
+      "ru": "Стол",
+      "kk": "Үстел",
+      "ruTranscription": "үстел",
+      "kkTranscription": "Üstel",
+      "category": "house",
+      "id": 384
+    },
+    {
+      "ru": "Стул",
+      "kk": "Орындық",
+      "ruTranscription": "орындық",
+      "kkTranscription": "Oryndyq",
+      "category": "house",
+      "id": 385
+    },
+    {
+      "ru": "Диван",
+      "kk": "Диван",
+      "ruTranscription": "диван",
+      "kkTranscription": "Divan",
+      "category": "house",
+      "id": 386
+    },
+    {
+      "ru": "Кровать",
+      "kk": "Кереует",
+      "ruTranscription": "кереует",
+      "kkTranscription": "Kereuet",
+      "category": "house",
+      "id": 387
+    },
+    {
+      "ru": "Шкаф",
+      "kk": "Шкаф",
+      "ruTranscription": "шкаф",
+      "kkTranscription": "Şkaf",
+      "category": "house",
+      "id": 388
+    },
+    {
+      "ru": "Холодильник",
+      "kk": "Тоңазытқыш",
+      "ruTranscription": "тоңазытқыш",
+      "kkTranscription": "Toñazytqyş",
+      "category": "house",
+      "id": 389
+    },
+    {
+      "ru": "Плита",
+      "kk": "Плита",
+      "ruTranscription": "плита",
+      "kkTranscription": "Plita",
+      "category": "house",
+      "id": 390
+    },
+    {
+      "ru": "Микроволновка",
+      "kk": "Микротолқынды пеш",
+      "ruTranscription": "микротолқынды пеш",
+      "kkTranscription": "Mikrotolqyndy peş",
+      "category": "house",
+      "id": 391
+    },
+    {
+      "ru": "Стиральная машина",
+      "kk": "Кір жуатын машина",
+      "ruTranscription": "кір жуатын машина",
+      "kkTranscription": "Kır juatyn mashina",
+      "category": "house",
+      "id": 392
+    },
+    {
+      "ru": "Пылесос",
+      "kk": "Шаңсорғыш",
+      "ruTranscription": "шаңсорғыш",
+      "kkTranscription": "Şañsorğyş",
+      "category": "house",
+      "id": 393
+    },
+    {
+      "ru": "Лампа",
+      "kk": "Шам",
+      "ruTranscription": "шам",
+      "kkTranscription": "Şam",
+      "category": "house",
+      "id": 394
+    },
+    {
+      "ru": "Зеркало",
+      "kk": "Айна",
+      "ruTranscription": "айна",
+      "kkTranscription": "Aina",
+      "category": "house",
+      "id": 395
+    },
+    {
+      "ru": "Ковер",
+      "kk": "Кілем",
+      "ruTranscription": "кілем",
+      "kkTranscription": "Kılem",
+      "category": "house",
+      "id": 396
+    },
+    {
+      "ru": "Телевизор",
+      "kk": "Теледидар",
+      "ruTranscription": "теледидар",
+      "kkTranscription": "Teledidar",
+      "category": "house",
+      "id": 397
     }
   ],
   "categories": {
