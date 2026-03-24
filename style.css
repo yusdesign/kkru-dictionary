@@ -147,12 +147,6 @@ header h1 {
     gap: 10px;
 }
 
-.word-pair {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
 .ru-word {
     font-size: 1.4em;
     font-weight: bold;
