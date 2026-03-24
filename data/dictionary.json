@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4795,6 +4795,198 @@
       "kkTranscription": "Qūda apa",
       "category": "family",
       "id": 599
+    },
+    {
+      "ru": "Слева",
+      "kk": "Сол жақта",
+      "ruTranscription": "сол жақта",
+      "kkTranscription": "Sol jaqta",
+      "category": "city",
+      "id": 600
+    },
+    {
+      "ru": "Справа",
+      "kk": "Оң жақта",
+      "ruTranscription": "оң жақта",
+      "kkTranscription": "Oñ jaqta",
+      "category": "city",
+      "id": 601
+    },
+    {
+      "ru": "Прямо",
+      "kk": "Тура",
+      "ruTranscription": "тура",
+      "kkTranscription": "Tura",
+      "category": "city",
+      "id": 602
+    },
+    {
+      "ru": "Назад",
+      "kk": "Артқа",
+      "ruTranscription": "артқа",
+      "kkTranscription": "Artqa",
+      "category": "city",
+      "id": 603
+    },
+    {
+      "ru": "Вперед",
+      "kk": "Алға",
+      "ruTranscription": "алға",
+      "kkTranscription": "Alğa",
+      "category": "city",
+      "id": 604
+    },
+    {
+      "ru": "Рядом",
+      "kk": "Қасында",
+      "ruTranscription": "қасында",
+      "kkTranscription": "Qasynda",
+      "category": "city",
+      "id": 605
+    },
+    {
+      "ru": "Далеко",
+      "kk": "Алыс",
+      "ruTranscription": "алыс",
+      "kkTranscription": "Alys",
+      "category": "city",
+      "id": 606
+    },
+    {
+      "ru": "Близко",
+      "kk": "Жақын",
+      "ruTranscription": "жақын",
+      "kkTranscription": "Jaqyn",
+      "category": "city",
+      "id": 607
+    },
+    {
+      "ru": "Вверху",
+      "kk": "Жоғарыда",
+      "ruTranscription": "жоғарыда",
+      "kkTranscription": "Joğaryda",
+      "category": "city",
+      "id": 608
+    },
+    {
+      "ru": "Внизу",
+      "kk": "Төменде",
+      "ruTranscription": "төменде",
+      "kkTranscription": "Tömende",
+      "category": "city",
+      "id": 609
+    },
+    {
+      "ru": "Север",
+      "kk": "Солтүстік",
+      "ruTranscription": "солтүстік",
+      "kkTranscription": "Soltüstık",
+      "category": "city",
+      "id": 610
+    },
+    {
+      "ru": "Юг",
+      "kk": "Оңтүстік",
+      "ruTranscription": "оңтүстік",
+      "kkTranscription": "Oñtüstık",
+      "category": "city",
+      "id": 611
+    },
+    {
+      "ru": "Запад",
+      "kk": "Батыс",
+      "ruTranscription": "батыс",
+      "kkTranscription": "Batys",
+      "category": "city",
+      "id": 612
+    },
+    {
+      "ru": "Восток",
+      "kk": "Шығыс",
+      "ruTranscription": "шығыс",
+      "kkTranscription": "Şyğys",
+      "category": "city",
+      "id": 613
+    },
+    {
+      "ru": "Площадь",
+      "kk": "Алаң",
+      "ruTranscription": "алаң",
+      "kkTranscription": "Alañ",
+      "category": "city",
+      "id": 614
+    },
+    {
+      "ru": "Парк",
+      "kk": "Саябақ",
+      "ruTranscription": "саябақ",
+      "kkTranscription": "Saiabaq",
+      "category": "city",
+      "id": 615
+    },
+    {
+      "ru": "Сквер",
+      "kk": "Сквер",
+      "ruTranscription": "сквер",
+      "kkTranscription": "Skver",
+      "category": "city",
+      "id": 616
+    },
+    {
+      "ru": "Мост",
+      "kk": "Көпір",
+      "ruTranscription": "көпір",
+      "kkTranscription": "Köpır",
+      "category": "city",
+      "id": 617
+    },
+    {
+      "ru": "Фонтан",
+      "kk": "Фонтан",
+      "ruTranscription": "фонтан",
+      "kkTranscription": "Fontan",
+      "category": "city",
+      "id": 618
+    },
+    {
+      "ru": "Перрон",
+      "kk": "Перрон",
+      "ruTranscription": "перрон",
+      "kkTranscription": "Perron",
+      "category": "city",
+      "id": 619
+    },
+    {
+      "ru": "Торговый центр",
+      "kk": "Сауда орталығы",
+      "ruTranscription": "сауда орталығы",
+      "kkTranscription": "Sauda ortalyğy",
+      "category": "city",
+      "id": 620
+    },
+    {
+      "ru": "Рынок",
+      "kk": "Базар",
+      "ruTranscription": "базар",
+      "kkTranscription": "Bazar",
+      "category": "city",
+      "id": 621
+    },
+    {
+      "ru": "Кинотеатр",
+      "kk": "Кинотеатр",
+      "ruTranscription": "кинотеатр",
+      "kkTranscription": "Kinoteatr",
+      "category": "city",
+      "id": 622
+    },
+    {
+      "ru": "Театр",
+      "kk": "Театр",
+      "ruTranscription": "театр",
+      "kkTranscription": "Teatr",
+      "category": "city",
+      "id": 623
     }
   ],
   "categories": {
