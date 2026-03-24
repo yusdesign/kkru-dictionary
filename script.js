@@ -246,9 +246,36 @@ function exportData() {
     linkElement.click();
 }
 
+// Модальное окно грамматики
+function initGrammarModal() {
+    const modal = document.getElementById('grammarModal');
+    const btn = document.getElementById('grammarBtn');
+    const closeSpan = document.querySelector('.close');
+    
+    if (!modal || !btn) return;
+    
+    btn.onclick = function() {
+        modal.style.display = 'block';
+        document.body.style.overflow = 'hidden';
+    };
+    
+    closeSpan.onclick = function() {
+        modal.style.display = 'none';
+        document.body.style.overflow = 'auto';
+    };
+    
+    window.onclick = function(event) {
+        if (event.target === modal) {
+            modal.style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+    };
+}
+
 // Инициализация
 document.addEventListener('DOMContentLoaded', () => {
     loadDictionary();
+    initGrammarModal();
     
     // Навешиваем обработчики
     const searchBtn = document.getElementById('searchBtn');
