@@ -1,0 +1,488 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-24",
+  "entries": [
+    {
+      "id": 1,
+      "ru": "Здравствуйте",
+      "kk": "Сәлеметсіз бе",
+      "ruTranscription": "салеметсіз бе",
+      "kkTranscription": "Sälemetsız be",
+      "category": "greetings"
+    },
+    {
+      "id": 2,
+      "ru": "Здравствуй",
+      "kk": "Сәлем",
+      "ruTranscription": "салем",
+      "kkTranscription": "Sälem",
+      "category": "greetings"
+    },
+    {
+      "id": 3,
+      "ru": "Привет",
+      "kk": "Сәлем",
+      "ruTranscription": "салем",
+      "kkTranscription": "Sälem",
+      "category": "greetings"
+    },
+    {
+      "id": 4,
+      "ru": "Доброе утро",
+      "kk": "Қайырлы таң",
+      "ruTranscription": "кайырлы таң",
+      "kkTranscription": "Qaiyrly tań",
+      "category": "greetings"
+    },
+    {
+      "id": 5,
+      "ru": "Добрый день",
+      "kk": "Қайырлы күн",
+      "ruTranscription": "кайырлы күн",
+      "kkTranscription": "Qaiyrly kün",
+      "category": "greetings"
+    },
+    {
+      "id": 6,
+      "ru": "Добрый вечер",
+      "kk": "Қайырлы кеш",
+      "ruTranscription": "кайырлы кеш",
+      "kkTranscription": "Qaiyrly keş",
+      "category": "greetings"
+    },
+    {
+      "id": 7,
+      "ru": "Спокойной ночи",
+      "kk": "Қайырлы түн",
+      "ruTranscription": "кайырлы түн",
+      "kkTranscription": "Qaiyrly tün",
+      "category": "greetings"
+    },
+    {
+      "id": 8,
+      "ru": "До свидания",
+      "kk": "Сау болыңыз",
+      "ruTranscription": "сау болыңыз",
+      "kkTranscription": "Sau bolyñyz",
+      "category": "greetings"
+    },
+    {
+      "id": 9,
+      "ru": "Пока",
+      "kk": "Сау бол",
+      "ruTranscription": "сау бол",
+      "kkTranscription": "Sau bol",
+      "category": "greetings"
+    },
+    {
+      "id": 10,
+      "ru": "Спасибо",
+      "kk": "Рахмет",
+      "ruTranscription": "рахмет",
+      "kkTranscription": "Rahmet",
+      "category": "greetings"
+    },
+    {
+      "id": 11,
+      "ru": "Большое спасибо",
+      "kk": "Үлкен рахмет",
+      "ruTranscription": "үлкен рахмет",
+      "kkTranscription": "Ülken rahmet",
+      "category": "greetings"
+    },
+    {
+      "id": 12,
+      "ru": "Пожалуйста",
+      "kk": "Оқасы жоқ",
+      "ruTranscription": "окасы жоқ",
+      "kkTranscription": "Oqasy joq",
+      "category": "greetings",
+      "note": "Ответ на спасибо"
+    },
+    {
+      "id": 13,
+      "ru": "Пожалуйста",
+      "kk": "Мархабат",
+      "ruTranscription": "мархабат",
+      "kkTranscription": "Marhabat",
+      "category": "greetings",
+      "note": "Просьба, приглашение"
+    },
+    {
+      "id": 14,
+      "ru": "Извините",
+      "kk": "Кешіріңіз",
+      "ruTranscription": "кешіріңіз",
+      "kkTranscription": "Keşirıñız",
+      "category": "greetings"
+    },
+    {
+      "id": 15,
+      "ru": "Да",
+      "kk": "Иә",
+      "ruTranscription": "иә",
+      "kkTranscription": "Iä",
+      "category": "basic"
+    },
+    {
+      "id": 16,
+      "ru": "Нет",
+      "kk": "Жоқ",
+      "ruTranscription": "жоқ",
+      "kkTranscription": "Joq",
+      "category": "basic"
+    },
+    {
+      "id": 17,
+      "ru": "Мама",
+      "kk": "Ана",
+      "ruTranscription": "ана",
+      "kkTranscription": "Ana",
+      "category": "family"
+    },
+    {
+      "id": 18,
+      "ru": "Мама",
+      "kk": "Шеше",
+      "ruTranscription": "шеше",
+      "kkTranscription": "Şeşe",
+      "category": "family"
+    },
+    {
+      "id": 19,
+      "ru": "Папа",
+      "kk": "Әке",
+      "ruTranscription": "әке",
+      "kkTranscription": "Äke",
+      "category": "family"
+    },
+    {
+      "id": 20,
+      "ru": "Папа",
+      "kk": "Ата",
+      "ruTranscription": "ата",
+      "kkTranscription": "Ata",
+      "category": "family"
+    },
+    {
+      "id": 21,
+      "ru": "Брат (старший)",
+      "kk": "Аға",
+      "ruTranscription": "аға",
+      "kkTranscription": "Ağa",
+      "category": "family"
+    },
+    {
+      "id": 22,
+      "ru": "Брат (младший)",
+      "kk": "Іні",
+      "ruTranscription": "іні",
+      "kkTranscription": "Ini",
+      "category": "family"
+    },
+    {
+      "id": 23,
+      "ru": "Сестра (старшая)",
+      "kk": "Әпке",
+      "ruTranscription": "әпке",
+      "kkTranscription": "Äpke",
+      "category": "family"
+    },
+    {
+      "id": 24,
+      "ru": "Сестра (младшая)",
+      "kk": "Сіңлі",
+      "ruTranscription": "сіңлі",
+      "kkTranscription": "Siñli",
+      "category": "family"
+    },
+    {
+      "id": 25,
+      "ru": "Друг",
+      "kk": "Дос",
+      "ruTranscription": "дос",
+      "kkTranscription": "Dos",
+      "category": "family"
+    },
+    {
+      "id": 26,
+      "ru": "Ребёнок",
+      "kk": "Бала",
+      "ruTranscription": "бала",
+      "kkTranscription": "Bala",
+      "category": "family"
+    },
+    {
+      "id": 27,
+      "ru": "Мужчина",
+      "kk": "Ер адам",
+      "ruTranscription": "ер адам",
+      "kkTranscription": "Er adam",
+      "category": "family"
+    },
+    {
+      "id": 28,
+      "ru": "Женщина",
+      "kk": "Әйел адам",
+      "ruTranscription": "әйел адам",
+      "kkTranscription": "Äiel adam",
+      "category": "family"
+    },
+    {
+      "id": 29,
+      "ru": "Имя",
+      "kk": "Ат",
+      "ruTranscription": "ат",
+      "kkTranscription": "At",
+      "category": "basic"
+    },
+    {
+      "id": 30,
+      "ru": "Имя",
+      "kk": "Есім",
+      "ruTranscription": "есім",
+      "kkTranscription": "Esım",
+      "category": "basic"
+    },
+    {
+      "id": 31,
+      "ru": "Хлеб",
+      "kk": "Нан",
+      "ruTranscription": "нан",
+      "kkTranscription": "Nan",
+      "category": "food"
+    },
+    {
+      "id": 32,
+      "ru": "Вода",
+      "kk": "Су",
+      "ruTranscription": "су",
+      "kkTranscription": "Su",
+      "category": "food"
+    },
+    {
+      "id": 33,
+      "ru": "Чай",
+      "kk": "Шай",
+      "ruTranscription": "шай",
+      "kkTranscription": "Şai",
+      "category": "food"
+    },
+    {
+      "id": 34,
+      "ru": "Мясо",
+      "kk": "Ет",
+      "ruTranscription": "ет",
+      "kkTranscription": "Et",
+      "category": "food"
+    },
+    {
+      "id": 35,
+      "ru": "Молоко",
+      "kk": "Сүт",
+      "ruTranscription": "сүт",
+      "kkTranscription": "Süt",
+      "category": "food"
+    },
+    {
+      "id": 36,
+      "ru": "Соль",
+      "kk": "Тұз",
+      "ruTranscription": "тұз",
+      "kkTranscription": "Tūz",
+      "category": "food"
+    },
+    {
+      "id": 37,
+      "ru": "Сахар",
+      "kk": "Қант",
+      "ruTranscription": "қант",
+      "kkTranscription": "Qant",
+      "category": "food"
+    },
+    {
+      "id": 38,
+      "ru": "Вкусно",
+      "kk": "Дәмді",
+      "ruTranscription": "дәмді",
+      "kkTranscription": "Dämdi",
+      "category": "food"
+    },
+    {
+      "id": 39,
+      "ru": "Еда",
+      "kk": "Тағам",
+      "ruTranscription": "тағам",
+      "kkTranscription": "Tağam",
+      "category": "food"
+    },
+    {
+      "id": 40,
+      "ru": "Голодный",
+      "kk": "Аш",
+      "ruTranscription": "аш",
+      "kkTranscription": "Aş",
+      "category": "food"
+    },
+    {
+      "id": 41,
+      "ru": "Как дела?",
+      "kk": "Қалыңыз қалай?",
+      "ruTranscription": "калыңыз қалай?",
+      "kkTranscription": "Qalyñyz qalai?",
+      "category": "phrases"
+    },
+    {
+      "id": 42,
+      "ru": "Хорошо",
+      "kk": "Жақсы",
+      "ruTranscription": "жақсы",
+      "kkTranscription": "Jaqsy",
+      "category": "phrases"
+    },
+    {
+      "id": 43,
+      "ru": "Плохо",
+      "kk": "Жаман",
+      "ruTranscription": "жаман",
+      "kkTranscription": "Jaman",
+      "category": "phrases"
+    },
+    {
+      "id": 44,
+      "ru": "Как тебя зовут?",
+      "kk": "Атың кім?",
+      "ruTranscription": "атың кім?",
+      "kkTranscription": "Atyñ kım?",
+      "category": "phrases"
+    },
+    {
+      "id": 45,
+      "ru": "Меня зовут...",
+      "kk": "Менің атым...",
+      "ruTranscription": "менің атым...",
+      "kkTranscription": "Menıñ atym...",
+      "category": "phrases"
+    },
+    {
+      "id": 46,
+      "ru": "Сколько стоит?",
+      "kk": "Қанша тұрады?",
+      "ruTranscription": "қанша тұрады?",
+      "kkTranscription": "Qanşa turady?",
+      "category": "phrases"
+    },
+    {
+      "id": 47,
+      "ru": "Где?",
+      "kk": "Қайда?",
+      "ruTranscription": "қайда?",
+      "kkTranscription": "Qaida?",
+      "category": "phrases"
+    },
+    {
+      "id": 48,
+      "ru": "Когда?",
+      "kk": "Қашан?",
+      "ruTranscription": "қашан?",
+      "kkTranscription": "Qaşan?",
+      "category": "phrases"
+    },
+    {
+      "id": 49,
+      "ru": "Почему?",
+      "kk": "Неге?",
+      "ruTranscription": "неге?",
+      "kkTranscription": "Nege?",
+      "category": "phrases"
+    },
+    {
+      "id": 50,
+      "ru": "Один",
+      "kk": "Бір",
+      "ruTranscription": "бір",
+      "kkTranscription": "Bır",
+      "category": "numbers"
+    },
+    {
+      "id": 51,
+      "ru": "Два",
+      "kk": "Екі",
+      "ruTranscription": "екі",
+      "kkTranscription": "Ekı",
+      "category": "numbers"
+    },
+    {
+      "id": 52,
+      "ru": "Три",
+      "kk": "Үш",
+      "ruTranscription": "үш",
+      "kkTranscription": "Üş",
+      "category": "numbers"
+    },
+    {
+      "id": 53,
+      "ru": "Четыре",
+      "kk": "Төрт",
+      "ruTranscription": "төрт",
+      "kkTranscription": "Tört",
+      "category": "numbers"
+    },
+    {
+      "id": 54,
+      "ru": "Пять",
+      "kk": "Бес",
+      "ruTranscription": "бес",
+      "kkTranscription": "Bes",
+      "category": "numbers"
+    },
+    {
+      "id": 55,
+      "ru": "Шесть",
+      "kk": "Алты",
+      "ruTranscription": "алты",
+      "kkTranscription": "Alty",
+      "category": "numbers"
+    },
+    {
+      "id": 56,
+      "ru": "Семь",
+      "kk": "Жеті",
+      "ruTranscription": "жеті",
+      "kkTranscription": "Jetı",
+      "category": "numbers"
+    },
+    {
+      "id": 57,
+      "ru": "Восемь",
+      "kk": "Сегіз",
+      "ruTranscription": "сегіз",
+      "kkTranscription": "Segız",
+      "category": "numbers"
+    },
+    {
+      "id": 58,
+      "ru": "Девять",
+      "kk": "Тоғыз",
+      "ruTranscription": "тоғыз",
+      "kkTranscription": "Toğyz",
+      "category": "numbers"
+    },
+    {
+      "id": 59,
+      "ru": "Десять",
+      "kk": "Он",
+      "ruTranscription": "он",
+      "kkTranscription": "On",
+      "category": "numbers"
+    }
+  ],
+  "categories": {
+    "greetings": "Приветствия",
+    "basic": "Основные слова",
+    "family": "Семья",
+    "food": "Еда",
+    "phrases": "Фразы",
+    "numbers": "Числа"
+  }
+}
