@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -2787,6 +2787,198 @@
       "kkTranscription": "Sūhbat",
       "category": "business",
       "id": 348
+    },
+    {
+      "ru": "Путешествие",
+      "kk": "Саяхат",
+      "ruTranscription": "саяхат",
+      "kkTranscription": "Saiakhat",
+      "category": "travel",
+      "id": 349
+    },
+    {
+      "ru": "Туризм",
+      "kk": "Туризм",
+      "ruTranscription": "туризм",
+      "kkTranscription": "Turizm",
+      "category": "travel",
+      "id": 350
+    },
+    {
+      "ru": "Турист",
+      "kk": "Турист",
+      "ruTranscription": "турист",
+      "kkTranscription": "Turist",
+      "category": "travel",
+      "id": 351
+    },
+    {
+      "ru": "Экскурсия",
+      "kk": "Экскурсия",
+      "ruTranscription": "экскурсия",
+      "kkTranscription": "Ekskursiia",
+      "category": "travel",
+      "id": 352
+    },
+    {
+      "ru": "Отель",
+      "kk": "Қонақ үй",
+      "ruTranscription": "қонақ үй",
+      "kkTranscription": "Qonaq üi",
+      "category": "travel",
+      "id": 353
+    },
+    {
+      "ru": "Гостиница",
+      "kk": "Мейманхана",
+      "ruTranscription": "мейманхана",
+      "kkTranscription": "Meimankhana",
+      "category": "travel",
+      "id": 354
+    },
+    {
+      "ru": "Номер",
+      "kk": "Бөлме",
+      "ruTranscription": "бөлме",
+      "kkTranscription": "Bölme",
+      "category": "travel",
+      "id": 355
+    },
+    {
+      "ru": "Бронь",
+      "kk": "Брондау",
+      "ruTranscription": "брондау",
+      "kkTranscription": "Brondau",
+      "category": "travel",
+      "id": 356
+    },
+    {
+      "ru": "Заселиться",
+      "kk": "Орналасу",
+      "ruTranscription": "орналасу",
+      "kkTranscription": "Ornalasu",
+      "category": "travel",
+      "id": 357
+    },
+    {
+      "ru": "Выселиться",
+      "kk": "Шығу",
+      "ruTranscription": "шығу",
+      "kkTranscription": "Şyğu",
+      "category": "travel",
+      "id": 358
+    },
+    {
+      "ru": "Паспорт",
+      "kk": "Паспорт",
+      "ruTranscription": "паспорт",
+      "kkTranscription": "Pasport",
+      "category": "travel",
+      "id": 359
+    },
+    {
+      "ru": "Виза",
+      "kk": "Виза",
+      "ruTranscription": "виза",
+      "kkTranscription": "Viza",
+      "category": "travel",
+      "id": 360
+    },
+    {
+      "ru": "Багаж",
+      "kk": "Жүк",
+      "ruTranscription": "жүк",
+      "kkTranscription": "Jük",
+      "category": "travel",
+      "id": 361
+    },
+    {
+      "ru": "Ручная кладь",
+      "kk": "Қол жүгі",
+      "ruTranscription": "қол жүгі",
+      "kkTranscription": "Qol jügı",
+      "category": "travel",
+      "id": 362
+    },
+    {
+      "ru": "Рейс",
+      "kk": "Рейс",
+      "ruTranscription": "рейс",
+      "kkTranscription": "Reis",
+      "category": "travel",
+      "id": 363
+    },
+    {
+      "ru": "Посадка",
+      "kk": "Отырғызу",
+      "ruTranscription": "отырғызу",
+      "kkTranscription": "Otyrğyzu",
+      "category": "travel",
+      "id": 364
+    },
+    {
+      "ru": "Тур",
+      "kk": "Тур",
+      "ruTranscription": "тур",
+      "kkTranscription": "Tur",
+      "category": "travel",
+      "id": 365
+    },
+    {
+      "ru": "Гид",
+      "kk": "Гид",
+      "ruTranscription": "гид",
+      "kkTranscription": "Gid",
+      "category": "travel",
+      "id": 366
+    },
+    {
+      "ru": "Достопримечательность",
+      "kk": "Көрікті жер",
+      "ruTranscription": "көрікті жер",
+      "kkTranscription": "Köriktı jer",
+      "category": "travel",
+      "id": 367
+    },
+    {
+      "ru": "Музей",
+      "kk": "Мұражай",
+      "ruTranscription": "мұражай",
+      "kkTranscription": "Mūrajai",
+      "category": "travel",
+      "id": 368
+    },
+    {
+      "ru": "Пляж",
+      "kk": "Жағажай",
+      "ruTranscription": "жағажай",
+      "kkTranscription": "Jağajai",
+      "category": "travel",
+      "id": 369
+    },
+    {
+      "ru": "Горы",
+      "kk": "Таулар",
+      "ruTranscription": "таулар",
+      "kkTranscription": "Taular",
+      "category": "travel",
+      "id": 370
+    },
+    {
+      "ru": "Карта",
+      "kk": "Карта",
+      "ruTranscription": "карта",
+      "kkTranscription": "Karta",
+      "category": "travel",
+      "id": 371
+    },
+    {
+      "ru": "Туристическое агентство",
+      "kk": "Туристік агенттік",
+      "ruTranscription": "туристік агенттік",
+      "kkTranscription": "Turistık agenttık",
+      "category": "travel",
+      "id": 372
     }
   ],
   "categories": {
