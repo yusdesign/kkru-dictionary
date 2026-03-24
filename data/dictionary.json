@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -2227,6 +2227,326 @@
       "kkTranscription": "Bileu",
       "category": "verbs",
       "id": 278
+    },
+    {
+      "ru": "Как у вас дела?",
+      "kk": "Жағдайыңыз қалай?",
+      "ruTranscription": "жағдайыңыз қалай?",
+      "kkTranscription": "Jağdaiyñyz qalai?",
+      "category": "phrases",
+      "id": 279
+    },
+    {
+      "ru": "У меня всё хорошо",
+      "kk": "Менде бәрі жақсы",
+      "ruTranscription": "менде бәрі жақсы",
+      "kkTranscription": "Mende bärı jaqsy",
+      "category": "phrases",
+      "id": 280
+    },
+    {
+      "ru": "Что нового?",
+      "kk": "Не жаңалық?",
+      "ruTranscription": "не жаңалық?",
+      "kkTranscription": "Ne jañalyq?",
+      "category": "phrases",
+      "id": 281
+    },
+    {
+      "ru": "Ничего",
+      "kk": "Ештеңе",
+      "ruTranscription": "ештеңе",
+      "kkTranscription": "Eşteñe",
+      "category": "phrases",
+      "id": 282
+    },
+    {
+      "ru": "Извините, пожалуйста",
+      "kk": "Кешіріңіз, мархабат",
+      "ruTranscription": "кешіріңіз, мархабат",
+      "kkTranscription": "Keşirıñız, marhabat",
+      "category": "phrases",
+      "id": 283
+    },
+    {
+      "ru": "Ничего страшного",
+      "kk": "Ештеңе емес",
+      "ruTranscription": "ештеңе емес",
+      "kkTranscription": "Eşteñe emes",
+      "category": "phrases",
+      "id": 284
+    },
+    {
+      "ru": "Помогите, пожалуйста",
+      "kk": "Көмектесіңізші",
+      "ruTranscription": "көмектесіңізші",
+      "kkTranscription": "Kömektesıñızşı",
+      "category": "phrases",
+      "id": 285
+    },
+    {
+      "ru": "Я не понимаю",
+      "kk": "Мен түсінбеймін",
+      "ruTranscription": "мен түсінбеймін",
+      "kkTranscription": "Men tüsınbeimin",
+      "category": "phrases",
+      "id": 286
+    },
+    {
+      "ru": "Повторите, пожалуйста",
+      "kk": "Қайталаңызшы",
+      "ruTranscription": "қайталаңызшы",
+      "kkTranscription": "Qaitalañyzşy",
+      "category": "phrases",
+      "id": 287
+    },
+    {
+      "ru": "Говорите медленнее",
+      "kk": "Баяуырақ сөйлеңіз",
+      "ruTranscription": "баяуырақ сөйлеңіз",
+      "kkTranscription": "Baiauyraq söileñız",
+      "category": "phrases",
+      "id": 288
+    },
+    {
+      "ru": "Сколько времени?",
+      "kk": "Сағат неше?",
+      "ruTranscription": "сағат неше?",
+      "kkTranscription": "Sağat neşe?",
+      "category": "phrases",
+      "id": 289
+    },
+    {
+      "ru": "Который час?",
+      "kk": "Сағат қанша?",
+      "ruTranscription": "сағат қанша?",
+      "kkTranscription": "Sağat qanşa?",
+      "category": "phrases",
+      "id": 290
+    },
+    {
+      "ru": "Где находится туалет?",
+      "kk": "Дәретхана қайда?",
+      "ruTranscription": "дәретхана қайда?",
+      "kkTranscription": "Därethana qaida?",
+      "category": "phrases",
+      "id": 291
+    },
+    {
+      "ru": "Сколько это стоит?",
+      "kk": "Бұл қанша тұрады?",
+      "ruTranscription": "бұл қанша тұрады?",
+      "kkTranscription": "Bül qanşa turady?",
+      "category": "phrases",
+      "id": 292
+    },
+    {
+      "ru": "Можно померить?",
+      "kk": "Киіп көруге бола ма?",
+      "ruTranscription": "киіп көруге бола ма?",
+      "kkTranscription": "Kiıp köruge bola ma?",
+      "category": "phrases",
+      "id": 293
+    },
+    {
+      "ru": "Мне нравится",
+      "kk": "Маған ұнайды",
+      "ruTranscription": "маған ұнайды",
+      "kkTranscription": "Mağan ūnaidy",
+      "category": "phrases",
+      "id": 294
+    },
+    {
+      "ru": "Мне не нравится",
+      "kk": "Маған ұнамайды",
+      "ruTranscription": "маған ұнамайды",
+      "kkTranscription": "Mağan ūnamaidy",
+      "category": "phrases",
+      "id": 295
+    },
+    {
+      "ru": "Вкусно!",
+      "kk": "Дәмді!",
+      "ruTranscription": "дәмді!",
+      "kkTranscription": "Dämdi!",
+      "category": "phrases",
+      "id": 296
+    },
+    {
+      "ru": "Будьте здоровы!",
+      "kk": "Аман-сау болыңыз!",
+      "ruTranscription": "аман-сау болыңыз!",
+      "kkTranscription": "Aman-sau bolyñyz!",
+      "category": "phrases",
+      "id": 297
+    },
+    {
+      "ru": "Счастливого пути!",
+      "kk": "Жолыңыз болсын!",
+      "ruTranscription": "жолыңыз болсын!",
+      "kkTranscription": "Jolyñyz bolsyn!",
+      "category": "phrases",
+      "id": 298
+    },
+    {
+      "ru": "Поздравляю!",
+      "kk": "Құттықтаймын!",
+      "ruTranscription": "құттықтаймын!",
+      "kkTranscription": "Qūttyqtaimyn!",
+      "category": "phrases",
+      "id": 299
+    },
+    {
+      "ru": "Удачи!",
+      "kk": "Сәттілік!",
+      "ruTranscription": "сәттілік!",
+      "kkTranscription": "Sättılık!",
+      "category": "phrases",
+      "id": 300
+    },
+    {
+      "ru": "Приятно познакомиться",
+      "kk": "Танысқаныма қуаныштымын",
+      "ruTranscription": "танысқаныма қуаныштымын",
+      "kkTranscription": "Tany sqanyma quanıştymyn",
+      "category": "phrases",
+      "id": 301
+    },
+    {
+      "ru": "Как тебя зовут?",
+      "kk": "Атың кім?",
+      "ruTranscription": "атың кім?",
+      "kkTranscription": "Atyñ kım?",
+      "category": "phrases",
+      "id": 302
+    },
+    {
+      "ru": "Меня зовут...",
+      "kk": "Менің атым...",
+      "ruTranscription": "менің атым...",
+      "kkTranscription": "Menıñ atym...",
+      "category": "phrases",
+      "id": 303
+    },
+    {
+      "ru": "Откуда вы?",
+      "kk": "Сіз қайдансыз?",
+      "ruTranscription": "сіз қайдансыз?",
+      "kkTranscription": "Sız qaidansyz?",
+      "category": "phrases",
+      "id": 304
+    },
+    {
+      "ru": "Я из России",
+      "kk": "Мен Ресейденмін",
+      "ruTranscription": "мен ресейденмін",
+      "kkTranscription": "Men Reseidenmin",
+      "category": "phrases",
+      "id": 305
+    },
+    {
+      "ru": "Вы говорите по-русски?",
+      "kk": "Сіз орысша сөйлейсіз бе?",
+      "ruTranscription": "сіз орысша сөйлейсіз бе?",
+      "kkTranscription": "Sız orysşa söileisız be?",
+      "category": "phrases",
+      "id": 306
+    },
+    {
+      "ru": "Я говорю по-казахски",
+      "kk": "Мен қазақша сөйлеймін",
+      "ruTranscription": "мен қазақша сөйлеймін",
+      "kkTranscription": "Men qazaqşa söileimin",
+      "category": "phrases",
+      "id": 307
+    },
+    {
+      "ru": "Немного",
+      "kk": "Аздап",
+      "ruTranscription": "аздап",
+      "kkTranscription": "Azdap",
+      "category": "phrases",
+      "id": 308
+    },
+    {
+      "ru": "Давайте встретимся",
+      "kk": "Кездесейік",
+      "ruTranscription": "кездесейік",
+      "kkTranscription": "Kezdeseiık",
+      "category": "phrases",
+      "id": 309
+    },
+    {
+      "ru": "Когда?",
+      "kk": "Қашан?",
+      "ruTranscription": "қашан?",
+      "kkTranscription": "Qaşan?",
+      "category": "phrases",
+      "id": 310
+    },
+    {
+      "ru": "Где?",
+      "kk": "Қайда?",
+      "ruTranscription": "қайда?",
+      "kkTranscription": "Qaida?",
+      "category": "phrases",
+      "id": 311
+    },
+    {
+      "ru": "Можно войти?",
+      "kk": "Кіруге бола ма?",
+      "ruTranscription": "кіруге бола ма?",
+      "kkTranscription": "Kıruge bola ma?",
+      "category": "phrases",
+      "id": 312
+    },
+    {
+      "ru": "Можно сесть?",
+      "kk": "Отыруға бола ма?",
+      "ruTranscription": "отыруға бола ма?",
+      "kkTranscription": "Otyruğa bola ma?",
+      "category": "phrases",
+      "id": 313
+    },
+    {
+      "ru": "У вас есть...",
+      "kk": "Сізде... бар ма?",
+      "ruTranscription": "сізде... бар ма?",
+      "kkTranscription": "Sızde... bar ma?",
+      "category": "phrases",
+      "id": 314
+    },
+    {
+      "ru": "Я хочу заказать",
+      "kk": "Мен тапсырыс бергім келеді",
+      "ruTranscription": "мен тапсырыс бергім келеді",
+      "kkTranscription": "Men tapsyrys bergım keledı",
+      "category": "phrases",
+      "id": 315
+    },
+    {
+      "ru": "Счет, пожалуйста",
+      "kk": "Есепшот, мархабат",
+      "ruTranscription": "есепшот, мархабат",
+      "kkTranscription": "Esepşot, marhabat",
+      "category": "phrases",
+      "id": 316
+    },
+    {
+      "ru": "Всего хорошего!",
+      "kk": "Бәрі жақсы болсын!",
+      "ruTranscription": "бәрі жақсы болсын!",
+      "kkTranscription": "Bärı jaqsy bolsyn!",
+      "category": "phrases",
+      "id": 317
+    },
+    {
+      "ru": "До скорого!",
+      "kk": "Кездескенше!",
+      "ruTranscription": "кездескенше!",
+      "kkTranscription": "Kezdeskenşe!",
+      "category": "phrases",
+      "id": 318
     }
   ],
   "categories": {
