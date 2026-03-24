@@ -3,32 +3,25 @@ let currentResults = [];
 
 // Загрузка данных
 async function loadDictionary() {
+    console.log('📖 Загрузка словаря...');
     try {
         const response = await fetch('data/dictionary.json');
+        console.log('📡 Ответ сервера:', response.status);
         
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
         }
         
         dictionaryData = await response.json();
+        console.log('✅ Данные загружены:', dictionaryData.entries?.length, 'слов');
         
-        // Проверка, что данные загружены
-        if (!dictionaryData || !dictionaryData.entries) {
-            throw new Error('Неверный формат данных');
-        }
-        
-        // Обновляем информацию о версии (только после загрузки)
         updateVersionInfo();
         updateHeader();
-        
-        // Заполняем категории
         populateCategories();
-        
-        // Показываем все слова
         showAllWords();
         
     } catch (error) {
-        console.error('Ошибка загрузки словаря:', error);
+        console.error('❌ Ошибка:', error);
         document.getElementById('results').innerHTML = `
             <div class="no-results">
                 ❌ Ошибка загрузки словаря: ${error.message}
@@ -37,15 +30,26 @@ async function loadDictionary() {
     }
 }
 
-// Обновление информации о версии
+// Обновление информации о версии в header и footer
 function updateVersionInfo() {
+    if (!dictionaryData) return;
+    
+    const versionText = `Версия: ${dictionaryData.version || '?'}`;
+    const updatedText = `Обновлено: ${dictionaryData.lastUpdated || '?'}`;
+    
+    // Обновляем header
     const versionEl = document.getElementById('version');
     const lastUpdatedEl = document.getElementById('lastUpdated');
+    if (versionEl) versionEl.textContent = versionText;
+    if (lastUpdatedEl) lastUpdatedEl.textContent = updatedText;
     
-    if (dictionaryData && versionEl && lastUpdatedEl) {
-        versionEl.textContent = `Версия: ${dictionaryData.version || '?'}`;
-        lastUpdatedEl.textContent = `Обновлено: ${dictionaryData.lastUpdated || '?'}`;
-    }
+    // Обновляем footer
+    const footerVersionEl = document.getElementById('footerVersion');
+    const footerLastUpdatedEl = document.getElementById('footerLastUpdated');
+    if (footerVersionEl) footerVersionEl.textContent = versionText;
+    if (footerLastUpdatedEl) footerLastUpdatedEl.textContent = updatedText;
+    
+    console.log('✅ Версия обновлена:', versionText, updatedText);
 }
 
 // Обновление заголовка в зависимости от направления
