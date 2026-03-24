@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4987,6 +4987,174 @@
       "kkTranscription": "Teatr",
       "category": "city",
       "id": 623
+    },
+    {
+      "ru": "Секунда",
+      "kk": "Секунд",
+      "ruTranscription": "секунд",
+      "kkTranscription": "Sekund",
+      "category": "time",
+      "id": 624
+    },
+    {
+      "ru": "Сутки",
+      "kk": "Тәулік",
+      "ruTranscription": "тәулік",
+      "kkTranscription": "Täulık",
+      "category": "time",
+      "id": 625
+    },
+    {
+      "ru": "Век",
+      "kk": "Ғасыр",
+      "ruTranscription": "ғасыр",
+      "kkTranscription": "Ğasyr",
+      "category": "time",
+      "id": 626
+    },
+    {
+      "ru": "Тысячелетие",
+      "kk": "Мыңжылдық",
+      "ruTranscription": "мыңжылдық",
+      "kkTranscription": "Myñjyldyq",
+      "category": "time",
+      "id": 627
+    },
+    {
+      "ru": "Эпоха",
+      "kk": "Дәуір",
+      "ruTranscription": "дәуір",
+      "kkTranscription": "Däuır",
+      "category": "time",
+      "id": 628
+    },
+    {
+      "ru": "Весна",
+      "kk": "Көктем",
+      "ruTranscription": "көктем",
+      "kkTranscription": "Köktem",
+      "category": "time",
+      "id": 629
+    },
+    {
+      "ru": "Лето",
+      "kk": "Жаз",
+      "ruTranscription": "жаз",
+      "kkTranscription": "Jaz",
+      "category": "time",
+      "id": 630
+    },
+    {
+      "ru": "Осень",
+      "kk": "Күз",
+      "ruTranscription": "күз",
+      "kkTranscription": "Küz",
+      "category": "time",
+      "id": 631
+    },
+    {
+      "ru": "Зима",
+      "kk": "Қыс",
+      "ruTranscription": "қыс",
+      "kkTranscription": "Qys",
+      "category": "time",
+      "id": 632
+    },
+    {
+      "ru": "Январь",
+      "kk": "Қаңтар",
+      "ruTranscription": "қаңтар",
+      "kkTranscription": "Qañtar",
+      "category": "time",
+      "id": 633
+    },
+    {
+      "ru": "Февраль",
+      "kk": "Ақпан",
+      "ruTranscription": "ақпан",
+      "kkTranscription": "Aqpan",
+      "category": "time",
+      "id": 634
+    },
+    {
+      "ru": "Март",
+      "kk": "Наурыз",
+      "ruTranscription": "наурыз",
+      "kkTranscription": "Nauryz",
+      "category": "time",
+      "id": 635
+    },
+    {
+      "ru": "Апрель",
+      "kk": "Сәуір",
+      "ruTranscription": "сәуір",
+      "kkTranscription": "Säuır",
+      "category": "time",
+      "id": 636
+    },
+    {
+      "ru": "Май",
+      "kk": "Мамыр",
+      "ruTranscription": "мамыр",
+      "kkTranscription": "Mamyr",
+      "category": "time",
+      "id": 637
+    },
+    {
+      "ru": "Июнь",
+      "kk": "Маусым",
+      "ruTranscription": "маусым",
+      "kkTranscription": "Mausym",
+      "category": "time",
+      "id": 638
+    },
+    {
+      "ru": "Июль",
+      "kk": "Шілде",
+      "ruTranscription": "шілде",
+      "kkTranscription": "Şılde",
+      "category": "time",
+      "id": 639
+    },
+    {
+      "ru": "Август",
+      "kk": "Тамыз",
+      "ruTranscription": "тамыз",
+      "kkTranscription": "Tamyz",
+      "category": "time",
+      "id": 640
+    },
+    {
+      "ru": "Сентябрь",
+      "kk": "Қыркүйек",
+      "ruTranscription": "қыркүйек",
+      "kkTranscription": "Qyrküiek",
+      "category": "time",
+      "id": 641
+    },
+    {
+      "ru": "Октябрь",
+      "kk": "Қазан",
+      "ruTranscription": "қазан",
+      "kkTranscription": "Qazan",
+      "category": "time",
+      "id": 642
+    },
+    {
+      "ru": "Ноябрь",
+      "kk": "Қараша",
+      "ruTranscription": "қараша",
+      "kkTranscription": "Qaraşa",
+      "category": "time",
+      "id": 643
+    },
+    {
+      "ru": "Декабрь",
+      "kk": "Желтоқсан",
+      "ruTranscription": "желтоқсан",
+      "kkTranscription": "Jeltoqsan",
+      "category": "time",
+      "id": 644
     }
   ],
   "categories": {
