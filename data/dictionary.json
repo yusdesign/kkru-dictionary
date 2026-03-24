@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -1078,14 +1078,6 @@
     },
     {
       "id": 135,
-      "ru": "Вода",
-      "kk": "Су",
-      "ruTranscription": "су",
-      "kkTranscription": "Su",
-      "category": "nature"
-    },
-    {
-      "id": 136,
       "ru": "Огонь",
       "kk": "От",
       "ruTranscription": "от",
@@ -1093,7 +1085,7 @@
       "category": "nature"
     },
     {
-      "id": 137,
+      "id": 136,
       "ru": "Воздух",
       "kk": "Ауа",
       "ruTranscription": "ауа",
@@ -1101,7 +1093,7 @@
       "category": "nature"
     },
     {
-      "id": 138,
+      "id": 137,
       "ru": "Лес",
       "kk": "Орман",
       "ruTranscription": "орман",
@@ -1109,7 +1101,7 @@
       "category": "nature"
     },
     {
-      "id": 139,
+      "id": 138,
       "ru": "Гора",
       "kk": "Тау",
       "ruTranscription": "тау",
@@ -1117,7 +1109,7 @@
       "category": "nature"
     },
     {
-      "id": 140,
+      "id": 139,
       "ru": "Река",
       "kk": "Өзен",
       "ruTranscription": "өзен",
@@ -1125,7 +1117,7 @@
       "category": "nature"
     },
     {
-      "id": 141,
+      "id": 140,
       "ru": "Море",
       "kk": "Теңіз",
       "ruTranscription": "теңіз",
@@ -1133,7 +1125,7 @@
       "category": "nature"
     },
     {
-      "id": 142,
+      "id": 141,
       "ru": "Озеро",
       "kk": "Көл",
       "ruTranscription": "көл",
@@ -1141,7 +1133,7 @@
       "category": "nature"
     },
     {
-      "id": 143,
+      "id": 142,
       "ru": "Дождь",
       "kk": "Жаңбыр",
       "ruTranscription": "жаңбыр",
@@ -1149,7 +1141,7 @@
       "category": "nature"
     },
     {
-      "id": 144,
+      "id": 143,
       "ru": "Снег",
       "kk": "Қар",
       "ruTranscription": "қар",
@@ -1157,7 +1149,7 @@
       "category": "nature"
     },
     {
-      "id": 145,
+      "id": 144,
       "ru": "Ветер",
       "kk": "Жел",
       "ruTranscription": "жел",
@@ -1165,7 +1157,7 @@
       "category": "nature"
     },
     {
-      "id": 146,
+      "id": 145,
       "ru": "Облако",
       "kk": "Бұлт",
       "ruTranscription": "бұлт",
@@ -1173,7 +1165,7 @@
       "category": "nature"
     },
     {
-      "id": 147,
+      "id": 146,
       "ru": "Туман",
       "kk": "Тұман",
       "ruTranscription": "тұман",
@@ -1181,7 +1173,7 @@
       "category": "nature"
     },
     {
-      "id": 148,
+      "id": 147,
       "ru": "Жарко",
       "kk": "Ыстық",
       "ruTranscription": "ыстық",
@@ -1189,7 +1181,7 @@
       "category": "nature"
     },
     {
-      "id": 149,
+      "id": 148,
       "ru": "Холодно",
       "kk": "Суық",
       "ruTranscription": "суық",
@@ -1197,7 +1189,7 @@
       "category": "nature"
     },
     {
-      "id": 150,
+      "id": 149,
       "ru": "Тепло",
       "kk": "Жылы",
       "ruTranscription": "жылы",
@@ -1205,7 +1197,7 @@
       "category": "nature"
     },
     {
-      "id": 151,
+      "id": 150,
       "ru": "Ветрено",
       "kk": "Желді",
       "ruTranscription": "желді",
@@ -1213,7 +1205,7 @@
       "category": "nature"
     },
     {
-      "id": 152,
+      "id": 151,
       "ru": "Солнечно",
       "kk": "Күнді",
       "ruTranscription": "күнді",
@@ -1221,7 +1213,7 @@
       "category": "nature"
     },
     {
-      "id": 153,
+      "id": 152,
       "ru": "Работа",
       "kk": "Жұмыс",
       "ruTranscription": "жұмыс",
@@ -1229,7 +1221,7 @@
       "category": "work"
     },
     {
-      "id": 154,
+      "id": 153,
       "ru": "Учитель",
       "kk": "Мұғалім",
       "ruTranscription": "мұғалім",
@@ -1237,7 +1229,7 @@
       "category": "work"
     },
     {
-      "id": 155,
+      "id": 154,
       "ru": "Врач",
       "kk": "Дәрігер",
       "ruTranscription": "дәрігер",
@@ -1245,7 +1237,7 @@
       "category": "work"
     },
     {
-      "id": 156,
+      "id": 155,
       "ru": "Инженер",
       "kk": "Инженер",
       "ruTranscription": "инженер",
@@ -1253,7 +1245,7 @@
       "category": "work"
     },
     {
-      "id": 157,
+      "id": 156,
       "ru": "Студент",
       "kk": "Студент",
       "ruTranscription": "студент",
@@ -1261,7 +1253,7 @@
       "category": "work"
     },
     {
-      "id": 158,
+      "id": 157,
       "ru": "Программист",
       "kk": "Бағдарламашы",
       "ruTranscription": "бағдарламашы",
@@ -1269,7 +1261,7 @@
       "category": "work"
     },
     {
-      "id": 159,
+      "id": 158,
       "ru": "Водитель",
       "kk": "Жүргізуші",
       "ruTranscription": "жүргізуші",
@@ -1277,7 +1269,7 @@
       "category": "work"
     },
     {
-      "id": 160,
+      "id": 159,
       "ru": "Продавец",
       "kk": "Сатушы",
       "ruTranscription": "сатушы",
@@ -1285,7 +1277,7 @@
       "category": "work"
     },
     {
-      "id": 161,
+      "id": 160,
       "ru": "Строитель",
       "kk": "Құрылысшы",
       "ruTranscription": "құрылысшы",
@@ -1293,7 +1285,7 @@
       "category": "work"
     },
     {
-      "id": 162,
+      "id": 161,
       "ru": "Повар",
       "kk": "Аспаз",
       "ruTranscription": "аспаз",
@@ -1301,7 +1293,7 @@
       "category": "work"
     },
     {
-      "id": 163,
+      "id": 162,
       "ru": "Официант",
       "kk": "Даяшы",
       "ruTranscription": "даяшы",
@@ -1309,7 +1301,7 @@
       "category": "work"
     },
     {
-      "id": 164,
+      "id": 163,
       "ru": "Бухгалтер",
       "kk": "Есепші",
       "ruTranscription": "есепші",
@@ -1317,7 +1309,7 @@
       "category": "work"
     },
     {
-      "id": 165,
+      "id": 164,
       "ru": "Директор",
       "kk": "Директор",
       "ruTranscription": "директор",
@@ -1325,7 +1317,7 @@
       "category": "work"
     },
     {
-      "id": 166,
+      "id": 165,
       "ru": "Секретарь",
       "kk": "Хатшы",
       "ruTranscription": "хатшы",
@@ -1333,7 +1325,7 @@
       "category": "work"
     },
     {
-      "id": 167,
+      "id": 166,
       "ru": "Юрист",
       "kk": "Заңгер",
       "ruTranscription": "заңгер",
@@ -1341,7 +1333,7 @@
       "category": "work"
     },
     {
-      "id": 168,
+      "id": 167,
       "ru": "Экономист",
       "kk": "Экономист",
       "ruTranscription": "экономист",
@@ -1349,7 +1341,7 @@
       "category": "work"
     },
     {
-      "id": 169,
+      "id": 168,
       "ru": "Медсестра",
       "kk": "Мейірбике",
       "ruTranscription": "мейірбике",
@@ -1357,7 +1349,7 @@
       "category": "work"
     },
     {
-      "id": 170,
+      "id": 169,
       "ru": "Полицейский",
       "kk": "Полиция қызметкері",
       "ruTranscription": "полиция қызметкері",
@@ -1365,7 +1357,7 @@
       "category": "work"
     },
     {
-      "id": 171,
+      "id": 170,
       "ru": "Пожарный",
       "kk": "Өрт сөндіруші",
       "ruTranscription": "өрт сөндіруші",
@@ -1373,7 +1365,7 @@
       "category": "work"
     },
     {
-      "id": 172,
+      "id": 171,
       "ru": "Художник",
       "kk": "Суретші",
       "ruTranscription": "суретші",
@@ -1381,7 +1373,7 @@
       "category": "work"
     },
     {
-      "id": 173,
+      "id": 172,
       "ru": "Музыкант",
       "kk": "Музыкант",
       "ruTranscription": "музыкант",
@@ -1389,7 +1381,7 @@
       "category": "work"
     },
     {
-      "id": 174,
+      "id": 173,
       "ru": "Фермер",
       "kk": "Фермер",
       "ruTranscription": "фермер",
@@ -1397,7 +1389,7 @@
       "category": "work"
     },
     {
-      "id": 175,
+      "id": 174,
       "ru": "Журналист",
       "kk": "Журналист",
       "ruTranscription": "журналист",
@@ -1405,7 +1397,7 @@
       "category": "work"
     },
     {
-      "id": 176,
+      "id": 175,
       "ru": "Архитектор",
       "kk": "Сәулетші",
       "ruTranscription": "сәулетші",
@@ -1413,7 +1405,7 @@
       "category": "work"
     },
     {
-      "id": 177,
+      "id": 176,
       "ru": "Парикмахер",
       "kk": "Шаштараз",
       "ruTranscription": "шаштараз",
@@ -1426,7 +1418,7 @@
       "ruTranscription": "транскрипция",
       "kkTranscription": "Jaña söz",
       "category": "category_name",
-      "id": 178
+      "id": 177
     },
     {
       "ru": "Одежда",
@@ -1434,7 +1426,7 @@
       "ruTranscription": "киім",
       "kkTranscription": "Kiım",
       "category": "clothing",
-      "id": 179
+      "id": 178
     },
     {
       "ru": "Рубашка",
@@ -1442,7 +1434,7 @@
       "ruTranscription": "көйлек",
       "kkTranscription": "Köilek",
       "category": "clothing",
-      "id": 180
+      "id": 179
     },
     {
       "ru": "Футболка",
@@ -1450,7 +1442,7 @@
       "ruTranscription": "футболка",
       "kkTranscription": "Futbolka",
       "category": "clothing",
-      "id": 181
+      "id": 180
     },
     {
       "ru": "Брюки",
@@ -1458,7 +1450,7 @@
       "ruTranscription": "шалбар",
       "kkTranscription": "Şalbar",
       "category": "clothing",
-      "id": 182
+      "id": 181
     },
     {
       "ru": "Джинсы",
@@ -1466,7 +1458,7 @@
       "ruTranscription": "джинсы",
       "kkTranscription": "Jinsy",
       "category": "clothing",
-      "id": 183
+      "id": 182
     },
     {
       "ru": "Платье",
@@ -1474,7 +1466,7 @@
       "ruTranscription": "көйлек",
       "kkTranscription": "Köilek",
       "category": "clothing",
-      "id": 184
+      "id": 183
     },
     {
       "ru": "Юбка",
@@ -1482,7 +1474,7 @@
       "ruTranscription": "белдемше",
       "kkTranscription": "Beldemşe",
       "category": "clothing",
-      "id": 185
+      "id": 184
     },
     {
       "ru": "Куртка",
@@ -1490,7 +1482,7 @@
       "ruTranscription": "күрте",
       "kkTranscription": "Kürte",
       "category": "clothing",
-      "id": 186
+      "id": 185
     },
     {
       "ru": "Пальто",
@@ -1498,7 +1490,7 @@
       "ruTranscription": "пальто",
       "kkTranscription": "Palto",
       "category": "clothing",
-      "id": 187
+      "id": 186
     },
     {
       "ru": "Шапка",
@@ -1506,7 +1498,7 @@
       "ruTranscription": "бас киім",
       "kkTranscription": "Bas kiım",
       "category": "clothing",
-      "id": 188
+      "id": 187
     },
     {
       "ru": "Обувь",
@@ -1514,7 +1506,7 @@
       "ruTranscription": "аяқ киім",
       "kkTranscription": "Ayaq kiım",
       "category": "clothing",
-      "id": 189
+      "id": 188
     },
     {
       "ru": "Туфли",
@@ -1522,7 +1514,7 @@
       "ruTranscription": "туфли",
       "kkTranscription": "Tufli",
       "category": "clothing",
-      "id": 190
+      "id": 189
     },
     {
       "ru": "Кроссовки",
@@ -1530,7 +1522,7 @@
       "ruTranscription": "кроссовки",
       "kkTranscription": "Krossovki",
       "category": "clothing",
-      "id": 191
+      "id": 190
     },
     {
       "ru": "Носки",
@@ -1538,7 +1530,7 @@
       "ruTranscription": "шұлық",
       "kkTranscription": "Şūlyq",
       "category": "clothing",
-      "id": 192
+      "id": 191
     },
     {
       "ru": "Шарф",
@@ -1546,7 +1538,7 @@
       "ruTranscription": "шарф",
       "kkTranscription": "Şarf",
       "category": "clothing",
-      "id": 193
+      "id": 192
     },
     {
       "ru": "Перчатки",
@@ -1554,7 +1546,7 @@
       "ruTranscription": "қолғап",
       "kkTranscription": "Qolğap",
       "category": "clothing",
-      "id": 194
+      "id": 193
     },
     {
       "ru": "Свитер",
@@ -1562,7 +1554,7 @@
       "ruTranscription": "свитер",
       "kkTranscription": "Sviter",
       "category": "clothing",
-      "id": 195
+      "id": 194
     },
     {
       "ru": "Пиджак",
@@ -1570,7 +1562,7 @@
       "ruTranscription": "пиджак",
       "kkTranscription": "Pidjak",
       "category": "clothing",
-      "id": 196
+      "id": 195
     },
     {
       "ru": "Шорты",
@@ -1578,7 +1570,7 @@
       "ruTranscription": "шорт",
       "kkTranscription": "Şort",
       "category": "clothing",
-      "id": 197
+      "id": 196
     },
     {
       "ru": "Костюм",
@@ -1586,7 +1578,7 @@
       "ruTranscription": "костюм",
       "kkTranscription": "Kostüm",
       "category": "clothing",
-      "id": 198
+      "id": 197
     },
     {
       "ru": "Платок",
@@ -1594,7 +1586,7 @@
       "ruTranscription": "орамал",
       "kkTranscription": "Oramal",
       "category": "clothing",
-      "id": 199
+      "id": 198
     },
     {
       "ru": "Ремень",
@@ -1602,7 +1594,7 @@
       "ruTranscription": "белбеу",
       "kkTranscription": "Belbeu",
       "category": "clothing",
-      "id": 200
+      "id": 199
     },
     {
       "ru": "Зонт",
@@ -1610,7 +1602,7 @@
       "ruTranscription": "қолшатыр",
       "kkTranscription": "Qolşatyr",
       "category": "clothing",
-      "id": 201
+      "id": 200
     },
     {
       "ru": "Сумка",
@@ -1618,7 +1610,7 @@
       "ruTranscription": "сөмке",
       "kkTranscription": "Sömke",
       "category": "clothing",
-      "id": 202
+      "id": 201
     },
     {
       "ru": "Галстук",
@@ -1626,7 +1618,7 @@
       "ruTranscription": "галстук",
       "kkTranscription": "Galstuk",
       "category": "clothing",
-      "id": 203
+      "id": 202
     },
     {
       "ru": "Здоровье",
@@ -1634,7 +1626,7 @@
       "ruTranscription": "денсаулық",
       "kkTranscription": "Densaulyq",
       "category": "health",
-      "id": 204
+      "id": 203
     },
     {
       "ru": "Тело",
@@ -1642,7 +1634,7 @@
       "ruTranscription": "дене",
       "kkTranscription": "Dene",
       "category": "health",
-      "id": 205
+      "id": 204
     },
     {
       "ru": "Голова",
@@ -1650,7 +1642,7 @@
       "ruTranscription": "бас",
       "kkTranscription": "Bas",
       "category": "health",
-      "id": 206
+      "id": 205
     },
     {
       "ru": "Рука",
@@ -1658,7 +1650,7 @@
       "ruTranscription": "қол",
       "kkTranscription": "Qol",
       "category": "health",
-      "id": 207
+      "id": 206
     },
     {
       "ru": "Нога",
@@ -1666,7 +1658,7 @@
       "ruTranscription": "аяқ",
       "kkTranscription": "Ayaq",
       "category": "health",
-      "id": 208
+      "id": 207
     },
     {
       "ru": "Глаз",
@@ -1674,7 +1666,7 @@
       "ruTranscription": "көз",
       "kkTranscription": "Köz",
       "category": "health",
-      "id": 209
+      "id": 208
     },
     {
       "ru": "Ухо",
@@ -1682,7 +1674,7 @@
       "ruTranscription": "құлақ",
       "kkTranscription": "Qūlaq",
       "category": "health",
-      "id": 210
+      "id": 209
     },
     {
       "ru": "Нос",
@@ -1690,7 +1682,7 @@
       "ruTranscription": "мұрын",
       "kkTranscription": "Mūryn",
       "category": "health",
-      "id": 211
+      "id": 210
     },
     {
       "ru": "Рот",
@@ -1698,7 +1690,7 @@
       "ruTranscription": "ауыз",
       "kkTranscription": "Auyz",
       "category": "health",
-      "id": 212
+      "id": 211
     },
     {
       "ru": "Сердце",
@@ -1706,7 +1698,7 @@
       "ruTranscription": "жүрек",
       "kkTranscription": "Jürek",
       "category": "health",
-      "id": 213
+      "id": 212
     },
     {
       "ru": "Боль",
@@ -1714,7 +1706,7 @@
       "ruTranscription": "ауру",
       "kkTranscription": "Auru",
       "category": "health",
-      "id": 214
+      "id": 213
     },
     {
       "ru": "Голова болит",
@@ -1722,7 +1714,7 @@
       "ruTranscription": "басым ауырады",
       "kkTranscription": "Basym auyrady",
       "category": "health",
-      "id": 215
+      "id": 214
     },
     {
       "ru": "Температура",
@@ -1730,7 +1722,7 @@
       "ruTranscription": "қызу",
       "kkTranscription": "Qyzu",
       "category": "health",
-      "id": 216
+      "id": 215
     },
     {
       "ru": "Кашель",
@@ -1738,7 +1730,7 @@
       "ruTranscription": "жөтел",
       "kkTranscription": "Jötel",
       "category": "health",
-      "id": 217
+      "id": 216
     },
     {
       "ru": "Насморк",
@@ -1746,7 +1738,7 @@
       "ruTranscription": "мұрынның ағуы",
       "kkTranscription": "Mūrynnyñ ağuy",
       "category": "health",
-      "id": 218
+      "id": 217
     },
     {
       "ru": "Лекарство",
@@ -1754,31 +1746,7 @@
       "ruTranscription": "дәрі",
       "kkTranscription": "Därı",
       "category": "health",
-      "id": 219
-    },
-    {
-      "ru": "Врач",
-      "kk": "Дәрігер",
-      "ruTranscription": "дәрігер",
-      "kkTranscription": "Därıger",
-      "category": "health",
-      "id": 220
-    },
-    {
-      "ru": "Больница",
-      "kk": "Аурухана",
-      "ruTranscription": "аурухана",
-      "kkTranscription": "Auruhana",
-      "category": "health",
-      "id": 221
-    },
-    {
-      "ru": "Аптека",
-      "kk": "Дәріхана",
-      "ruTranscription": "дәріхана",
-      "kkTranscription": "Därıhana",
-      "category": "health",
-      "id": 222
+      "id": 218
     },
     {
       "ru": "Стоматолог",
@@ -1786,7 +1754,7 @@
       "ruTranscription": "тіс дәрігері",
       "kkTranscription": "Tis därıgerı",
       "category": "health",
-      "id": 223
+      "id": 219
     },
     {
       "ru": "Зуб",
@@ -1794,7 +1762,7 @@
       "ruTranscription": "тіс",
       "kkTranscription": "Tis",
       "category": "health",
-      "id": 224
+      "id": 220
     },
     {
       "ru": "Выздоравливать",
@@ -1802,7 +1770,7 @@
       "ruTranscription": "жазылу",
       "kkTranscription": "Jazylu",
       "category": "health",
-      "id": 225
+      "id": 221
     },
     {
       "ru": "Болеть",
@@ -1810,7 +1778,7 @@
       "ruTranscription": "ауыру",
       "kkTranscription": "Auyru",
       "category": "health",
-      "id": 226
+      "id": 222
     },
     {
       "ru": "Укол",
@@ -1818,7 +1786,7 @@
       "ruTranscription": "инъекция",
       "kkTranscription": "In'ektsiia",
       "category": "health",
-      "id": 227
+      "id": 223
     },
     {
       "ru": "Скорая помощь",
@@ -1826,7 +1794,7 @@
       "ruTranscription": "жедел жәрдем",
       "kkTranscription": "Jedel järdem",
       "category": "health",
-      "id": 228
+      "id": 224
     },
     {
       "ru": "Делать",
@@ -1834,7 +1802,7 @@
       "ruTranscription": "істеу",
       "kkTranscription": "Isteu",
       "category": "verbs",
-      "id": 229
+      "id": 225
     },
     {
       "ru": "Говорить",
@@ -1842,7 +1810,7 @@
       "ruTranscription": "сөйлеу",
       "kkTranscription": "Söileu",
       "category": "verbs",
-      "id": 230
+      "id": 226
     },
     {
       "ru": "Сказать",
@@ -1850,7 +1818,7 @@
       "ruTranscription": "айту",
       "kkTranscription": "Aitu",
       "category": "verbs",
-      "id": 231
+      "id": 227
     },
     {
       "ru": "Идти",
@@ -1858,7 +1826,7 @@
       "ruTranscription": "бару",
       "kkTranscription": "Baru",
       "category": "verbs",
-      "id": 232
+      "id": 228
     },
     {
       "ru": "Ехать",
@@ -1866,7 +1834,7 @@
       "ruTranscription": "жүру",
       "kkTranscription": "Jüru",
       "category": "verbs",
-      "id": 233
+      "id": 229
     },
     {
       "ru": "Смотреть",
@@ -1874,7 +1842,7 @@
       "ruTranscription": "қарау",
       "kkTranscription": "Qarau",
       "category": "verbs",
-      "id": 234
+      "id": 230
     },
     {
       "ru": "Видеть",
@@ -1882,7 +1850,7 @@
       "ruTranscription": "көру",
       "kkTranscription": "Köru",
       "category": "verbs",
-      "id": 235
+      "id": 231
     },
     {
       "ru": "Слышать",
@@ -1890,7 +1858,7 @@
       "ruTranscription": "есту",
       "kkTranscription": "Estu",
       "category": "verbs",
-      "id": 236
+      "id": 232
     },
     {
       "ru": "Слушать",
@@ -1898,7 +1866,7 @@
       "ruTranscription": "тыңдау",
       "kkTranscription": "Tyñdau",
       "category": "verbs",
-      "id": 237
+      "id": 233
     },
     {
       "ru": "Есть",
@@ -1906,7 +1874,7 @@
       "ruTranscription": "жеу",
       "kkTranscription": "Jeu",
       "category": "verbs",
-      "id": 238
+      "id": 234
     },
     {
       "ru": "Пить",
@@ -1914,7 +1882,7 @@
       "ruTranscription": "ішу",
       "kkTranscription": "Işu",
       "category": "verbs",
-      "id": 239
+      "id": 235
     },
     {
       "ru": "Спать",
@@ -1922,7 +1890,7 @@
       "ruTranscription": "ұйықтау",
       "kkTranscription": "Ūiyqtau",
       "category": "verbs",
-      "id": 240
+      "id": 236
     },
     {
       "ru": "Работать",
@@ -1930,7 +1898,7 @@
       "ruTranscription": "жұмыс істеу",
       "kkTranscription": "Jūmys isteu",
       "category": "verbs",
-      "id": 241
+      "id": 237
     },
     {
       "ru": "Учиться",
@@ -1938,7 +1906,7 @@
       "ruTranscription": "оқу",
       "kkTranscription": "Oqu",
       "category": "verbs",
-      "id": 242
+      "id": 238
     },
     {
       "ru": "Читать",
@@ -1946,7 +1914,7 @@
       "ruTranscription": "оқу",
       "kkTranscription": "Oqu",
       "category": "verbs",
-      "id": 243
+      "id": 239
     },
     {
       "ru": "Писать",
@@ -1954,7 +1922,7 @@
       "ruTranscription": "жазу",
       "kkTranscription": "Jazu",
       "category": "verbs",
-      "id": 244
+      "id": 240
     },
     {
       "ru": "Понимать",
@@ -1962,7 +1930,7 @@
       "ruTranscription": "түсіну",
       "kkTranscription": "Tüsınu",
       "category": "verbs",
-      "id": 245
+      "id": 241
     },
     {
       "ru": "Знать",
@@ -1970,7 +1938,7 @@
       "ruTranscription": "білу",
       "kkTranscription": "Bılu",
       "category": "verbs",
-      "id": 246
+      "id": 242
     },
     {
       "ru": "Любить",
@@ -1978,7 +1946,7 @@
       "ruTranscription": "сүю",
       "kkTranscription": "Süiu",
       "category": "verbs",
-      "id": 247
+      "id": 243
     },
     {
       "ru": "Хотеть",
@@ -1986,7 +1954,7 @@
       "ruTranscription": "қалау",
       "kkTranscription": "Qalau",
       "category": "verbs",
-      "id": 248
+      "id": 244
     },
     {
       "ru": "Мочь",
@@ -1994,7 +1962,7 @@
       "ruTranscription": "алу",
       "kkTranscription": "Alu",
       "category": "verbs",
-      "id": 249
+      "id": 245
     },
     {
       "ru": "Приходить",
@@ -2002,7 +1970,7 @@
       "ruTranscription": "келу",
       "kkTranscription": "Kelu",
       "category": "verbs",
-      "id": 250
+      "id": 246
     },
     {
       "ru": "Уходить",
@@ -2010,7 +1978,7 @@
       "ruTranscription": "кету",
       "kkTranscription": "Ketu",
       "category": "verbs",
-      "id": 251
+      "id": 247
     },
     {
       "ru": "Давать",
@@ -2018,7 +1986,7 @@
       "ruTranscription": "беру",
       "kkTranscription": "Beru",
       "category": "verbs",
-      "id": 252
+      "id": 248
     },
     {
       "ru": "Брать",
@@ -2026,7 +1994,7 @@
       "ruTranscription": "алу",
       "kkTranscription": "Alu",
       "category": "verbs",
-      "id": 253
+      "id": 249
     },
     {
       "ru": "Покупать",
@@ -2034,7 +2002,7 @@
       "ruTranscription": "сатып алу",
       "kkTranscription": "Satyp alu",
       "category": "verbs",
-      "id": 254
+      "id": 250
     },
     {
       "ru": "Продавать",
@@ -2042,7 +2010,7 @@
       "ruTranscription": "сату",
       "kkTranscription": "Satu",
       "category": "verbs",
-      "id": 255
+      "id": 251
     },
     {
       "ru": "Ждать",
@@ -2050,7 +2018,7 @@
       "ruTranscription": "күту",
       "kkTranscription": "Kütu",
       "category": "verbs",
-      "id": 256
+      "id": 252
     },
     {
       "ru": "Искать",
@@ -2058,7 +2026,7 @@
       "ruTranscription": "іздеу",
       "kkTranscription": "Izdeu",
       "category": "verbs",
-      "id": 257
+      "id": 253
     },
     {
       "ru": "Находить",
@@ -2066,7 +2034,7 @@
       "ruTranscription": "табу",
       "kkTranscription": "Tabu",
       "category": "verbs",
-      "id": 258
+      "id": 254
     },
     {
       "ru": "Открывать",
@@ -2074,7 +2042,7 @@
       "ruTranscription": "ашу",
       "kkTranscription": "Aşu",
       "category": "verbs",
-      "id": 259
+      "id": 255
     },
     {
       "ru": "Закрывать",
@@ -2082,7 +2050,7 @@
       "ruTranscription": "жабу",
       "kkTranscription": "Jabu",
       "category": "verbs",
-      "id": 260
+      "id": 256
     },
     {
       "ru": "Начинать",
@@ -2090,7 +2058,7 @@
       "ruTranscription": "бастау",
       "kkTranscription": "Bastau",
       "category": "verbs",
-      "id": 261
+      "id": 257
     },
     {
       "ru": "Заканчивать",
@@ -2098,7 +2066,7 @@
       "ruTranscription": "бітіру",
       "kkTranscription": "Bıtıru",
       "category": "verbs",
-      "id": 262
+      "id": 258
     },
     {
       "ru": "Помогать",
@@ -2106,7 +2074,7 @@
       "ruTranscription": "көмектесу",
       "kkTranscription": "Kömektesu",
       "category": "verbs",
-      "id": 263
+      "id": 259
     },
     {
       "ru": "Просить",
@@ -2114,7 +2082,7 @@
       "ruTranscription": "сұрау",
       "kkTranscription": "Sūrau",
       "category": "verbs",
-      "id": 264
+      "id": 260
     },
     {
       "ru": "Отвечать",
@@ -2122,7 +2090,7 @@
       "ruTranscription": "жауап беру",
       "kkTranscription": "Jauap beru",
       "category": "verbs",
-      "id": 265
+      "id": 261
     },
     {
       "ru": "Думать",
@@ -2130,7 +2098,7 @@
       "ruTranscription": "ойлау",
       "kkTranscription": "Oilau",
       "category": "verbs",
-      "id": 266
+      "id": 262
     },
     {
       "ru": "Помнить",
@@ -2138,7 +2106,7 @@
       "ruTranscription": "есте сақтау",
       "kkTranscription": "Este saqtau",
       "category": "verbs",
-      "id": 267
+      "id": 263
     },
     {
       "ru": "Забывать",
@@ -2146,7 +2114,7 @@
       "ruTranscription": "ұмыту",
       "kkTranscription": "Ūmytu",
       "category": "verbs",
-      "id": 268
+      "id": 264
     },
     {
       "ru": "Стоять",
@@ -2154,7 +2122,7 @@
       "ruTranscription": "тұру",
       "kkTranscription": "Tūru",
       "category": "verbs",
-      "id": 269
+      "id": 265
     },
     {
       "ru": "Сидеть",
@@ -2162,7 +2130,7 @@
       "ruTranscription": "отыру",
       "kkTranscription": "Otyru",
       "category": "verbs",
-      "id": 270
+      "id": 266
     },
     {
       "ru": "Лежать",
@@ -2170,7 +2138,7 @@
       "ruTranscription": "жату",
       "kkTranscription": "Jatu",
       "category": "verbs",
-      "id": 271
+      "id": 267
     },
     {
       "ru": "Бежать",
@@ -2178,7 +2146,7 @@
       "ruTranscription": "жүгіру",
       "kkTranscription": "Jügıru",
       "category": "verbs",
-      "id": 272
+      "id": 268
     },
     {
       "ru": "Плавать",
@@ -2186,7 +2154,7 @@
       "ruTranscription": "жүзу",
       "kkTranscription": "Jüzu",
       "category": "verbs",
-      "id": 273
+      "id": 269
     },
     {
       "ru": "Летать",
@@ -2194,7 +2162,7 @@
       "ruTranscription": "ұшу",
       "kkTranscription": "Ūşu",
       "category": "verbs",
-      "id": 274
+      "id": 270
     },
     {
       "ru": "Смеяться",
@@ -2202,7 +2170,7 @@
       "ruTranscription": "күлу",
       "kkTranscription": "Külu",
       "category": "verbs",
-      "id": 275
+      "id": 271
     },
     {
       "ru": "Плакать",
@@ -2210,7 +2178,7 @@
       "ruTranscription": "жылау",
       "kkTranscription": "Jylau",
       "category": "verbs",
-      "id": 276
+      "id": 272
     },
     {
       "ru": "Петь",
@@ -2218,7 +2186,7 @@
       "ruTranscription": "ән айту",
       "kkTranscription": "Än aitu",
       "category": "verbs",
-      "id": 277
+      "id": 273
     },
     {
       "ru": "Танцевать",
@@ -2226,7 +2194,7 @@
       "ruTranscription": "билеу",
       "kkTranscription": "Bileu",
       "category": "verbs",
-      "id": 278
+      "id": 274
     },
     {
       "ru": "Как у вас дела?",
@@ -2234,7 +2202,7 @@
       "ruTranscription": "жағдайыңыз қалай?",
       "kkTranscription": "Jağdaiyñyz qalai?",
       "category": "phrases",
-      "id": 279
+      "id": 275
     },
     {
       "ru": "У меня всё хорошо",
@@ -2242,7 +2210,7 @@
       "ruTranscription": "менде бәрі жақсы",
       "kkTranscription": "Mende bärı jaqsy",
       "category": "phrases",
-      "id": 280
+      "id": 276
     },
     {
       "ru": "Что нового?",
@@ -2250,7 +2218,7 @@
       "ruTranscription": "не жаңалық?",
       "kkTranscription": "Ne jañalyq?",
       "category": "phrases",
-      "id": 281
+      "id": 277
     },
     {
       "ru": "Ничего",
@@ -2258,7 +2226,7 @@
       "ruTranscription": "ештеңе",
       "kkTranscription": "Eşteñe",
       "category": "phrases",
-      "id": 282
+      "id": 278
     },
     {
       "ru": "Извините, пожалуйста",
@@ -2266,7 +2234,7 @@
       "ruTranscription": "кешіріңіз, мархабат",
       "kkTranscription": "Keşirıñız, marhabat",
       "category": "phrases",
-      "id": 283
+      "id": 279
     },
     {
       "ru": "Ничего страшного",
@@ -2274,7 +2242,7 @@
       "ruTranscription": "ештеңе емес",
       "kkTranscription": "Eşteñe emes",
       "category": "phrases",
-      "id": 284
+      "id": 280
     },
     {
       "ru": "Помогите, пожалуйста",
@@ -2282,7 +2250,7 @@
       "ruTranscription": "көмектесіңізші",
       "kkTranscription": "Kömektesıñızşı",
       "category": "phrases",
-      "id": 285
+      "id": 281
     },
     {
       "ru": "Я не понимаю",
@@ -2290,7 +2258,7 @@
       "ruTranscription": "мен түсінбеймін",
       "kkTranscription": "Men tüsınbeimin",
       "category": "phrases",
-      "id": 286
+      "id": 282
     },
     {
       "ru": "Повторите, пожалуйста",
@@ -2298,7 +2266,7 @@
       "ruTranscription": "қайталаңызшы",
       "kkTranscription": "Qaitalañyzşy",
       "category": "phrases",
-      "id": 287
+      "id": 283
     },
     {
       "ru": "Говорите медленнее",
@@ -2306,7 +2274,7 @@
       "ruTranscription": "баяуырақ сөйлеңіз",
       "kkTranscription": "Baiauyraq söileñız",
       "category": "phrases",
-      "id": 288
+      "id": 284
     },
     {
       "ru": "Сколько времени?",
@@ -2314,7 +2282,7 @@
       "ruTranscription": "сағат неше?",
       "kkTranscription": "Sağat neşe?",
       "category": "phrases",
-      "id": 289
+      "id": 285
     },
     {
       "ru": "Который час?",
@@ -2322,7 +2290,7 @@
       "ruTranscription": "сағат қанша?",
       "kkTranscription": "Sağat qanşa?",
       "category": "phrases",
-      "id": 290
+      "id": 286
     },
     {
       "ru": "Где находится туалет?",
@@ -2330,7 +2298,7 @@
       "ruTranscription": "дәретхана қайда?",
       "kkTranscription": "Därethana qaida?",
       "category": "phrases",
-      "id": 291
+      "id": 287
     },
     {
       "ru": "Сколько это стоит?",
@@ -2338,7 +2306,7 @@
       "ruTranscription": "бұл қанша тұрады?",
       "kkTranscription": "Bül qanşa turady?",
       "category": "phrases",
-      "id": 292
+      "id": 288
     },
     {
       "ru": "Можно померить?",
@@ -2346,7 +2314,7 @@
       "ruTranscription": "киіп көруге бола ма?",
       "kkTranscription": "Kiıp köruge bola ma?",
       "category": "phrases",
-      "id": 293
+      "id": 289
     },
     {
       "ru": "Мне нравится",
@@ -2354,7 +2322,7 @@
       "ruTranscription": "маған ұнайды",
       "kkTranscription": "Mağan ūnaidy",
       "category": "phrases",
-      "id": 294
+      "id": 290
     },
     {
       "ru": "Мне не нравится",
@@ -2362,7 +2330,7 @@
       "ruTranscription": "маған ұнамайды",
       "kkTranscription": "Mağan ūnamaidy",
       "category": "phrases",
-      "id": 295
+      "id": 291
     },
     {
       "ru": "Вкусно!",
@@ -2370,7 +2338,7 @@
       "ruTranscription": "дәмді!",
       "kkTranscription": "Dämdi!",
       "category": "phrases",
-      "id": 296
+      "id": 292
     },
     {
       "ru": "Будьте здоровы!",
@@ -2378,7 +2346,7 @@
       "ruTranscription": "аман-сау болыңыз!",
       "kkTranscription": "Aman-sau bolyñyz!",
       "category": "phrases",
-      "id": 297
+      "id": 293
     },
     {
       "ru": "Счастливого пути!",
@@ -2386,7 +2354,7 @@
       "ruTranscription": "жолыңыз болсын!",
       "kkTranscription": "Jolyñyz bolsyn!",
       "category": "phrases",
-      "id": 298
+      "id": 294
     },
     {
       "ru": "Поздравляю!",
@@ -2394,7 +2362,7 @@
       "ruTranscription": "құттықтаймын!",
       "kkTranscription": "Qūttyqtaimyn!",
       "category": "phrases",
-      "id": 299
+      "id": 295
     },
     {
       "ru": "Удачи!",
@@ -2402,7 +2370,7 @@
       "ruTranscription": "сәттілік!",
       "kkTranscription": "Sättılık!",
       "category": "phrases",
-      "id": 300
+      "id": 296
     },
     {
       "ru": "Приятно познакомиться",
@@ -2410,23 +2378,7 @@
       "ruTranscription": "танысқаныма қуаныштымын",
       "kkTranscription": "Tany sqanyma quanıştymyn",
       "category": "phrases",
-      "id": 301
-    },
-    {
-      "ru": "Как тебя зовут?",
-      "kk": "Атың кім?",
-      "ruTranscription": "атың кім?",
-      "kkTranscription": "Atyñ kım?",
-      "category": "phrases",
-      "id": 302
-    },
-    {
-      "ru": "Меня зовут...",
-      "kk": "Менің атым...",
-      "ruTranscription": "менің атым...",
-      "kkTranscription": "Menıñ atym...",
-      "category": "phrases",
-      "id": 303
+      "id": 297
     },
     {
       "ru": "Откуда вы?",
@@ -2434,7 +2386,7 @@
       "ruTranscription": "сіз қайдансыз?",
       "kkTranscription": "Sız qaidansyz?",
       "category": "phrases",
-      "id": 304
+      "id": 298
     },
     {
       "ru": "Я из России",
@@ -2442,7 +2394,7 @@
       "ruTranscription": "мен ресейденмін",
       "kkTranscription": "Men Reseidenmin",
       "category": "phrases",
-      "id": 305
+      "id": 299
     },
     {
       "ru": "Вы говорите по-русски?",
@@ -2450,7 +2402,7 @@
       "ruTranscription": "сіз орысша сөйлейсіз бе?",
       "kkTranscription": "Sız orysşa söileisız be?",
       "category": "phrases",
-      "id": 306
+      "id": 300
     },
     {
       "ru": "Я говорю по-казахски",
@@ -2458,7 +2410,7 @@
       "ruTranscription": "мен қазақша сөйлеймін",
       "kkTranscription": "Men qazaqşa söileimin",
       "category": "phrases",
-      "id": 307
+      "id": 301
     },
     {
       "ru": "Немного",
@@ -2466,7 +2418,7 @@
       "ruTranscription": "аздап",
       "kkTranscription": "Azdap",
       "category": "phrases",
-      "id": 308
+      "id": 302
     },
     {
       "ru": "Давайте встретимся",
@@ -2474,23 +2426,7 @@
       "ruTranscription": "кездесейік",
       "kkTranscription": "Kezdeseiık",
       "category": "phrases",
-      "id": 309
-    },
-    {
-      "ru": "Когда?",
-      "kk": "Қашан?",
-      "ruTranscription": "қашан?",
-      "kkTranscription": "Qaşan?",
-      "category": "phrases",
-      "id": 310
-    },
-    {
-      "ru": "Где?",
-      "kk": "Қайда?",
-      "ruTranscription": "қайда?",
-      "kkTranscription": "Qaida?",
-      "category": "phrases",
-      "id": 311
+      "id": 303
     },
     {
       "ru": "Можно войти?",
@@ -2498,7 +2434,7 @@
       "ruTranscription": "кіруге бола ма?",
       "kkTranscription": "Kıruge bola ma?",
       "category": "phrases",
-      "id": 312
+      "id": 304
     },
     {
       "ru": "Можно сесть?",
@@ -2506,7 +2442,7 @@
       "ruTranscription": "отыруға бола ма?",
       "kkTranscription": "Otyruğa bola ma?",
       "category": "phrases",
-      "id": 313
+      "id": 305
     },
     {
       "ru": "У вас есть...",
@@ -2514,7 +2450,7 @@
       "ruTranscription": "сізде... бар ма?",
       "kkTranscription": "Sızde... bar ma?",
       "category": "phrases",
-      "id": 314
+      "id": 306
     },
     {
       "ru": "Я хочу заказать",
@@ -2522,7 +2458,7 @@
       "ruTranscription": "мен тапсырыс бергім келеді",
       "kkTranscription": "Men tapsyrys bergım keledı",
       "category": "phrases",
-      "id": 315
+      "id": 307
     },
     {
       "ru": "Счет, пожалуйста",
@@ -2530,7 +2466,7 @@
       "ruTranscription": "есепшот, мархабат",
       "kkTranscription": "Esepşot, marhabat",
       "category": "phrases",
-      "id": 316
+      "id": 308
     },
     {
       "ru": "Всего хорошего!",
@@ -2538,7 +2474,7 @@
       "ruTranscription": "бәрі жақсы болсын!",
       "kkTranscription": "Bärı jaqsy bolsyn!",
       "category": "phrases",
-      "id": 317
+      "id": 309
     },
     {
       "ru": "До скорого!",
@@ -2546,7 +2482,7 @@
       "ruTranscription": "кездескенше!",
       "kkTranscription": "Kezdeskenşe!",
       "category": "phrases",
-      "id": 318
+      "id": 310
     },
     {
       "ru": "Бизнес",
@@ -2554,7 +2490,7 @@
       "ruTranscription": "бизнес",
       "kkTranscription": "Biznes",
       "category": "business",
-      "id": 319
+      "id": 311
     },
     {
       "ru": "Компания",
@@ -2562,7 +2498,7 @@
       "ruTranscription": "компания",
       "kkTranscription": "Kompania",
       "category": "business",
-      "id": 320
+      "id": 312
     },
     {
       "ru": "Фирма",
@@ -2570,7 +2506,7 @@
       "ruTranscription": "фирма",
       "kkTranscription": "Firma",
       "category": "business",
-      "id": 321
+      "id": 313
     },
     {
       "ru": "Офис",
@@ -2578,15 +2514,7 @@
       "ruTranscription": "кеңсе",
       "kkTranscription": "Keñse",
       "category": "business",
-      "id": 322
-    },
-    {
-      "ru": "Директор",
-      "kk": "Директор",
-      "ruTranscription": "директор",
-      "kkTranscription": "Direktor",
-      "category": "business",
-      "id": 323
+      "id": 314
     },
     {
       "ru": "Менеджер",
@@ -2594,7 +2522,7 @@
       "ruTranscription": "менеджер",
       "kkTranscription": "Menedžer",
       "category": "business",
-      "id": 324
+      "id": 315
     },
     {
       "ru": "Сотрудник",
@@ -2602,7 +2530,7 @@
       "ruTranscription": "қызметкер",
       "kkTranscription": "Qyzmetker",
       "category": "business",
-      "id": 325
+      "id": 316
     },
     {
       "ru": "Клиент",
@@ -2610,7 +2538,7 @@
       "ruTranscription": "клиент",
       "kkTranscription": "Klient",
       "category": "business",
-      "id": 326
+      "id": 317
     },
     {
       "ru": "Партнер",
@@ -2618,7 +2546,7 @@
       "ruTranscription": "серіктес",
       "kkTranscription": "Serıktes",
       "category": "business",
-      "id": 327
+      "id": 318
     },
     {
       "ru": "Контракт",
@@ -2626,7 +2554,7 @@
       "ruTranscription": "келісімшарт",
       "kkTranscription": "Kelısımşart",
       "category": "business",
-      "id": 328
+      "id": 319
     },
     {
       "ru": "Договор",
@@ -2634,7 +2562,7 @@
       "ruTranscription": "шарт",
       "kkTranscription": "Şart",
       "category": "business",
-      "id": 329
+      "id": 320
     },
     {
       "ru": "Сделка",
@@ -2642,7 +2570,7 @@
       "ruTranscription": "мәміле",
       "kkTranscription": "Mämıle",
       "category": "business",
-      "id": 330
+      "id": 321
     },
     {
       "ru": "Переговоры",
@@ -2650,7 +2578,7 @@
       "ruTranscription": "келіссөз",
       "kkTranscription": "Kelıssöz",
       "category": "business",
-      "id": 331
+      "id": 322
     },
     {
       "ru": "Встреча",
@@ -2658,7 +2586,7 @@
       "ruTranscription": "кездесу",
       "kkTranscription": "Kezdesu",
       "category": "business",
-      "id": 332
+      "id": 323
     },
     {
       "ru": "Презентация",
@@ -2666,7 +2594,7 @@
       "ruTranscription": "презентация",
       "kkTranscription": "Prezentatsia",
       "category": "business",
-      "id": 333
+      "id": 324
     },
     {
       "ru": "Отчет",
@@ -2674,7 +2602,7 @@
       "ruTranscription": "есеп",
       "kkTranscription": "Esep",
       "category": "business",
-      "id": 334
+      "id": 325
     },
     {
       "ru": "План",
@@ -2682,7 +2610,7 @@
       "ruTranscription": "жоспар",
       "kkTranscription": "Jospar",
       "category": "business",
-      "id": 335
+      "id": 326
     },
     {
       "ru": "Проект",
@@ -2690,7 +2618,7 @@
       "ruTranscription": "жоба",
       "kkTranscription": "Joba",
       "category": "business",
-      "id": 336
+      "id": 327
     },
     {
       "ru": "Прибыль",
@@ -2698,7 +2626,7 @@
       "ruTranscription": "пайда",
       "kkTranscription": "Paida",
       "category": "business",
-      "id": 337
+      "id": 328
     },
     {
       "ru": "Убыток",
@@ -2706,7 +2634,7 @@
       "ruTranscription": "шығын",
       "kkTranscription": "Şyğyn",
       "category": "business",
-      "id": 338
+      "id": 329
     },
     {
       "ru": "Инвестиция",
@@ -2714,7 +2642,7 @@
       "ruTranscription": "инвестиция",
       "kkTranscription": "Investitsia",
       "category": "business",
-      "id": 339
+      "id": 330
     },
     {
       "ru": "Рынок",
@@ -2722,7 +2650,7 @@
       "ruTranscription": "нарық",
       "kkTranscription": "Naryq",
       "category": "business",
-      "id": 340
+      "id": 331
     },
     {
       "ru": "Конкуренция",
@@ -2730,7 +2658,7 @@
       "ruTranscription": "бәсекелестік",
       "kkTranscription": "Bäsekielestık",
       "category": "business",
-      "id": 341
+      "id": 332
     },
     {
       "ru": "Цена",
@@ -2738,7 +2666,7 @@
       "ruTranscription": "баға",
       "kkTranscription": "Bağa",
       "category": "business",
-      "id": 342
+      "id": 333
     },
     {
       "ru": "Скидка",
@@ -2746,7 +2674,7 @@
       "ruTranscription": "жеңілдік",
       "kkTranscription": "Jeñıldık",
       "category": "business",
-      "id": 343
+      "id": 334
     },
     {
       "ru": "Зарплата",
@@ -2754,7 +2682,7 @@
       "ruTranscription": "жалақы",
       "kkTranscription": "Jalaqy",
       "category": "business",
-      "id": 344
+      "id": 335
     },
     {
       "ru": "Бонус",
@@ -2762,7 +2690,7 @@
       "ruTranscription": "бонус",
       "kkTranscription": "Bonus",
       "category": "business",
-      "id": 345
+      "id": 336
     },
     {
       "ru": "Вакансия",
@@ -2770,7 +2698,7 @@
       "ruTranscription": "бос орын",
       "kkTranscription": "Bos oryn",
       "category": "business",
-      "id": 346
+      "id": 337
     },
     {
       "ru": "Резюме",
@@ -2778,7 +2706,7 @@
       "ruTranscription": "түйіндеме",
       "kkTranscription": "Tüiındeme",
       "category": "business",
-      "id": 347
+      "id": 338
     },
     {
       "ru": "Собеседование",
@@ -2786,7 +2714,7 @@
       "ruTranscription": "сұхбат",
       "kkTranscription": "Sūhbat",
       "category": "business",
-      "id": 348
+      "id": 339
     },
     {
       "ru": "Путешествие",
@@ -2794,7 +2722,7 @@
       "ruTranscription": "саяхат",
       "kkTranscription": "Saiakhat",
       "category": "travel",
-      "id": 349
+      "id": 340
     },
     {
       "ru": "Туризм",
@@ -2802,7 +2730,7 @@
       "ruTranscription": "туризм",
       "kkTranscription": "Turizm",
       "category": "travel",
-      "id": 350
+      "id": 341
     },
     {
       "ru": "Турист",
@@ -2810,7 +2738,7 @@
       "ruTranscription": "турист",
       "kkTranscription": "Turist",
       "category": "travel",
-      "id": 351
+      "id": 342
     },
     {
       "ru": "Экскурсия",
@@ -2818,7 +2746,7 @@
       "ruTranscription": "экскурсия",
       "kkTranscription": "Ekskursiia",
       "category": "travel",
-      "id": 352
+      "id": 343
     },
     {
       "ru": "Отель",
@@ -2826,7 +2754,7 @@
       "ruTranscription": "қонақ үй",
       "kkTranscription": "Qonaq üi",
       "category": "travel",
-      "id": 353
+      "id": 344
     },
     {
       "ru": "Гостиница",
@@ -2834,7 +2762,7 @@
       "ruTranscription": "мейманхана",
       "kkTranscription": "Meimankhana",
       "category": "travel",
-      "id": 354
+      "id": 345
     },
     {
       "ru": "Номер",
@@ -2842,7 +2770,7 @@
       "ruTranscription": "бөлме",
       "kkTranscription": "Bölme",
       "category": "travel",
-      "id": 355
+      "id": 346
     },
     {
       "ru": "Бронь",
@@ -2850,7 +2778,7 @@
       "ruTranscription": "брондау",
       "kkTranscription": "Brondau",
       "category": "travel",
-      "id": 356
+      "id": 347
     },
     {
       "ru": "Заселиться",
@@ -2858,7 +2786,7 @@
       "ruTranscription": "орналасу",
       "kkTranscription": "Ornalasu",
       "category": "travel",
-      "id": 357
+      "id": 348
     },
     {
       "ru": "Выселиться",
@@ -2866,7 +2794,7 @@
       "ruTranscription": "шығу",
       "kkTranscription": "Şyğu",
       "category": "travel",
-      "id": 358
+      "id": 349
     },
     {
       "ru": "Паспорт",
@@ -2874,7 +2802,7 @@
       "ruTranscription": "паспорт",
       "kkTranscription": "Pasport",
       "category": "travel",
-      "id": 359
+      "id": 350
     },
     {
       "ru": "Виза",
@@ -2882,7 +2810,7 @@
       "ruTranscription": "виза",
       "kkTranscription": "Viza",
       "category": "travel",
-      "id": 360
+      "id": 351
     },
     {
       "ru": "Багаж",
@@ -2890,7 +2818,7 @@
       "ruTranscription": "жүк",
       "kkTranscription": "Jük",
       "category": "travel",
-      "id": 361
+      "id": 352
     },
     {
       "ru": "Ручная кладь",
@@ -2898,7 +2826,7 @@
       "ruTranscription": "қол жүгі",
       "kkTranscription": "Qol jügı",
       "category": "travel",
-      "id": 362
+      "id": 353
     },
     {
       "ru": "Рейс",
@@ -2906,7 +2834,7 @@
       "ruTranscription": "рейс",
       "kkTranscription": "Reis",
       "category": "travel",
-      "id": 363
+      "id": 354
     },
     {
       "ru": "Посадка",
@@ -2914,7 +2842,7 @@
       "ruTranscription": "отырғызу",
       "kkTranscription": "Otyrğyzu",
       "category": "travel",
-      "id": 364
+      "id": 355
     },
     {
       "ru": "Тур",
@@ -2922,7 +2850,7 @@
       "ruTranscription": "тур",
       "kkTranscription": "Tur",
       "category": "travel",
-      "id": 365
+      "id": 356
     },
     {
       "ru": "Гид",
@@ -2930,7 +2858,7 @@
       "ruTranscription": "гид",
       "kkTranscription": "Gid",
       "category": "travel",
-      "id": 366
+      "id": 357
     },
     {
       "ru": "Достопримечательность",
@@ -2938,7 +2866,7 @@
       "ruTranscription": "көрікті жер",
       "kkTranscription": "Köriktı jer",
       "category": "travel",
-      "id": 367
+      "id": 358
     },
     {
       "ru": "Музей",
@@ -2946,7 +2874,7 @@
       "ruTranscription": "мұражай",
       "kkTranscription": "Mūrajai",
       "category": "travel",
-      "id": 368
+      "id": 359
     },
     {
       "ru": "Пляж",
@@ -2954,7 +2882,7 @@
       "ruTranscription": "жағажай",
       "kkTranscription": "Jağajai",
       "category": "travel",
-      "id": 369
+      "id": 360
     },
     {
       "ru": "Горы",
@@ -2962,7 +2890,7 @@
       "ruTranscription": "таулар",
       "kkTranscription": "Taular",
       "category": "travel",
-      "id": 370
+      "id": 361
     },
     {
       "ru": "Карта",
@@ -2970,7 +2898,7 @@
       "ruTranscription": "карта",
       "kkTranscription": "Karta",
       "category": "travel",
-      "id": 371
+      "id": 362
     },
     {
       "ru": "Туристическое агентство",
@@ -2978,15 +2906,7 @@
       "ruTranscription": "туристік агенттік",
       "kkTranscription": "Turistık agenttık",
       "category": "travel",
-      "id": 372
-    },
-    {
-      "ru": "Дом",
-      "kk": "Үй",
-      "ruTranscription": "үй",
-      "kkTranscription": "Üi",
-      "category": "house",
-      "id": 373
+      "id": 363
     },
     {
       "ru": "Квартира",
@@ -2994,7 +2914,7 @@
       "ruTranscription": "пәтер",
       "kkTranscription": "Päter",
       "category": "house",
-      "id": 374
+      "id": 364
     },
     {
       "ru": "Комната",
@@ -3002,7 +2922,7 @@
       "ruTranscription": "бөлме",
       "kkTranscription": "Bölme",
       "category": "house",
-      "id": 375
+      "id": 365
     },
     {
       "ru": "Кухня",
@@ -3010,7 +2930,7 @@
       "ruTranscription": "асхана",
       "kkTranscription": "Askhana",
       "category": "house",
-      "id": 376
+      "id": 366
     },
     {
       "ru": "Ванная",
@@ -3018,7 +2938,7 @@
       "ruTranscription": "жуынатын бөлме",
       "kkTranscription": "Juynatyn bölme",
       "category": "house",
-      "id": 377
+      "id": 367
     },
     {
       "ru": "Спальня",
@@ -3026,7 +2946,7 @@
       "ruTranscription": "ұйықтайтын бөлме",
       "kkTranscription": "Ūiyqtaityn bölme",
       "category": "house",
-      "id": 378
+      "id": 368
     },
     {
       "ru": "Гостиная",
@@ -3034,7 +2954,7 @@
       "ruTranscription": "қонақ бөлме",
       "kkTranscription": "Qonaq bölme",
       "category": "house",
-      "id": 379
+      "id": 369
     },
     {
       "ru": "Коридор",
@@ -3042,7 +2962,7 @@
       "ruTranscription": "дәліз",
       "kkTranscription": "Dälız",
       "category": "house",
-      "id": 380
+      "id": 370
     },
     {
       "ru": "Балкон",
@@ -3050,7 +2970,7 @@
       "ruTranscription": "балкон",
       "kkTranscription": "Balkon",
       "category": "house",
-      "id": 381
+      "id": 371
     },
     {
       "ru": "Дверь",
@@ -3058,7 +2978,7 @@
       "ruTranscription": "есік",
       "kkTranscription": "Esık",
       "category": "house",
-      "id": 382
+      "id": 372
     },
     {
       "ru": "Окно",
@@ -3066,7 +2986,7 @@
       "ruTranscription": "терезе",
       "kkTranscription": "Tereze",
       "category": "house",
-      "id": 383
+      "id": 373
     },
     {
       "ru": "Стол",
@@ -3074,7 +2994,7 @@
       "ruTranscription": "үстел",
       "kkTranscription": "Üstel",
       "category": "house",
-      "id": 384
+      "id": 374
     },
     {
       "ru": "Стул",
@@ -3082,7 +3002,7 @@
       "ruTranscription": "орындық",
       "kkTranscription": "Oryndyq",
       "category": "house",
-      "id": 385
+      "id": 375
     },
     {
       "ru": "Диван",
@@ -3090,7 +3010,7 @@
       "ruTranscription": "диван",
       "kkTranscription": "Divan",
       "category": "house",
-      "id": 386
+      "id": 376
     },
     {
       "ru": "Кровать",
@@ -3098,7 +3018,7 @@
       "ruTranscription": "кереует",
       "kkTranscription": "Kereuet",
       "category": "house",
-      "id": 387
+      "id": 377
     },
     {
       "ru": "Шкаф",
@@ -3106,7 +3026,7 @@
       "ruTranscription": "шкаф",
       "kkTranscription": "Şkaf",
       "category": "house",
-      "id": 388
+      "id": 378
     },
     {
       "ru": "Холодильник",
@@ -3114,7 +3034,7 @@
       "ruTranscription": "тоңазытқыш",
       "kkTranscription": "Toñazytqyş",
       "category": "house",
-      "id": 389
+      "id": 379
     },
     {
       "ru": "Плита",
@@ -3122,7 +3042,7 @@
       "ruTranscription": "плита",
       "kkTranscription": "Plita",
       "category": "house",
-      "id": 390
+      "id": 380
     },
     {
       "ru": "Микроволновка",
@@ -3130,7 +3050,7 @@
       "ruTranscription": "микротолқынды пеш",
       "kkTranscription": "Mikrotolqyndy peş",
       "category": "house",
-      "id": 391
+      "id": 381
     },
     {
       "ru": "Стиральная машина",
@@ -3138,7 +3058,7 @@
       "ruTranscription": "кір жуатын машина",
       "kkTranscription": "Kır juatyn mashina",
       "category": "house",
-      "id": 392
+      "id": 382
     },
     {
       "ru": "Пылесос",
@@ -3146,7 +3066,7 @@
       "ruTranscription": "шаңсорғыш",
       "kkTranscription": "Şañsorğyş",
       "category": "house",
-      "id": 393
+      "id": 383
     },
     {
       "ru": "Лампа",
@@ -3154,7 +3074,7 @@
       "ruTranscription": "шам",
       "kkTranscription": "Şam",
       "category": "house",
-      "id": 394
+      "id": 384
     },
     {
       "ru": "Зеркало",
@@ -3162,7 +3082,7 @@
       "ruTranscription": "айна",
       "kkTranscription": "Aina",
       "category": "house",
-      "id": 395
+      "id": 385
     },
     {
       "ru": "Ковер",
@@ -3170,7 +3090,7 @@
       "ruTranscription": "кілем",
       "kkTranscription": "Kılem",
       "category": "house",
-      "id": 396
+      "id": 386
     },
     {
       "ru": "Телевизор",
@@ -3178,7 +3098,7 @@
       "ruTranscription": "теледидар",
       "kkTranscription": "Teledidar",
       "category": "house",
-      "id": 397
+      "id": 387
     },
     {
       "ru": "Животное",
@@ -3186,7 +3106,7 @@
       "ruTranscription": "жануар",
       "kkTranscription": "Januar",
       "category": "animals",
-      "id": 398
+      "id": 388
     },
     {
       "ru": "Домашнее животное",
@@ -3194,7 +3114,7 @@
       "ruTranscription": "үй жануары",
       "kkTranscription": "Üi january",
       "category": "animals",
-      "id": 399
+      "id": 389
     },
     {
       "ru": "Собака",
@@ -3202,7 +3122,7 @@
       "ruTranscription": "ит",
       "kkTranscription": "It",
       "category": "animals",
-      "id": 400
+      "id": 390
     },
     {
       "ru": "Кошка",
@@ -3210,7 +3130,7 @@
       "ruTranscription": "мысық",
       "kkTranscription": "Mysyq",
       "category": "animals",
-      "id": 401
+      "id": 391
     },
     {
       "ru": "Корова",
@@ -3218,7 +3138,7 @@
       "ruTranscription": "сиыр",
       "kkTranscription": "Siyr",
       "category": "animals",
-      "id": 402
+      "id": 392
     },
     {
       "ru": "Лошадь",
@@ -3226,7 +3146,7 @@
       "ruTranscription": "жылқы",
       "kkTranscription": "Jylqy",
       "category": "animals",
-      "id": 403
+      "id": 393
     },
     {
       "ru": "Овца",
@@ -3234,7 +3154,7 @@
       "ruTranscription": "қой",
       "kkTranscription": "Qoi",
       "category": "animals",
-      "id": 404
+      "id": 394
     },
     {
       "ru": "Коза",
@@ -3242,7 +3162,7 @@
       "ruTranscription": "ешкі",
       "kkTranscription": "Eşkı",
       "category": "animals",
-      "id": 405
+      "id": 395
     },
     {
       "ru": "Свинья",
@@ -3250,7 +3170,7 @@
       "ruTranscription": "шошқа",
       "kkTranscription": "Şoşqa",
       "category": "animals",
-      "id": 406
+      "id": 396
     },
     {
       "ru": "Курица",
@@ -3258,7 +3178,7 @@
       "ruTranscription": "тауық",
       "kkTranscription": "Tauyq",
       "category": "animals",
-      "id": 407
+      "id": 397
     },
     {
       "ru": "Птица",
@@ -3266,7 +3186,7 @@
       "ruTranscription": "құс",
       "kkTranscription": "Qūs",
       "category": "animals",
-      "id": 408
+      "id": 398
     },
     {
       "ru": "Рыба",
@@ -3274,7 +3194,7 @@
       "ruTranscription": "балық",
       "kkTranscription": "Balyq",
       "category": "animals",
-      "id": 409
+      "id": 399
     },
     {
       "ru": "Волк",
@@ -3282,7 +3202,7 @@
       "ruTranscription": "қасқыр",
       "kkTranscription": "Qasqyr",
       "category": "animals",
-      "id": 410
+      "id": 400
     },
     {
       "ru": "Лиса",
@@ -3290,7 +3210,7 @@
       "ruTranscription": "түлкі",
       "kkTranscription": "Tülkı",
       "category": "animals",
-      "id": 411
+      "id": 401
     },
     {
       "ru": "Медведь",
@@ -3298,7 +3218,7 @@
       "ruTranscription": "аю",
       "kkTranscription": "Aiu",
       "category": "animals",
-      "id": 412
+      "id": 402
     },
     {
       "ru": "Заяц",
@@ -3306,7 +3226,7 @@
       "ruTranscription": "қоян",
       "kkTranscription": "Qoian",
       "category": "animals",
-      "id": 413
+      "id": 403
     },
     {
       "ru": "Мышь",
@@ -3314,15 +3234,7 @@
       "ruTranscription": "тышқан",
       "kkTranscription": "Tyşqan",
       "category": "animals",
-      "id": 414
-    },
-    {
-      "ru": "Птица",
-      "kk": "Құс",
-      "ruTranscription": "құс",
-      "kkTranscription": "Qūs",
-      "category": "animals",
-      "id": 415
+      "id": 404
     },
     {
       "ru": "Орел",
@@ -3330,7 +3242,7 @@
       "ruTranscription": "бүркіт",
       "kkTranscription": "Bürkıt",
       "category": "animals",
-      "id": 416
+      "id": 405
     },
     {
       "ru": "Верблюд",
@@ -3338,7 +3250,7 @@
       "ruTranscription": "түйе",
       "kkTranscription": "Tüie",
       "category": "animals",
-      "id": 417
+      "id": 406
     },
     {
       "ru": "Слон",
@@ -3346,7 +3258,7 @@
       "ruTranscription": "піл",
       "kkTranscription": "Pıl",
       "category": "animals",
-      "id": 418
+      "id": 407
     },
     {
       "ru": "Лев",
@@ -3354,7 +3266,7 @@
       "ruTranscription": "арыстан",
       "kkTranscription": "Arystan",
       "category": "animals",
-      "id": 419
+      "id": 408
     },
     {
       "ru": "Тигр",
@@ -3362,7 +3274,7 @@
       "ruTranscription": "жолбарыс",
       "kkTranscription": "Jolbarys",
       "category": "animals",
-      "id": 420
+      "id": 409
     },
     {
       "ru": "Обезьяна",
@@ -3370,7 +3282,7 @@
       "ruTranscription": "маймыл",
       "kkTranscription": "Maimyl",
       "category": "animals",
-      "id": 421
+      "id": 410
     },
     {
       "ru": "Змея",
@@ -3378,7 +3290,7 @@
       "ruTranscription": "жылан",
       "kkTranscription": "Jylan",
       "category": "animals",
-      "id": 422
+      "id": 411
     },
     {
       "ru": "Спорт",
@@ -3386,7 +3298,7 @@
       "ruTranscription": "спорт",
       "kkTranscription": "Sport",
       "category": "sports",
-      "id": 423
+      "id": 412
     },
     {
       "ru": "Футбол",
@@ -3394,7 +3306,7 @@
       "ruTranscription": "футбол",
       "kkTranscription": "Futbol",
       "category": "sports",
-      "id": 424
+      "id": 413
     },
     {
       "ru": "Баскетбол",
@@ -3402,7 +3314,7 @@
       "ruTranscription": "баскетбол",
       "kkTranscription": "Basketbol",
       "category": "sports",
-      "id": 425
+      "id": 414
     },
     {
       "ru": "Волейбол",
@@ -3410,7 +3322,7 @@
       "ruTranscription": "волейбол",
       "kkTranscription": "Voleibol",
       "category": "sports",
-      "id": 426
+      "id": 415
     },
     {
       "ru": "Теннис",
@@ -3418,7 +3330,7 @@
       "ruTranscription": "теннис",
       "kkTranscription": "Tennis",
       "category": "sports",
-      "id": 427
+      "id": 416
     },
     {
       "ru": "Хоккей",
@@ -3426,7 +3338,7 @@
       "ruTranscription": "хоккей",
       "kkTranscription": "Hokkei",
       "category": "sports",
-      "id": 428
+      "id": 417
     },
     {
       "ru": "Бег",
@@ -3434,7 +3346,7 @@
       "ruTranscription": "жүгіру",
       "kkTranscription": "Jügıru",
       "category": "sports",
-      "id": 429
+      "id": 418
     },
     {
       "ru": "Плавание",
@@ -3442,7 +3354,7 @@
       "ruTranscription": "жүзу",
       "kkTranscription": "Jüzu",
       "category": "sports",
-      "id": 430
+      "id": 419
     },
     {
       "ru": "Лыжи",
@@ -3450,7 +3362,7 @@
       "ruTranscription": "шаңғы",
       "kkTranscription": "Şañğy",
       "category": "sports",
-      "id": 431
+      "id": 420
     },
     {
       "ru": "Велоспорт",
@@ -3458,7 +3370,7 @@
       "ruTranscription": "велоспорт",
       "kkTranscription": "Velosport",
       "category": "sports",
-      "id": 432
+      "id": 421
     },
     {
       "ru": "Бокс",
@@ -3466,7 +3378,7 @@
       "ruTranscription": "бокс",
       "kkTranscription": "Boks",
       "category": "sports",
-      "id": 433
+      "id": 422
     },
     {
       "ru": "Борьба",
@@ -3474,7 +3386,7 @@
       "ruTranscription": "күрес",
       "kkTranscription": "Küres",
       "category": "sports",
-      "id": 434
+      "id": 423
     },
     {
       "ru": "Тренажерный зал",
@@ -3482,7 +3394,7 @@
       "ruTranscription": "спорт зал",
       "kkTranscription": "Sport zal",
       "category": "sports",
-      "id": 435
+      "id": 424
     },
     {
       "ru": "Стадион",
@@ -3490,7 +3402,7 @@
       "ruTranscription": "стадион",
       "kkTranscription": "Stadion",
       "category": "sports",
-      "id": 436
+      "id": 425
     },
     {
       "ru": "Команда",
@@ -3498,7 +3410,7 @@
       "ruTranscription": "команда",
       "kkTranscription": "Komanda",
       "category": "sports",
-      "id": 437
+      "id": 426
     },
     {
       "ru": "Игрок",
@@ -3506,7 +3418,7 @@
       "ruTranscription": "ойыншы",
       "kkTranscription": "Oiynşy",
       "category": "sports",
-      "id": 438
+      "id": 427
     },
     {
       "ru": "Тренер",
@@ -3514,7 +3426,7 @@
       "ruTranscription": "жаттықтырушы",
       "kkTranscription": "Jattyqtyruşy",
       "category": "sports",
-      "id": 439
+      "id": 428
     },
     {
       "ru": "Соревнование",
@@ -3522,7 +3434,7 @@
       "ruTranscription": "жарыс",
       "kkTranscription": "Jarys",
       "category": "sports",
-      "id": 440
+      "id": 429
     },
     {
       "ru": "Победа",
@@ -3530,7 +3442,7 @@
       "ruTranscription": "жеңіс",
       "kkTranscription": "Jeñıs",
       "category": "sports",
-      "id": 441
+      "id": 430
     },
     {
       "ru": "Мяч",
@@ -3538,7 +3450,7 @@
       "ruTranscription": "доп",
       "kkTranscription": "Dop",
       "category": "sports",
-      "id": 442
+      "id": 431
     },
     {
       "ru": "Ворота",
@@ -3546,375 +3458,183 @@
       "ruTranscription": "қақпа",
       "kkTranscription": "Qaqpa",
       "category": "sports",
-      "id": 443
+      "id": 432
     },
     {
       "ru": "Технология",
       "kk": "Технология",
       "ruTranscription": "технология",
       "kkTranscription": "Tekhnologiia",
+      "category": "technology",
+      "id": 433
+    },
+    {
+      "ru": "Компьютер",
+      "kk": "Компьютер",
+      "ruTranscription": "компьютер",
+      "kkTranscription": "Kompiuter",
+      "category": "technology",
+      "id": 434
+    },
+    {
+      "ru": "Ноутбук",
+      "kk": "Ноутбук",
+      "ruTranscription": "ноутбук",
+      "kkTranscription": "Noutbuk",
+      "category": "technology",
+      "id": 435
+    },
+    {
+      "ru": "Телефон",
+      "kk": "Телефон",
+      "ruTranscription": "телефон",
+      "kkTranscription": "Telefon",
+      "category": "technology",
+      "id": 436
+    },
+    {
+      "ru": "Смартфон",
+      "kk": "Смартфон",
+      "ruTranscription": "смартфон",
+      "kkTranscription": "Smartfon",
+      "category": "technology",
+      "id": 437
+    },
+    {
+      "ru": "Планшет",
+      "kk": "Планшет",
+      "ruTranscription": "планшет",
+      "kkTranscription": "Planshet",
+      "category": "technology",
+      "id": 438
+    },
+    {
+      "ru": "Интернет",
+      "kk": "Интернет",
+      "ruTranscription": "интернет",
+      "kkTranscription": "Internet",
+      "category": "technology",
+      "id": 439
+    },
+    {
+      "ru": "Сайт",
+      "kk": "Сайт",
+      "ruTranscription": "сайт",
+      "kkTranscription": "Sait",
+      "category": "technology",
+      "id": 440
+    },
+    {
+      "ru": "Приложение",
+      "kk": "Қосымша",
+      "ruTranscription": "қосымша",
+      "kkTranscription": "Qosymşa",
+      "category": "technology",
+      "id": 441
+    },
+    {
+      "ru": "Программа",
+      "kk": "Бағдарлама",
+      "ruTranscription": "бағдарлама",
+      "kkTranscription": "Bağdarlama",
+      "category": "technology",
+      "id": 442
+    },
+    {
+      "ru": "Экран",
+      "kk": "Экран",
+      "ruTranscription": "экран",
+      "kkTranscription": "Ekran",
+      "category": "technology",
+      "id": 443
+    },
+    {
+      "ru": "Клавиатура",
+      "kk": "Пернетақта",
+      "ruTranscription": "пернетақта",
+      "kkTranscription": "Pernetaqta",
       "category": "technology",
       "id": 444
     },
     {
-      "ru": "Компьютер",
-      "kk": "Компьютер",
-      "ruTranscription": "компьютер",
-      "kkTranscription": "Kompiuter",
+      "ru": "Зарядка",
+      "kk": "Зарядтағыш",
+      "ruTranscription": "зарядтағыш",
+      "kkTranscription": "Zaryadtağyş",
       "category": "technology",
       "id": 445
     },
     {
-      "ru": "Ноутбук",
-      "kk": "Ноутбук",
-      "ruTranscription": "ноутбук",
-      "kkTranscription": "Noutbuk",
+      "ru": "Батарея",
+      "kk": "Батарея",
+      "ruTranscription": "батарея",
+      "kkTranscription": "Batareia",
       "category": "technology",
       "id": 446
     },
     {
-      "ru": "Телефон",
-      "kk": "Телефон",
-      "ruTranscription": "телефон",
-      "kkTranscription": "Telefon",
+      "ru": "Wi-Fi",
+      "kk": "Wi-Fi",
+      "ruTranscription": "вай-фай",
+      "kkTranscription": "Wai-Fai",
       "category": "technology",
       "id": 447
     },
     {
-      "ru": "Смартфон",
-      "kk": "Смартфон",
-      "ruTranscription": "смартфон",
-      "kkTranscription": "Smartfon",
+      "ru": "Пароль",
+      "kk": "Құпиясөз",
+      "ruTranscription": "құпиясөз",
+      "kkTranscription": "Qūpiasöz",
       "category": "technology",
       "id": 448
     },
     {
-      "ru": "Планшет",
-      "kk": "Планшет",
-      "ruTranscription": "планшет",
-      "kkTranscription": "Planshet",
+      "ru": "Фото",
+      "kk": "Сурет",
+      "ruTranscription": "сурет",
+      "kkTranscription": "Süret",
       "category": "technology",
       "id": 449
     },
     {
-      "ru": "Интернет",
-      "kk": "Интернет",
-      "ruTranscription": "интернет",
-      "kkTranscription": "Internet",
+      "ru": "Видео",
+      "kk": "Бейне",
+      "ruTranscription": "бейне",
+      "kkTranscription": "Beine",
       "category": "technology",
       "id": 450
     },
     {
-      "ru": "Сайт",
-      "kk": "Сайт",
-      "ruTranscription": "сайт",
-      "kkTranscription": "Sait",
+      "ru": "Звук",
+      "kk": "Дыбыс",
+      "ruTranscription": "дыбыс",
+      "kkTranscription": "Dybys",
       "category": "technology",
       "id": 451
     },
     {
-      "ru": "Приложение",
-      "kk": "Қосымша",
-      "ruTranscription": "қосымша",
-      "kkTranscription": "Qosymşa",
+      "ru": "Настройки",
+      "kk": "Баптаулар",
+      "ruTranscription": "баптаулар",
+      "kkTranscription": "Baptaular",
       "category": "technology",
       "id": 452
     },
     {
-      "ru": "Программа",
-      "kk": "Бағдарлама",
-      "ruTranscription": "бағдарлама",
-      "kkTranscription": "Bağdarlama",
+      "ru": "Обновление",
+      "kk": "Жаңарту",
+      "ruTranscription": "жаңарту",
+      "kkTranscription": "Jañartu",
       "category": "technology",
       "id": 453
     },
     {
-      "ru": "Экран",
-      "kk": "Экран",
-      "ruTranscription": "экран",
-      "kkTranscription": "Ekran",
+      "ru": "Ошибка",
+      "kk": "Қате",
+      "ruTranscription": "қате",
+      "kkTranscription": "Qate",
       "category": "technology",
       "id": 454
-    },
-    {
-      "ru": "Клавиатура",
-      "kk": "Пернетақта",
-      "ruTranscription": "пернетақта",
-      "kkTranscription": "Pernetaqta",
-      "category": "technology",
-      "id": 455
-    },
-    {
-      "ru": "Мышь",
-      "kk": "Тышқан",
-      "ruTranscription": "тышқан",
-      "kkTranscription": "Tyşqan",
-      "category": "technology",
-      "id": 456
-    },
-    {
-      "ru": "Зарядка",
-      "kk": "Зарядтағыш",
-      "ruTranscription": "зарядтағыш",
-      "kkTranscription": "Zaryadtağyş",
-      "category": "technology",
-      "id": 457
-    },
-    {
-      "ru": "Батарея",
-      "kk": "Батарея",
-      "ruTranscription": "батарея",
-      "kkTranscription": "Batareia",
-      "category": "technology",
-      "id": 458
-    },
-    {
-      "ru": "Wi-Fi",
-      "kk": "Wi-Fi",
-      "ruTranscription": "вай-фай",
-      "kkTranscription": "Wai-Fai",
-      "category": "technology",
-      "id": 459
-    },
-    {
-      "ru": "Пароль",
-      "kk": "Құпиясөз",
-      "ruTranscription": "құпиясөз",
-      "kkTranscription": "Qūpiasöz",
-      "category": "technology",
-      "id": 460
-    },
-    {
-      "ru": "Фото",
-      "kk": "Сурет",
-      "ruTranscription": "сурет",
-      "kkTranscription": "Süret",
-      "category": "technology",
-      "id": 461
-    },
-    {
-      "ru": "Видео",
-      "kk": "Бейне",
-      "ruTranscription": "бейне",
-      "kkTranscription": "Beine",
-      "category": "technology",
-      "id": 462
-    },
-    {
-      "ru": "Звук",
-      "kk": "Дыбыс",
-      "ruTranscription": "дыбыс",
-      "kkTranscription": "Dybys",
-      "category": "technology",
-      "id": 463
-    },
-    {
-      "ru": "Настройки",
-      "kk": "Баптаулар",
-      "ruTranscription": "баптаулар",
-      "kkTranscription": "Baptaular",
-      "category": "technology",
-      "id": 464
-    },
-    {
-      "ru": "Обновление",
-      "kk": "Жаңарту",
-      "ruTranscription": "жаңарту",
-      "kkTranscription": "Jañartu",
-      "category": "technology",
-      "id": 465
-    },
-    {
-      "ru": "Ошибка",
-      "kk": "Қате",
-      "ruTranscription": "қате",
-      "kkTranscription": "Qate",
-      "category": "technology",
-      "id": 466
-    },
-    {
-      "ru": "Технология",
-      "kk": "Технология",
-      "ruTranscription": "технология",
-      "kkTranscription": "Tekhnologiia",
-      "category": "technology",
-      "id": 467
-    },
-    {
-      "ru": "Компьютер",
-      "kk": "Компьютер",
-      "ruTranscription": "компьютер",
-      "kkTranscription": "Kompiuter",
-      "category": "technology",
-      "id": 468
-    },
-    {
-      "ru": "Ноутбук",
-      "kk": "Ноутбук",
-      "ruTranscription": "ноутбук",
-      "kkTranscription": "Noutbuk",
-      "category": "technology",
-      "id": 469
-    },
-    {
-      "ru": "Телефон",
-      "kk": "Телефон",
-      "ruTranscription": "телефон",
-      "kkTranscription": "Telefon",
-      "category": "technology",
-      "id": 470
-    },
-    {
-      "ru": "Смартфон",
-      "kk": "Смартфон",
-      "ruTranscription": "смартфон",
-      "kkTranscription": "Smartfon",
-      "category": "technology",
-      "id": 471
-    },
-    {
-      "ru": "Планшет",
-      "kk": "Планшет",
-      "ruTranscription": "планшет",
-      "kkTranscription": "Planshet",
-      "category": "technology",
-      "id": 472
-    },
-    {
-      "ru": "Интернет",
-      "kk": "Интернет",
-      "ruTranscription": "интернет",
-      "kkTranscription": "Internet",
-      "category": "technology",
-      "id": 473
-    },
-    {
-      "ru": "Сайт",
-      "kk": "Сайт",
-      "ruTranscription": "сайт",
-      "kkTranscription": "Sait",
-      "category": "technology",
-      "id": 474
-    },
-    {
-      "ru": "Приложение",
-      "kk": "Қосымша",
-      "ruTranscription": "қосымша",
-      "kkTranscription": "Qosymşa",
-      "category": "technology",
-      "id": 475
-    },
-    {
-      "ru": "Программа",
-      "kk": "Бағдарлама",
-      "ruTranscription": "бағдарлама",
-      "kkTranscription": "Bağdarlama",
-      "category": "technology",
-      "id": 476
-    },
-    {
-      "ru": "Экран",
-      "kk": "Экран",
-      "ruTranscription": "экран",
-      "kkTranscription": "Ekran",
-      "category": "technology",
-      "id": 477
-    },
-    {
-      "ru": "Клавиатура",
-      "kk": "Пернетақта",
-      "ruTranscription": "пернетақта",
-      "kkTranscription": "Pernetaqta",
-      "category": "technology",
-      "id": 478
-    },
-    {
-      "ru": "Мышь",
-      "kk": "Тышқан",
-      "ruTranscription": "тышқан",
-      "kkTranscription": "Tyşqan",
-      "category": "technology",
-      "id": 479
-    },
-    {
-      "ru": "Зарядка",
-      "kk": "Зарядтағыш",
-      "ruTranscription": "зарядтағыш",
-      "kkTranscription": "Zaryadtağyş",
-      "category": "technology",
-      "id": 480
-    },
-    {
-      "ru": "Батарея",
-      "kk": "Батарея",
-      "ruTranscription": "батарея",
-      "kkTranscription": "Batareia",
-      "category": "technology",
-      "id": 481
-    },
-    {
-      "ru": "Wi-Fi",
-      "kk": "Wi-Fi",
-      "ruTranscription": "вай-фай",
-      "kkTranscription": "Wai-Fai",
-      "category": "technology",
-      "id": 482
-    },
-    {
-      "ru": "Пароль",
-      "kk": "Құпиясөз",
-      "ruTranscription": "құпиясөз",
-      "kkTranscription": "Qūpiasöz",
-      "category": "technology",
-      "id": 483
-    },
-    {
-      "ru": "Фото",
-      "kk": "Сурет",
-      "ruTranscription": "сурет",
-      "kkTranscription": "Süret",
-      "category": "technology",
-      "id": 484
-    },
-    {
-      "ru": "Видео",
-      "kk": "Бейне",
-      "ruTranscription": "бейне",
-      "kkTranscription": "Beine",
-      "category": "technology",
-      "id": 485
-    },
-    {
-      "ru": "Звук",
-      "kk": "Дыбыс",
-      "ruTranscription": "дыбыс",
-      "kkTranscription": "Dybys",
-      "category": "technology",
-      "id": 486
-    },
-    {
-      "ru": "Настройки",
-      "kk": "Баптаулар",
-      "ruTranscription": "баптаулар",
-      "kkTranscription": "Baptaular",
-      "category": "technology",
-      "id": 487
-    },
-    {
-      "ru": "Обновление",
-      "kk": "Жаңарту",
-      "ruTranscription": "жаңарту",
-      "kkTranscription": "Jañartu",
-      "category": "technology",
-      "id": 488
-    },
-    {
-      "ru": "Ошибка",
-      "kk": "Қате",
-      "ruTranscription": "қате",
-      "kkTranscription": "Qate",
-      "category": "technology",
-      "id": 489
     },
     {
       "ru": "Образование",
@@ -3922,23 +3642,7 @@
       "ruTranscription": "білім",
       "kkTranscription": "Bılım",
       "category": "education",
-      "id": 490
-    },
-    {
-      "ru": "Школа",
-      "kk": "Мектеп",
-      "ruTranscription": "мектеп",
-      "kkTranscription": "Mektep",
-      "category": "education",
-      "id": 491
-    },
-    {
-      "ru": "Университет",
-      "kk": "Университет",
-      "ruTranscription": "университет",
-      "kkTranscription": "Universitet",
-      "category": "education",
-      "id": 492
+      "id": 455
     },
     {
       "ru": "Колледж",
@@ -3946,15 +3650,7 @@
       "ruTranscription": "колледж",
       "kkTranscription": "Kolledj",
       "category": "education",
-      "id": 493
-    },
-    {
-      "ru": "Учитель",
-      "kk": "Мұғалім",
-      "ruTranscription": "мұғалім",
-      "kkTranscription": "Mūğalım",
-      "category": "education",
-      "id": 494
+      "id": 456
     },
     {
       "ru": "Преподаватель",
@@ -3962,15 +3658,7 @@
       "ruTranscription": "оқытушы",
       "kkTranscription": "Oqytuşy",
       "category": "education",
-      "id": 495
-    },
-    {
-      "ru": "Студент",
-      "kk": "Студент",
-      "ruTranscription": "студент",
-      "kkTranscription": "Student",
-      "category": "education",
-      "id": 496
+      "id": 457
     },
     {
       "ru": "Ученик",
@@ -3978,7 +3666,7 @@
       "ruTranscription": "оқушы",
       "kkTranscription": "Oquşy",
       "category": "education",
-      "id": 497
+      "id": 458
     },
     {
       "ru": "Урок",
@@ -3986,7 +3674,7 @@
       "ruTranscription": "сабақ",
       "kkTranscription": "Sabaq",
       "category": "education",
-      "id": 498
+      "id": 459
     },
     {
       "ru": "Предмет",
@@ -3994,7 +3682,7 @@
       "ruTranscription": "пән",
       "kkTranscription": "Pän",
       "category": "education",
-      "id": 499
+      "id": 460
     },
     {
       "ru": "Математика",
@@ -4002,7 +3690,7 @@
       "ruTranscription": "математика",
       "kkTranscription": "Matematika",
       "category": "education",
-      "id": 500
+      "id": 461
     },
     {
       "ru": "Физика",
@@ -4010,7 +3698,7 @@
       "ruTranscription": "физика",
       "kkTranscription": "Fizika",
       "category": "education",
-      "id": 501
+      "id": 462
     },
     {
       "ru": "Химия",
@@ -4018,7 +3706,7 @@
       "ruTranscription": "химия",
       "kkTranscription": "Khimia",
       "category": "education",
-      "id": 502
+      "id": 463
     },
     {
       "ru": "Биология",
@@ -4026,7 +3714,7 @@
       "ruTranscription": "биология",
       "kkTranscription": "Biologiia",
       "category": "education",
-      "id": 503
+      "id": 464
     },
     {
       "ru": "История",
@@ -4034,7 +3722,7 @@
       "ruTranscription": "тарих",
       "kkTranscription": "Tarih",
       "category": "education",
-      "id": 504
+      "id": 465
     },
     {
       "ru": "География",
@@ -4042,7 +3730,7 @@
       "ruTranscription": "география",
       "kkTranscription": "Geografiia",
       "category": "education",
-      "id": 505
+      "id": 466
     },
     {
       "ru": "Язык",
@@ -4050,7 +3738,7 @@
       "ruTranscription": "тіл",
       "kkTranscription": "Tıl",
       "category": "education",
-      "id": 506
+      "id": 467
     },
     {
       "ru": "Английский язык",
@@ -4058,7 +3746,7 @@
       "ruTranscription": "ағылшын тілі",
       "kkTranscription": "Ağylşyn tılı",
       "category": "education",
-      "id": 507
+      "id": 468
     },
     {
       "ru": "Казахский язык",
@@ -4066,7 +3754,7 @@
       "ruTranscription": "қазақ тілі",
       "kkTranscription": "Qazaq tılı",
       "category": "education",
-      "id": 508
+      "id": 469
     },
     {
       "ru": "Русский язык",
@@ -4074,7 +3762,7 @@
       "ruTranscription": "орыс тілі",
       "kkTranscription": "Orys tılı",
       "category": "education",
-      "id": 509
+      "id": 470
     },
     {
       "ru": "Экзамен",
@@ -4082,7 +3770,7 @@
       "ruTranscription": "емтихан",
       "kkTranscription": "Emtihan",
       "category": "education",
-      "id": 510
+      "id": 471
     },
     {
       "ru": "Тест",
@@ -4090,7 +3778,7 @@
       "ruTranscription": "тест",
       "kkTranscription": "Test",
       "category": "education",
-      "id": 511
+      "id": 472
     },
     {
       "ru": "Домашнее задание",
@@ -4098,7 +3786,7 @@
       "ruTranscription": "үй тапсырмасы",
       "kkTranscription": "Üi tapsyrmasy",
       "category": "education",
-      "id": 512
+      "id": 473
     },
     {
       "ru": "Диплом",
@@ -4106,7 +3794,7 @@
       "ruTranscription": "диплом",
       "kkTranscription": "Diplom",
       "category": "education",
-      "id": 513
+      "id": 474
     },
     {
       "ru": "Стипендия",
@@ -4114,7 +3802,7 @@
       "ruTranscription": "стипендия",
       "kkTranscription": "Stipendiia",
       "category": "education",
-      "id": 514
+      "id": 475
     },
     {
       "ru": "Библиотека",
@@ -4122,7 +3810,7 @@
       "ruTranscription": "кітапхана",
       "kkTranscription": "Kıtaphana",
       "category": "education",
-      "id": 515
+      "id": 476
     },
     {
       "ru": "Книга",
@@ -4130,7 +3818,7 @@
       "ruTranscription": "кітап",
       "kkTranscription": "Kıtap",
       "category": "education",
-      "id": 516
+      "id": 477
     },
     {
       "ru": "Тетрадь",
@@ -4138,7 +3826,7 @@
       "ruTranscription": "дәптер",
       "kkTranscription": "Däpter",
       "category": "education",
-      "id": 517
+      "id": 478
     },
     {
       "ru": "Ручка",
@@ -4146,7 +3834,7 @@
       "ruTranscription": "қалам",
       "kkTranscription": "Qalam",
       "category": "education",
-      "id": 518
+      "id": 479
     },
     {
       "ru": "Карандаш",
@@ -4154,7 +3842,7 @@
       "ruTranscription": "қарындаш",
       "kkTranscription": "Qaryndaş",
       "category": "education",
-      "id": 519
+      "id": 480
     },
     {
       "ru": "Эмоция",
@@ -4162,7 +3850,7 @@
       "ruTranscription": "эмоция",
       "kkTranscription": "Emotsiia",
       "category": "emotions",
-      "id": 520
+      "id": 481
     },
     {
       "ru": "Чувство",
@@ -4170,7 +3858,7 @@
       "ruTranscription": "сезім",
       "kkTranscription": "Sezım",
       "category": "emotions",
-      "id": 521
+      "id": 482
     },
     {
       "ru": "Радость",
@@ -4178,7 +3866,7 @@
       "ruTranscription": "қуаныш",
       "kkTranscription": "Quanyş",
       "category": "emotions",
-      "id": 522
+      "id": 483
     },
     {
       "ru": "Счастье",
@@ -4186,7 +3874,7 @@
       "ruTranscription": "бақыт",
       "kkTranscription": "Baqyt",
       "category": "emotions",
-      "id": 523
+      "id": 484
     },
     {
       "ru": "Грусть",
@@ -4194,7 +3882,7 @@
       "ruTranscription": "қайғы",
       "kkTranscription": "Qaiğy",
       "category": "emotions",
-      "id": 524
+      "id": 485
     },
     {
       "ru": "Печаль",
@@ -4202,7 +3890,7 @@
       "ruTranscription": "мұң",
       "kkTranscription": "Mūñ",
       "category": "emotions",
-      "id": 525
+      "id": 486
     },
     {
       "ru": "Гнев",
@@ -4210,7 +3898,7 @@
       "ruTranscription": "ашу",
       "kkTranscription": "Aşu",
       "category": "emotions",
-      "id": 526
+      "id": 487
     },
     {
       "ru": "Злость",
@@ -4218,7 +3906,7 @@
       "ruTranscription": "ыза",
       "kkTranscription": "Yza",
       "category": "emotions",
-      "id": 527
+      "id": 488
     },
     {
       "ru": "Страх",
@@ -4226,7 +3914,7 @@
       "ruTranscription": "қорқыныш",
       "kkTranscription": "Qorqynyş",
       "category": "emotions",
-      "id": 528
+      "id": 489
     },
     {
       "ru": "Любовь",
@@ -4234,7 +3922,7 @@
       "ruTranscription": "махаббат",
       "kkTranscription": "Mahabbat",
       "category": "emotions",
-      "id": 529
+      "id": 490
     },
     {
       "ru": "Ненависть",
@@ -4242,7 +3930,7 @@
       "ruTranscription": "жек көру",
       "kkTranscription": "Jek köru",
       "category": "emotions",
-      "id": 530
+      "id": 491
     },
     {
       "ru": "Удивление",
@@ -4250,7 +3938,7 @@
       "ruTranscription": "таңдану",
       "kkTranscription": "Tañdanu",
       "category": "emotions",
-      "id": 531
+      "id": 492
     },
     {
       "ru": "Интерес",
@@ -4258,7 +3946,7 @@
       "ruTranscription": "қызығушылық",
       "kkTranscription": "Qyzyğuşylyq",
       "category": "emotions",
-      "id": 532
+      "id": 493
     },
     {
       "ru": "Скука",
@@ -4266,7 +3954,7 @@
       "ruTranscription": "зерігу",
       "kkTranscription": "Zerıgu",
       "category": "emotions",
-      "id": 533
+      "id": 494
     },
     {
       "ru": "Усталость",
@@ -4274,7 +3962,7 @@
       "ruTranscription": "шаршау",
       "kkTranscription": "Şarşau",
       "category": "emotions",
-      "id": 534
+      "id": 495
     },
     {
       "ru": "Спокойствие",
@@ -4282,7 +3970,7 @@
       "ruTranscription": "тыныштық",
       "kkTranscription": "Tynyştyq",
       "category": "emotions",
-      "id": 535
+      "id": 496
     },
     {
       "ru": "Волнение",
@@ -4290,7 +3978,7 @@
       "ruTranscription": "толқу",
       "kkTranscription": "Tolqu",
       "category": "emotions",
-      "id": 536
+      "id": 497
     },
     {
       "ru": "Уверенность",
@@ -4298,7 +3986,7 @@
       "ruTranscription": "сенімділік",
       "kkTranscription": "Senımdılık",
       "category": "emotions",
-      "id": 537
+      "id": 498
     },
     {
       "ru": "Гордость",
@@ -4306,7 +3994,7 @@
       "ruTranscription": "мақтаныш",
       "kkTranscription": "Maqtanyş",
       "category": "emotions",
-      "id": 538
+      "id": 499
     },
     {
       "ru": "Стыд",
@@ -4314,7 +4002,7 @@
       "ruTranscription": "ұят",
       "kkTranscription": "Ūiat",
       "category": "emotions",
-      "id": 539
+      "id": 500
     },
     {
       "ru": "Вина",
@@ -4322,7 +4010,7 @@
       "ruTranscription": "кінә",
       "kkTranscription": "Kınä",
       "category": "emotions",
-      "id": 540
+      "id": 501
     },
     {
       "ru": "Ревность",
@@ -4330,7 +4018,7 @@
       "ruTranscription": "қызғаныш",
       "kkTranscription": "Qyzğanyş",
       "category": "emotions",
-      "id": 541
+      "id": 502
     },
     {
       "ru": "Надежда",
@@ -4338,7 +4026,7 @@
       "ruTranscription": "үміт",
       "kkTranscription": "Ümıt",
       "category": "emotions",
-      "id": 542
+      "id": 503
     },
     {
       "ru": "Разочарование",
@@ -4346,7 +4034,7 @@
       "ruTranscription": "көңілсіздік",
       "kkTranscription": "Köñılsızdık",
       "category": "emotions",
-      "id": 543
+      "id": 504
     },
     {
       "ru": "Одиночество",
@@ -4354,207 +4042,7 @@
       "ruTranscription": "жалғыздық",
       "kkTranscription": "Jalğyzdyq",
       "category": "emotions",
-      "id": 544
-    },
-    {
-      "ru": "Эмоция",
-      "kk": "Эмоция",
-      "ruTranscription": "эмоция",
-      "kkTranscription": "Emotsiia",
-      "category": "emotions",
-      "id": 545
-    },
-    {
-      "ru": "Чувство",
-      "kk": "Сезім",
-      "ruTranscription": "сезім",
-      "kkTranscription": "Sezım",
-      "category": "emotions",
-      "id": 546
-    },
-    {
-      "ru": "Радость",
-      "kk": "Қуаныш",
-      "ruTranscription": "қуаныш",
-      "kkTranscription": "Quanyş",
-      "category": "emotions",
-      "id": 547
-    },
-    {
-      "ru": "Счастье",
-      "kk": "Бақыт",
-      "ruTranscription": "бақыт",
-      "kkTranscription": "Baqyt",
-      "category": "emotions",
-      "id": 548
-    },
-    {
-      "ru": "Грусть",
-      "kk": "Қайғы",
-      "ruTranscription": "қайғы",
-      "kkTranscription": "Qaiğy",
-      "category": "emotions",
-      "id": 549
-    },
-    {
-      "ru": "Печаль",
-      "kk": "Мұң",
-      "ruTranscription": "мұң",
-      "kkTranscription": "Mūñ",
-      "category": "emotions",
-      "id": 550
-    },
-    {
-      "ru": "Гнев",
-      "kk": "Ашу",
-      "ruTranscription": "ашу",
-      "kkTranscription": "Aşu",
-      "category": "emotions",
-      "id": 551
-    },
-    {
-      "ru": "Злость",
-      "kk": "Ыза",
-      "ruTranscription": "ыза",
-      "kkTranscription": "Yza",
-      "category": "emotions",
-      "id": 552
-    },
-    {
-      "ru": "Страх",
-      "kk": "Қорқыныш",
-      "ruTranscription": "қорқыныш",
-      "kkTranscription": "Qorqynyş",
-      "category": "emotions",
-      "id": 553
-    },
-    {
-      "ru": "Любовь",
-      "kk": "Махаббат",
-      "ruTranscription": "махаббат",
-      "kkTranscription": "Mahabbat",
-      "category": "emotions",
-      "id": 554
-    },
-    {
-      "ru": "Ненависть",
-      "kk": "Жек көру",
-      "ruTranscription": "жек көру",
-      "kkTranscription": "Jek köru",
-      "category": "emotions",
-      "id": 555
-    },
-    {
-      "ru": "Удивление",
-      "kk": "Таңдану",
-      "ruTranscription": "таңдану",
-      "kkTranscription": "Tañdanu",
-      "category": "emotions",
-      "id": 556
-    },
-    {
-      "ru": "Интерес",
-      "kk": "Қызығушылық",
-      "ruTranscription": "қызығушылық",
-      "kkTranscription": "Qyzyğuşylyq",
-      "category": "emotions",
-      "id": 557
-    },
-    {
-      "ru": "Скука",
-      "kk": "Зерігу",
-      "ruTranscription": "зерігу",
-      "kkTranscription": "Zerıgu",
-      "category": "emotions",
-      "id": 558
-    },
-    {
-      "ru": "Усталость",
-      "kk": "Шаршау",
-      "ruTranscription": "шаршау",
-      "kkTranscription": "Şarşau",
-      "category": "emotions",
-      "id": 559
-    },
-    {
-      "ru": "Спокойствие",
-      "kk": "Тыныштық",
-      "ruTranscription": "тыныштық",
-      "kkTranscription": "Tynyştyq",
-      "category": "emotions",
-      "id": 560
-    },
-    {
-      "ru": "Волнение",
-      "kk": "Толқу",
-      "ruTranscription": "толқу",
-      "kkTranscription": "Tolqu",
-      "category": "emotions",
-      "id": 561
-    },
-    {
-      "ru": "Уверенность",
-      "kk": "Сенімділік",
-      "ruTranscription": "сенімділік",
-      "kkTranscription": "Senımdılık",
-      "category": "emotions",
-      "id": 562
-    },
-    {
-      "ru": "Гордость",
-      "kk": "Мақтаныш",
-      "ruTranscription": "мақтаныш",
-      "kkTranscription": "Maqtanyş",
-      "category": "emotions",
-      "id": 563
-    },
-    {
-      "ru": "Стыд",
-      "kk": "Ұят",
-      "ruTranscription": "ұят",
-      "kkTranscription": "Ūiat",
-      "category": "emotions",
-      "id": 564
-    },
-    {
-      "ru": "Вина",
-      "kk": "Кінә",
-      "ruTranscription": "кінә",
-      "kkTranscription": "Kınä",
-      "category": "emotions",
-      "id": 565
-    },
-    {
-      "ru": "Ревность",
-      "kk": "Қызғаныш",
-      "ruTranscription": "қызғаныш",
-      "kkTranscription": "Qyzğanyş",
-      "category": "emotions",
-      "id": 566
-    },
-    {
-      "ru": "Надежда",
-      "kk": "Үміт",
-      "ruTranscription": "үміт",
-      "kkTranscription": "Ümıt",
-      "category": "emotions",
-      "id": 567
-    },
-    {
-      "ru": "Разочарование",
-      "kk": "Көңілсіздік",
-      "ruTranscription": "көңілсіздік",
-      "kkTranscription": "Köñılsızdık",
-      "category": "emotions",
-      "id": 568
-    },
-    {
-      "ru": "Одиночество",
-      "kk": "Жалғыздық",
-      "ruTranscription": "жалғыздық",
-      "kkTranscription": "Jalğyzdyq",
-      "category": "emotions",
-      "id": 569
+      "id": 505
     },
     {
       "ru": "Прогноз погоды",
@@ -4562,7 +4050,7 @@
       "ruTranscription": "ауа райы болжамы",
       "kkTranscription": "Aua raiy boljamy",
       "category": "weather",
-      "id": 570
+      "id": 506
     },
     {
       "ru": "Градус",
@@ -4570,7 +4058,7 @@
       "ruTranscription": "градус",
       "kkTranscription": "Gradus",
       "category": "weather",
-      "id": 571
+      "id": 507
     },
     {
       "ru": "Температура",
@@ -4578,7 +4066,7 @@
       "ruTranscription": "температура",
       "kkTranscription": "Temperatura",
       "category": "weather",
-      "id": 572
+      "id": 508
     },
     {
       "ru": "Жара",
@@ -4586,7 +4074,7 @@
       "ruTranscription": "аптап",
       "kkTranscription": "Aptap",
       "category": "weather",
-      "id": 573
+      "id": 509
     },
     {
       "ru": "Мороз",
@@ -4594,7 +4082,7 @@
       "ruTranscription": "аяз",
       "kkTranscription": "Aiaz",
       "category": "weather",
-      "id": 574
+      "id": 510
     },
     {
       "ru": "Облачно",
@@ -4602,7 +4090,7 @@
       "ruTranscription": "бұлтты",
       "kkTranscription": "Būltty",
       "category": "weather",
-      "id": 575
+      "id": 511
     },
     {
       "ru": "Ясно",
@@ -4610,7 +4098,7 @@
       "ruTranscription": "ашық",
       "kkTranscription": "Aşyq",
       "category": "weather",
-      "id": 576
+      "id": 512
     },
     {
       "ru": "Пасмурно",
@@ -4618,7 +4106,7 @@
       "ruTranscription": "тұманды",
       "kkTranscription": "Tūmandy",
       "category": "weather",
-      "id": 577
+      "id": 513
     },
     {
       "ru": "Гроза",
@@ -4626,7 +4114,7 @@
       "ruTranscription": "найзағай",
       "kkTranscription": "Naizağai",
       "category": "weather",
-      "id": 578
+      "id": 514
     },
     {
       "ru": "Молния",
@@ -4634,7 +4122,7 @@
       "ruTranscription": "найзағай",
       "kkTranscription": "Naizağai",
       "category": "weather",
-      "id": 579
+      "id": 515
     },
     {
       "ru": "Град",
@@ -4642,7 +4130,7 @@
       "ruTranscription": "бұршақ",
       "kkTranscription": "Būrşaq",
       "category": "weather",
-      "id": 580
+      "id": 516
     },
     {
       "ru": "Ливень",
@@ -4650,7 +4138,7 @@
       "ruTranscription": "нөсер",
       "kkTranscription": "Nöser",
       "category": "weather",
-      "id": 581
+      "id": 517
     },
     {
       "ru": "Метель",
@@ -4658,7 +4146,7 @@
       "ruTranscription": "боран",
       "kkTranscription": "Boran",
       "category": "weather",
-      "id": 582
+      "id": 518
     },
     {
       "ru": "Гололед",
@@ -4666,7 +4154,7 @@
       "ruTranscription": "мұздақ",
       "kkTranscription": "Mūzdaq",
       "category": "weather",
-      "id": 583
+      "id": 519
     },
     {
       "ru": "Влажность",
@@ -4674,7 +4162,7 @@
       "ruTranscription": "ылғалдылық",
       "kkTranscription": "Ylğaldylyq",
       "category": "weather",
-      "id": 584
+      "id": 520
     },
     {
       "ru": "Давление",
@@ -4682,7 +4170,7 @@
       "ruTranscription": "қысым",
       "kkTranscription": "Qysym",
       "category": "weather",
-      "id": 585
+      "id": 521
     },
     {
       "ru": "Восход",
@@ -4690,7 +4178,7 @@
       "ruTranscription": "күн шығу",
       "kkTranscription": "Kün şyğu",
       "category": "weather",
-      "id": 586
+      "id": 522
     },
     {
       "ru": "Закат",
@@ -4698,7 +4186,7 @@
       "ruTranscription": "күн бату",
       "kkTranscription": "Kün batu",
       "category": "weather",
-      "id": 587
+      "id": 523
     },
     {
       "ru": "Радуга",
@@ -4706,15 +4194,7 @@
       "ruTranscription": "кемпірқосақ",
       "kkTranscription": "Kempırqosaq",
       "category": "weather",
-      "id": 588
-    },
-    {
-      "ru": "Туман",
-      "kk": "Тұман",
-      "ruTranscription": "тұман",
-      "kkTranscription": "Tūman",
-      "category": "weather",
-      "id": 589
+      "id": 524
     },
     {
       "ru": "Иней",
@@ -4722,7 +4202,7 @@
       "ruTranscription": "қырау",
       "kkTranscription": "Qyrau",
       "category": "weather",
-      "id": 590
+      "id": 525
     },
     {
       "ru": "Роса",
@@ -4730,7 +4210,7 @@
       "ruTranscription": "шық",
       "kkTranscription": "Şyq",
       "category": "weather",
-      "id": 591
+      "id": 526
     },
     {
       "ru": "Лицо",
@@ -4738,7 +4218,7 @@
       "ruTranscription": "бет",
       "kkTranscription": "Bet",
       "category": "body",
-      "id": 592
+      "id": 527
     },
     {
       "ru": "Волосы",
@@ -4746,7 +4226,7 @@
       "ruTranscription": "шаш",
       "kkTranscription": "Şaş",
       "category": "body",
-      "id": 593
+      "id": 528
     },
     {
       "ru": "Лоб",
@@ -4754,7 +4234,7 @@
       "ruTranscription": "маңдай",
       "kkTranscription": "Mañdai",
       "category": "body",
-      "id": 594
+      "id": 529
     },
     {
       "ru": "Бровь",
@@ -4762,7 +4242,7 @@
       "ruTranscription": "қас",
       "kkTranscription": "Qas",
       "category": "body",
-      "id": 595
+      "id": 530
     },
     {
       "ru": "Ресницы",
@@ -4770,7 +4250,7 @@
       "ruTranscription": "кірпік",
       "kkTranscription": "Kırpık",
       "category": "body",
-      "id": 596
+      "id": 531
     },
     {
       "ru": "Щека",
@@ -4778,7 +4258,7 @@
       "ruTranscription": "бет",
       "kkTranscription": "Bet",
       "category": "body",
-      "id": 597
+      "id": 532
     },
     {
       "ru": "Подбородок",
@@ -4786,7 +4266,7 @@
       "ruTranscription": "иек",
       "kkTranscription": "Iek",
       "category": "body",
-      "id": 598
+      "id": 533
     },
     {
       "ru": "Шея",
@@ -4794,7 +4274,7 @@
       "ruTranscription": "мойын",
       "kkTranscription": "Moiyn",
       "category": "body",
-      "id": 599
+      "id": 534
     },
     {
       "ru": "Плечо",
@@ -4802,7 +4282,7 @@
       "ruTranscription": "иық",
       "kkTranscription": "Iyq",
       "category": "body",
-      "id": 600
+      "id": 535
     },
     {
       "ru": "Локоть",
@@ -4810,7 +4290,7 @@
       "ruTranscription": "шынтақ",
       "kkTranscription": "Şyntaq",
       "category": "body",
-      "id": 601
+      "id": 536
     },
     {
       "ru": "Запястье",
@@ -4818,7 +4298,7 @@
       "ruTranscription": "білек",
       "kkTranscription": "Bılek",
       "category": "body",
-      "id": 602
+      "id": 537
     },
     {
       "ru": "Кисть",
@@ -4826,7 +4306,7 @@
       "ruTranscription": "алақан",
       "kkTranscription": "Alaqan",
       "category": "body",
-      "id": 603
+      "id": 538
     },
     {
       "ru": "Палец",
@@ -4834,7 +4314,7 @@
       "ruTranscription": "саусақ",
       "kkTranscription": "Sausaq",
       "category": "body",
-      "id": 604
+      "id": 539
     },
     {
       "ru": "Ноготь",
@@ -4842,7 +4322,7 @@
       "ruTranscription": "тырнақ",
       "kkTranscription": "Tyrnaq",
       "category": "body",
-      "id": 605
+      "id": 540
     },
     {
       "ru": "Грудь",
@@ -4850,7 +4330,7 @@
       "ruTranscription": "кеуде",
       "kkTranscription": "Keude",
       "category": "body",
-      "id": 606
+      "id": 541
     },
     {
       "ru": "Спина",
@@ -4858,7 +4338,7 @@
       "ruTranscription": "арқа",
       "kkTranscription": "Arqa",
       "category": "body",
-      "id": 607
+      "id": 542
     },
     {
       "ru": "Живот",
@@ -4866,7 +4346,7 @@
       "ruTranscription": "іш",
       "kkTranscription": "Iş",
       "category": "body",
-      "id": 608
+      "id": 543
     },
     {
       "ru": "Талия",
@@ -4874,7 +4354,7 @@
       "ruTranscription": "бел",
       "kkTranscription": "Bel",
       "category": "body",
-      "id": 609
+      "id": 544
     },
     {
       "ru": "Бедро",
@@ -4882,7 +4362,7 @@
       "ruTranscription": "сан",
       "kkTranscription": "San",
       "category": "body",
-      "id": 610
+      "id": 545
     },
     {
       "ru": "Колено",
@@ -4890,7 +4370,7 @@
       "ruTranscription": "тізе",
       "kkTranscription": "Tıze",
       "category": "body",
-      "id": 611
+      "id": 546
     },
     {
       "ru": "Голень",
@@ -4898,7 +4378,7 @@
       "ruTranscription": "балтыр",
       "kkTranscription": "Baltyr",
       "category": "body",
-      "id": 612
+      "id": 547
     },
     {
       "ru": "Стопа",
@@ -4906,7 +4386,7 @@
       "ruTranscription": "табан",
       "kkTranscription": "Taban",
       "category": "body",
-      "id": 613
+      "id": 548
     },
     {
       "ru": "Пятка",
@@ -4914,199 +4394,7 @@
       "ruTranscription": "өкше",
       "kkTranscription": "Ökşe",
       "category": "body",
-      "id": 614
-    },
-    {
-      "ru": "Тело",
-      "kk": "Дене",
-      "ruTranscription": "дене",
-      "kkTranscription": "Dene",
-      "category": "body",
-      "id": 615
-    },
-    {
-      "ru": "Лицо",
-      "kk": "Бет",
-      "ruTranscription": "бет",
-      "kkTranscription": "Bet",
-      "category": "body",
-      "id": 592
-    },
-    {
-      "ru": "Волосы",
-      "kk": "Шаш",
-      "ruTranscription": "шаш",
-      "kkTranscription": "Şaş",
-      "category": "body",
-      "id": 593
-    },
-    {
-      "ru": "Лоб",
-      "kk": "Маңдай",
-      "ruTranscription": "маңдай",
-      "kkTranscription": "Mañdai",
-      "category": "body",
-      "id": 594
-    },
-    {
-      "ru": "Бровь",
-      "kk": "Қас",
-      "ruTranscription": "қас",
-      "kkTranscription": "Qas",
-      "category": "body",
-      "id": 595
-    },
-    {
-      "ru": "Ресницы",
-      "kk": "Кірпік",
-      "ruTranscription": "кірпік",
-      "kkTranscription": "Kırpık",
-      "category": "body",
-      "id": 596
-    },
-    {
-      "ru": "Щека",
-      "kk": "Бет",
-      "ruTranscription": "бет",
-      "kkTranscription": "Bet",
-      "category": "body",
-      "id": 597
-    },
-    {
-      "ru": "Подбородок",
-      "kk": "Иек",
-      "ruTranscription": "иек",
-      "kkTranscription": "Iek",
-      "category": "body",
-      "id": 598
-    },
-    {
-      "ru": "Шея",
-      "kk": "Мойын",
-      "ruTranscription": "мойын",
-      "kkTranscription": "Moiyn",
-      "category": "body",
-      "id": 599
-    },
-    {
-      "ru": "Плечо",
-      "kk": "Иық",
-      "ruTranscription": "иық",
-      "kkTranscription": "Iyq",
-      "category": "body",
-      "id": 600
-    },
-    {
-      "ru": "Локоть",
-      "kk": "Шынтақ",
-      "ruTranscription": "шынтақ",
-      "kkTranscription": "Şyntaq",
-      "category": "body",
-      "id": 601
-    },
-    {
-      "ru": "Запястье",
-      "kk": "Білек",
-      "ruTranscription": "білек",
-      "kkTranscription": "Bılek",
-      "category": "body",
-      "id": 602
-    },
-    {
-      "ru": "Кисть",
-      "kk": "Алақан",
-      "ruTranscription": "алақан",
-      "kkTranscription": "Alaqan",
-      "category": "body",
-      "id": 603
-    },
-    {
-      "ru": "Палец",
-      "kk": "Саусақ",
-      "ruTranscription": "саусақ",
-      "kkTranscription": "Sausaq",
-      "category": "body",
-      "id": 604
-    },
-    {
-      "ru": "Ноготь",
-      "kk": "Тырнақ",
-      "ruTranscription": "тырнақ",
-      "kkTranscription": "Tyrnaq",
-      "category": "body",
-      "id": 605
-    },
-    {
-      "ru": "Грудь",
-      "kk": "Кеуде",
-      "ruTranscription": "кеуде",
-      "kkTranscription": "Keude",
-      "category": "body",
-      "id": 606
-    },
-    {
-      "ru": "Спина",
-      "kk": "Арқа",
-      "ruTranscription": "арқа",
-      "kkTranscription": "Arqa",
-      "category": "body",
-      "id": 607
-    },
-    {
-      "ru": "Живот",
-      "kk": "Іш",
-      "ruTranscription": "іш",
-      "kkTranscription": "Iş",
-      "category": "body",
-      "id": 608
-    },
-    {
-      "ru": "Талия",
-      "kk": "Бел",
-      "ruTranscription": "бел",
-      "kkTranscription": "Bel",
-      "category": "body",
-      "id": 609
-    },
-    {
-      "ru": "Бедро",
-      "kk": "Сан",
-      "ruTranscription": "сан",
-      "kkTranscription": "San",
-      "category": "body",
-      "id": 610
-    },
-    {
-      "ru": "Колено",
-      "kk": "Тізе",
-      "ruTranscription": "тізе",
-      "kkTranscription": "Tıze",
-      "category": "body",
-      "id": 611
-    },
-    {
-      "ru": "Голень",
-      "kk": "Балтыр",
-      "ruTranscription": "балтыр",
-      "kkTranscription": "Baltyr",
-      "category": "body",
-      "id": 612
-    },
-    {
-      "ru": "Стопа",
-      "kk": "Табан",
-      "ruTranscription": "табан",
-      "kkTranscription": "Taban",
-      "category": "body",
-      "id": 613
-    },
-    {
-      "ru": "Пятка",
-      "kk": "Өкше",
-      "ruTranscription": "өкше",
-      "kkTranscription": "Ökşe",
-      "category": "body",
-      "id": 614
+      "id": 549
     }
   ],
   "categories": {
