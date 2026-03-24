@@ -475,6 +475,551 @@
       "ruTranscription": "он",
       "kkTranscription": "On",
       "category": "numbers"
+    },
+    {
+      "id": 60,
+      "ru": "Машина",
+      "kk": "Көлік",
+      "ruTranscription": "көлік",
+      "kkTranscription": "Kölık",
+      "category": "transport"
+    },
+    {
+      "id": 61,
+      "ru": "Автобус",
+      "kk": "Автобус",
+      "ruTranscription": "автобус",
+      "kkTranscription": "Avtobus",
+      "category": "transport"
+    },
+    {
+      "id": 62,
+      "ru": "Такси",
+      "kk": "Такси",
+      "ruTranscription": "такси",
+      "kkTranscription": "Taksı",
+      "category": "transport"
+    },
+    {
+      "id": 63,
+      "ru": "Метро",
+      "kk": "Метро",
+      "ruTranscription": "метро",
+      "kkTranscription": "Metro",
+      "category": "transport"
+    },
+    {
+      "id": 64,
+      "ru": "Остановка",
+      "kk": "Аялдама",
+      "ruTranscription": "аялдама",
+      "kkTranscription": "Aialdama",
+      "category": "transport"
+    },
+    {
+      "id": 65,
+      "ru": "Билет",
+      "kk": "Билет",
+      "ruTranscription": "билет",
+      "kkTranscription": "Bılet",
+      "category": "transport"
+    },
+    {
+      "id": 66,
+      "ru": "Вокзал",
+      "kk": "Вокзал",
+      "ruTranscription": "вокзал",
+      "kkTranscription": "Vokzal",
+      "category": "transport"
+    },
+    {
+      "id": 67,
+      "ru": "Аэропорт",
+      "kk": "Әуежай",
+      "ruTranscription": "әуежай",
+      "kkTranscription": "Äuejai",
+      "category": "transport"
+    },
+    {
+      "id": 68,
+      "ru": "Улица",
+      "kk": "Көше",
+      "ruTranscription": "көше",
+      "kkTranscription": "Köşe",
+      "category": "city"
+    },
+    {
+      "id": 69,
+      "ru": "Дом",
+      "kk": "Үй",
+      "ruTranscription": "үй",
+      "kkTranscription": "Üi",
+      "category": "city"
+    },
+    {
+      "id": 70,
+      "ru": "Магазин",
+      "kk": "Дүкен",
+      "ruTranscription": "дүкен",
+      "kkTranscription": "Düken",
+      "category": "city"
+    },
+    {
+      "id": 71,
+      "ru": "Аптека",
+      "kk": "Дәріхана",
+      "ruTranscription": "дәріхана",
+      "kkTranscription": "Därıhana",
+      "category": "city"
+    },
+    {
+      "id": 72,
+      "ru": "Больница",
+      "kk": "Аурухана",
+      "ruTranscription": "аурухана",
+      "kkTranscription": "Auruhana",
+      "category": "city"
+    },
+    {
+      "id": 73,
+      "ru": "Школа",
+      "kk": "Мектеп",
+      "ruTranscription": "мектеп",
+      "kkTranscription": "Mektep",
+      "category": "city"
+    },
+    {
+      "id": 74,
+      "ru": "Университет",
+      "kk": "Университет",
+      "ruTranscription": "университет",
+      "kkTranscription": "Universitet",
+      "category": "city"
+    },
+    {
+      "id": 75,
+      "ru": "Банк",
+      "kk": "Банк",
+      "ruTranscription": "банк",
+      "kkTranscription": "Bank",
+      "category": "city"
+    },
+    {
+      "id": 76,
+      "ru": "Ресторан",
+      "kk": "Мейрамхана",
+      "ruTranscription": "мейрамхана",
+      "kkTranscription": "Meiramhana",
+      "category": "city"
+    },
+    {
+      "id": 77,
+      "ru": "Кафе",
+      "kk": "Кафе",
+      "ruTranscription": "кафе",
+      "kkTranscription": "Kafe",
+      "category": "city"
+    },
+    {
+      "id": 78,
+      "ru": "Гостиница",
+      "kk": "Қонақ үй",
+      "ruTranscription": "қонақ үй",
+      "kkTranscription": "Qonaq üi",
+      "category": "city"
+    },
+    {
+      "id": 79,
+      "ru": "Туалет",
+      "kk": "Дәретхана",
+      "ruTranscription": "дәретхана",
+      "kkTranscription": "Därethana",
+      "category": "city"
+    },
+    {
+      "id": 80,
+      "ru": "Время",
+      "kk": "Уақыт",
+      "ruTranscription": "уақыт",
+      "kkTranscription": "Uaqyt",
+      "category": "time"
+    },
+    {
+      "id": 81,
+      "ru": "Сегодня",
+      "kk": "Бүгін",
+      "ruTranscription": "бүгін",
+      "kkTranscription": "Bügın",
+      "category": "time"
+    },
+    {
+      "id": 82,
+      "ru": "Завтра",
+      "kk": "Ертең",
+      "ruTranscription": "ертең",
+      "kkTranscription": "Erteń",
+      "category": "time"
+    },
+    {
+      "id": 83,
+      "ru": "Вчера",
+      "kk": "Кеше",
+      "ruTranscription": "кеше",
+      "kkTranscription": "Keşe",
+      "category": "time"
+    },
+    {
+      "id": 84,
+      "ru": "День",
+      "kk": "Күн",
+      "ruTranscription": "күн",
+      "kkTranscription": "Kün",
+      "category": "time"
+    },
+    {
+      "id": 85,
+      "ru": "Ночь",
+      "kk": "Түн",
+      "ruTranscription": "түн",
+      "kkTranscription": "Tün",
+      "category": "time"
+    },
+    {
+      "id": 86,
+      "ru": "Утро",
+      "kk": "Таң",
+      "ruTranscription": "таң",
+      "kkTranscription": "Tań",
+      "category": "time"
+    },
+    {
+      "id": 87,
+      "ru": "Вечер",
+      "kk": "Кеш",
+      "ruTranscription": "кеш",
+      "kkTranscription": "Keş",
+      "category": "time"
+    },
+    {
+      "id": 88,
+      "ru": "Неделя",
+      "kk": "Апта",
+      "ruTranscription": "апта",
+      "kkTranscription": "Apta",
+      "category": "time"
+    },
+    {
+      "id": 89,
+      "ru": "Месяц",
+      "kk": "Ай",
+      "ruTranscription": "ай",
+      "kkTranscription": "Ai",
+      "category": "time"
+    },
+    {
+      "id": 90,
+      "ru": "Год",
+      "kk": "Жыл",
+      "ruTranscription": "жыл",
+      "kkTranscription": "Jyl",
+      "category": "time"
+    },
+    {
+      "id": 91,
+      "ru": "Понедельник",
+      "kk": "Дүйсенбі",
+      "ruTranscription": "дүйсенбі",
+      "kkTranscription": "Düisenbı",
+      "category": "time"
+    },
+    {
+      "id": 92,
+      "ru": "Вторник",
+      "kk": "Сейсенбі",
+      "ruTranscription": "сейсенбі",
+      "kkTranscription": "Seisenbı",
+      "category": "time"
+    },
+    {
+      "id": 93,
+      "ru": "Среда",
+      "kk": "Сәрсенбі",
+      "ruTranscription": "сәрсенбі",
+      "kkTranscription": "Särsenbı",
+      "category": "time"
+    },
+    {
+      "id": 94,
+      "ru": "Четверг",
+      "kk": "Бейсенбі",
+      "ruTranscription": "бейсенбі",
+      "kkTranscription": "Beisenbı",
+      "category": "time"
+    },
+    {
+      "id": 95,
+      "ru": "Пятница",
+      "kk": "Жұма",
+      "ruTranscription": "жұма",
+      "kkTranscription": "Jūma",
+      "category": "time"
+    },
+    {
+      "id": 96,
+      "ru": "Суббота",
+      "kk": "Сенбі",
+      "ruTranscription": "сенбі",
+      "kkTranscription": "Senbı",
+      "category": "time"
+    },
+    {
+      "id": 97,
+      "ru": "Воскресенье",
+      "kk": "Жексенбі",
+      "ruTranscription": "жексенбі",
+      "kkTranscription": "Jeksenbı",
+      "category": "time"
+    },
+    {
+      "id": 98,
+      "ru": "Час",
+      "kk": "Сағат",
+      "ruTranscription": "сағат",
+      "kkTranscription": "Sağat",
+      "category": "time"
+    },
+    {
+      "id": 99,
+      "ru": "Минута",
+      "kk": "Минут",
+      "ruTranscription": "минут",
+      "kkTranscription": "Minut",
+      "category": "time"
+    },
+    {
+      "id": 100,
+      "ru": "Красный",
+      "kk": "Қызыл",
+      "ruTranscription": "қызыл",
+      "kkTranscription": "Qyzyl",
+      "category": "colors"
+    },
+    {
+      "id": 101,
+      "ru": "Синий",
+      "kk": "Көк",
+      "ruTranscription": "көк",
+      "kkTranscription": "Kök",
+      "category": "colors"
+    },
+    {
+      "id": 102,
+      "ru": "Зеленый",
+      "kk": "Жасыл",
+      "ruTranscription": "жасыл",
+      "kkTranscription": "Jasyl",
+      "category": "colors"
+    },
+    {
+      "id": 103,
+      "ru": "Желтый",
+      "kk": "Сары",
+      "ruTranscription": "сары",
+      "kkTranscription": "Sary",
+      "category": "colors"
+    },
+    {
+      "id": 104,
+      "ru": "Белый",
+      "kk": "Ақ",
+      "ruTranscription": "ақ",
+      "kkTranscription": "Aq",
+      "category": "colors"
+    },
+    {
+      "id": 105,
+      "ru": "Черный",
+      "kk": "Қара",
+      "ruTranscription": "қара",
+      "kkTranscription": "Qara",
+      "category": "colors"
+    },
+    
+    {
+      "id": 106,
+      "ru": "Оранжевый",
+      "kk": "Қызғылт сары",
+      "ruTranscription": "қызғылт сары",
+      "kkTranscription": "Qyzğylt sary",
+      "category": "colors"
+    },
+    {
+      "id": 107,
+      "ru": "Розовый",
+      "kk": "Қызғылт",
+      "ruTranscription": "қызғылт",
+      "kkTranscription": "Qyzğylt",
+      "category": "colors"
+    },
+    {
+      "id": 108,
+      "ru": "Фиолетовый",
+      "kk": "Күлгін",
+      "ruTranscription": "күлгін",
+      "kkTranscription": "Külgın",
+      "category": "colors"
+    },
+    {
+      "id": 109,
+      "ru": "Коричневый",
+      "kk": "Қоңыр",
+      "ruTranscription": "қоңыр",
+      "kkTranscription": "Qoñyr",
+      "category": "colors"
+    },
+    {
+      "id": 110,
+      "ru": "Серый",
+      "kk": "Сұр",
+      "ruTranscription": "сұр",
+      "kkTranscription": "Sūr",
+      "category": "colors"
+    },
+    {
+      "id": 111,
+      "ru": "Голубой",
+      "kk": "Көгілдір",
+      "ruTranscription": "көгілдір",
+      "kkTranscription": "Kögıldır",
+      "category": "colors"
+    },
+    {
+      "id": 112,
+      "ru": "Большой",
+      "kk": "Үлкен",
+      "ruTranscription": "үлкен",
+      "kkTranscription": "Ülken",
+      "category": "adjectives"
+    },
+    {
+      "id": 113,
+      "ru": "Маленький",
+      "kk": "Кішкентай",
+      "ruTranscription": "кішкентай",
+      "kkTranscription": "Kışkentai",
+      "category": "adjectives"
+    },
+    {
+      "id": 114,
+      "ru": "Хороший",
+      "kk": "Жақсы",
+      "ruTranscription": "жақсы",
+      "kkTranscription": "Jaqsy",
+      "category": "adjectives"
+    },
+    {
+      "id": 115,
+      "ru": "Плохой",
+      "kk": "Жаман",
+      "ruTranscription": "жаман",
+      "kkTranscription": "Jaman",
+      "category": "adjectives"
+     },
+     {
+      "id": 116,
+      "ru": "Новый",
+      "kk": "Жаңа",
+      "ruTranscription": "жаңа",
+      "kkTranscription": "Jaña",
+      "category": "adjectives"
+    },
+    {
+      "id": 117,
+      "ru": "Старый",
+      "kk": "Ескі",
+      "ruTranscription": "ескі",
+      "kkTranscription": "Eskı",
+      "category": "adjectives"
+    },
+    {
+      "id": 118,
+      "ru": "Красивый",
+      "kk": "Әдемі",
+      "ruTranscription": "әдемі",
+      "kkTranscription": "Ädemı",
+      "category": "adjectives"
+    },
+    {
+      "id": 119,
+      "ru": "Умный",
+      "kk": "Ақылды",
+      "ruTranscription": "ақылды",
+      "kkTranscription": "Aqyldy",
+      "category": "adjectives"
+    },
+    {
+      "id": 120,
+      "ru": "Быстрый",
+      "kk": "Жылдам",
+      "ruTranscription": "жылдам",
+      "kkTranscription": "Jyldam",
+      "category": "adjectives"
+    },
+    {
+      "id": 121,
+      "ru": "Медленный",
+      "kk": "Баяу",
+      "ruTranscription": "баяу",
+      "kkTranscription": "Baiau",
+      "category": "adjectives"
+    },
+    {
+      "id": 122,
+      "ru": "Дорогой",
+      "kk": "Қымбат",
+      "ruTranscription": "қымбат",
+      "kkTranscription": "Qymbat",
+      "category": "adjectives"
+    },
+    {
+      "id": 123,
+      "ru": "Дешевый",
+      "kk": "Арзан",
+      "ruTranscription": "арзан",
+      "kkTranscription": "Arzan",
+      "category": "adjectives"
+    },
+    {
+      "id": 124,
+      "ru": "Теплый",
+      "kk": "Жылы",
+      "ruTranscription": "жылы",
+      "kkTranscription": "Jyly",
+      "category": "adjectives"
+    },
+    {
+      "id": 125,
+      "ru": "Холодный",
+      "kk": "Суық",
+      "ruTranscription": "суық",
+      "kkTranscription": "Suyq",
+      "category": "adjectives"
+    },
+    {
+      "id": 126,
+      "ru": "Легкий",
+      "kk": "Жеңіл",
+      "ruTranscription": "жеңіл",
+      "kkTranscription": "Jeñıl",
+      "category": "adjectives"
+    },
+    {
+      "id": 127,
+      "ru": "Тяжелый",
+      "kk": "Ауыр",
+      "ruTranscription": "ауыр",
+      "kkTranscription": "Auyr",
+      "category": "adjectives"
     }
   ],
   "categories": {
@@ -483,6 +1028,11 @@
     "family": "Семья",
     "food": "Еда",
     "phrases": "Фразы",
-    "numbers": "Числа"
+    "numbers": "Числа",
+    "transport": "Транспорт",
+    "city": "Город",
+    "time": "Время и дата",
+    "colors": "Цвета",
+    "adjectives": "Прилагательные"
   }
 }
