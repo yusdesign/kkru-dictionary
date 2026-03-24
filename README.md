@@ -1,2 +1,2 @@
-# kzru-dictionary
+#### kzru-dictionary
 Kazakh-Russian Dictionary
