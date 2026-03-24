@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -1419,6 +1419,14 @@
       "ruTranscription": "шаштараз",
       "kkTranscription": "Şaştaraz",
       "category": "work"
+    },
+    {
+      "ru": "новое слово",
+      "kk": "жаңа сөз",
+      "ruTranscription": "транскрипция",
+      "kkTranscription": "Jaña söz",
+      "category": "category_name",
+      "id": 178
     }
   ],
   "categories": {
