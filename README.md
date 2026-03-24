@@ -1,4 +1,4 @@
-#### kzru-dictionary
+#### kkru < × > rukk
 Kazakh-Russian Dictionary
 
 ```text
