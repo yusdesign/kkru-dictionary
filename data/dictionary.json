@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -6403,6 +6403,374 @@
       "kkTranscription": "Kardiologiia",
       "category": "body",
       "id": 793
+    },
+    {
+      "ru": "Входить",
+      "kk": "Кіру",
+      "ruTranscription": "кіру",
+      "kkTranscription": "Kıru",
+      "category": "verbs",
+      "id": 794
+    },
+    {
+      "ru": "Выходить",
+      "kk": "Шығу",
+      "ruTranscription": "шығу",
+      "kkTranscription": "Şyğu",
+      "category": "verbs",
+      "id": 795
+    },
+    {
+      "ru": "Подходить",
+      "kk": "Жақындау",
+      "ruTranscription": "жақындау",
+      "kkTranscription": "Jaqyndau",
+      "category": "verbs",
+      "id": 796
+    },
+    {
+      "ru": "Отходить",
+      "kk": "Алыстау",
+      "ruTranscription": "алыстау",
+      "kkTranscription": "Alystau",
+      "category": "verbs",
+      "id": 797
+    },
+    {
+      "ru": "Переходить",
+      "kk": "Өту",
+      "ruTranscription": "өту",
+      "kkTranscription": "Ötu",
+      "category": "verbs",
+      "id": 798
+    },
+    {
+      "ru": "Обходить",
+      "kk": "Айналып өту",
+      "ruTranscription": "айналып өту",
+      "kkTranscription": "Ainalyp ötu",
+      "category": "verbs",
+      "id": 799
+    },
+    {
+      "ru": "Возвращаться",
+      "kk": "Қайту",
+      "ruTranscription": "қайту",
+      "kkTranscription": "Qaitu",
+      "category": "verbs",
+      "id": 800
+    },
+    {
+      "ru": "Оставаться",
+      "kk": "Қалу",
+      "ruTranscription": "қалу",
+      "kkTranscription": "Qalu",
+      "category": "verbs",
+      "id": 801
+    },
+    {
+      "ru": "Садиться",
+      "kk": "Отыру",
+      "ruTranscription": "отыру",
+      "kkTranscription": "Otyru",
+      "category": "verbs",
+      "id": 802
+    },
+    {
+      "ru": "Вставать",
+      "kk": "Тұру",
+      "ruTranscription": "тұру",
+      "kkTranscription": "Tūru",
+      "category": "verbs",
+      "id": 803
+    },
+    {
+      "ru": "Ложиться",
+      "kk": "Жату",
+      "ruTranscription": "жату",
+      "kkTranscription": "Jatu",
+      "category": "verbs",
+      "id": 804
+    },
+    {
+      "ru": "Просыпаться",
+      "kk": "Ояну",
+      "ruTranscription": "ояну",
+      "kkTranscription": "Oianu",
+      "category": "verbs",
+      "id": 805
+    },
+    {
+      "ru": "Засыпать",
+      "kk": "Ұйықтап кету",
+      "ruTranscription": "ұйықтап кету",
+      "kkTranscription": "Ūiyqtap ketu",
+      "category": "verbs",
+      "id": 806
+    },
+    {
+      "ru": "Улыбаться",
+      "kk": "Күлімсіреу",
+      "ruTranscription": "күлімсіреу",
+      "kkTranscription": "Külımsıreu",
+      "category": "verbs",
+      "id": 807
+    },
+    {
+      "ru": "Кричать",
+      "kk": "Айқайлау",
+      "ruTranscription": "айқайлау",
+      "kkTranscription": "Aiqailau",
+      "category": "verbs",
+      "id": 808
+    },
+    {
+      "ru": "Шептать",
+      "kk": "Сыбырлау",
+      "ruTranscription": "сыбырлау",
+      "kkTranscription": "Sybyrlau",
+      "category": "verbs",
+      "id": 809
+    },
+    {
+      "ru": "Молчать",
+      "kk": "Үнсіз қалу",
+      "ruTranscription": "үнсіз қалу",
+      "kkTranscription": "Ünsız qalu",
+      "category": "verbs",
+      "id": 810
+    },
+    {
+      "ru": "Спрашивать",
+      "kk": "Сұрау",
+      "ruTranscription": "сұрау",
+      "kkTranscription": "Sūrau",
+      "category": "verbs",
+      "id": 811
+    },
+    {
+      "ru": "Объяснять",
+      "kk": "Түсіндіру",
+      "ruTranscription": "түсіндіру",
+      "kkTranscription": "Tüsındıru",
+      "category": "verbs",
+      "id": 812
+    },
+    {
+      "ru": "Показывать",
+      "kk": "Көрсету",
+      "ruTranscription": "көрсету",
+      "kkTranscription": "Körsetu",
+      "category": "verbs",
+      "id": 813
+    },
+    {
+      "ru": "Скрывать",
+      "kk": "Жасыру",
+      "ruTranscription": "жасыру",
+      "kkTranscription": "Jasyru",
+      "category": "verbs",
+      "id": 814
+    },
+    {
+      "ru": "Терять",
+      "kk": "Жоғалту",
+      "ruTranscription": "жоғалту",
+      "kkTranscription": "Joğaltu",
+      "category": "verbs",
+      "id": 815
+    },
+    {
+      "ru": "Ломать",
+      "kk": "Сындыру",
+      "ruTranscription": "сындыру",
+      "kkTranscription": "Syndyru",
+      "category": "verbs",
+      "id": 816
+    },
+    {
+      "ru": "Чинить",
+      "kk": "Жөндеу",
+      "ruTranscription": "жөндеу",
+      "kkTranscription": "Jöndeu",
+      "category": "verbs",
+      "id": 817
+    },
+    {
+      "ru": "Рисовать",
+      "kk": "Сурет салу",
+      "ruTranscription": "сурет салу",
+      "kkTranscription": "Süret salu",
+      "category": "verbs",
+      "id": 818
+    },
+    {
+      "ru": "Фотографировать",
+      "kk": "Суретке түсіру",
+      "ruTranscription": "суретке түсіру",
+      "kkTranscription": "Süretke tüsıru",
+      "category": "verbs",
+      "id": 819
+    },
+    {
+      "ru": "Готовить",
+      "kk": "Дайындау",
+      "ruTranscription": "дайындау",
+      "kkTranscription": "Daiyndau",
+      "category": "verbs",
+      "id": 820
+    },
+    {
+      "ru": "Варить",
+      "kk": "Пісіру",
+      "ruTranscription": "пісіру",
+      "kkTranscription": "Pısıru",
+      "category": "verbs",
+      "id": 821
+    },
+    {
+      "ru": "Жарить",
+      "kk": "Қуыру",
+      "ruTranscription": "қуыру",
+      "kkTranscription": "Quyru",
+      "category": "verbs",
+      "id": 822
+    },
+    {
+      "ru": "Резать",
+      "kk": "Кесу",
+      "ruTranscription": "кесу",
+      "kkTranscription": "Kesu",
+      "category": "verbs",
+      "id": 823
+    },
+    {
+      "ru": "Мыть",
+      "kk": "Жуу",
+      "ruTranscription": "жуу",
+      "kkTranscription": "Juu",
+      "category": "verbs",
+      "id": 824
+    },
+    {
+      "ru": "Убирать",
+      "kk": "Жинау",
+      "ruTranscription": "жинау",
+      "kkTranscription": "Jinau",
+      "category": "verbs",
+      "id": 825
+    },
+    {
+      "ru": "Мечтать",
+      "kk": "Армандау",
+      "ruTranscription": "армандау",
+      "kkTranscription": "Armandau",
+      "category": "verbs",
+      "id": 826
+    },
+    {
+      "ru": "Надеяться",
+      "kk": "Үміттену",
+      "ruTranscription": "үміттену",
+      "kkTranscription": "Ümıttenu",
+      "category": "verbs",
+      "id": 827
+    },
+    {
+      "ru": "Бояться",
+      "kk": "Қорқу",
+      "ruTranscription": "қорқу",
+      "kkTranscription": "Qorqu",
+      "category": "verbs",
+      "id": 828
+    },
+    {
+      "ru": "Удивляться",
+      "kk": "Таңдану",
+      "ruTranscription": "таңдану",
+      "kkTranscription": "Tañdanu",
+      "category": "verbs",
+      "id": 829
+    },
+    {
+      "ru": "Злиться",
+      "kk": "Ашулану",
+      "ruTranscription": "ашулану",
+      "kkTranscription": "Aşulanu",
+      "category": "verbs",
+      "id": 830
+    },
+    {
+      "ru": "Радоваться",
+      "kk": "Қуану",
+      "ruTranscription": "қуану",
+      "kkTranscription": "Quanu",
+      "category": "verbs",
+      "id": 831
+    },
+    {
+      "ru": "Грустить",
+      "kk": "Қайғыру",
+      "ruTranscription": "қайғыру",
+      "kkTranscription": "Qaiğyru",
+      "category": "verbs",
+      "id": 832
+    },
+    {
+      "ru": "Скучать",
+      "kk": "Сағыну",
+      "ruTranscription": "сағыну",
+      "kkTranscription": "Sağynu",
+      "category": "verbs",
+      "id": 833
+    },
+    {
+      "ru": "Уставать",
+      "kk": "Шаршау",
+      "ruTranscription": "шаршау",
+      "kkTranscription": "Şarşau",
+      "category": "verbs",
+      "id": 834
+    },
+    {
+      "ru": "Отдыхать",
+      "kk": "Демалу",
+      "ruTranscription": "демалу",
+      "kkTranscription": "Demalu",
+      "category": "verbs",
+      "id": 835
+    },
+    {
+      "ru": "Родиться",
+      "kk": "Туу",
+      "ruTranscription": "туу",
+      "kkTranscription": "Tuu",
+      "category": "verbs",
+      "id": 836
+    },
+    {
+      "ru": "Умирать",
+      "kk": "Өлу",
+      "ruTranscription": "өлу",
+      "kkTranscription": "Ölu",
+      "category": "verbs",
+      "id": 837
+    },
+    {
+      "ru": "Расти",
+      "kk": "Өсу",
+      "ruTranscription": "өсу",
+      "kkTranscription": "Ösu",
+      "category": "verbs",
+      "id": 838
+    },
+    {
+      "ru": "Меняться",
+      "kk": "Өзгеру",
+      "ruTranscription": "өзгеру",
+      "kkTranscription": "Özgeru",
+      "category": "verbs",
+      "id": 839
     }
   ],
   "categories": {
