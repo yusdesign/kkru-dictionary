@@ -16,6 +16,9 @@ async function loadDictionary() {
         
         // Показываем все слова
         showAllWords();
+
+        updateVersionInfo();
+        updateHeader();
         
     } catch (error) {
         console.error('Ошибка загрузки словаря:', error);
@@ -164,6 +167,32 @@ function displayResults(results) {
     }).join('');
 }
 
+// Обновление заголовка в зависимости от направления
+function updateHeader() {
+    const direction = document.getElementById('directionSelect').value;
+    const mainTitle = document.getElementById('mainTitle');
+    const subTitle = document.getElementById('subTitle');
+    
+    if (direction === 'ru-kk') {
+        mainTitle.textContent = '🇷🇺 Русско-Казахский словарь';
+        subTitle.textContent = 'Орысша-қазақша сөздік';
+    } else if (direction === 'kk-ru') {
+        mainTitle.textContent = '🇰🇿 Казахско-Русский словарь';
+        subTitle.textContent = 'Қазақша-орысша сөздік';
+    } else {
+        mainTitle.textContent = '📖 Русско-Казахский словарь';
+        subTitle.textContent = 'Қазақша-орысша сөздік';
+    }
+}
+
+// Обновление информации о версии в footer
+function updateVersionInfo() {
+    if (dictionaryData) {
+        document.getElementById('version').textContent = `Версия: ${dictionaryData.version}`;
+        document.getElementById('lastUpdated').textContent = `Обновлено: ${dictionaryData.lastUpdated}`;
+    }
+}
+
 // Экспорт данных для администрирования
 function exportData() {
     const dataStr = JSON.stringify(dictionaryData, null, 2);
@@ -186,7 +215,11 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('searchInput').addEventListener('keypress', (e) => {
         if (e.key === 'Enter') search();
     });
-    document.getElementById('directionSelect').addEventListener('change', search);
+    document.getElementById('directionSelect').addEventListener('change', () => {
+        updateHeader();
+        search();
+    });
+    // document.getElementById('directionSelect').addEventListener('change', search);
     document.getElementById('categorySelect').addEventListener('change', search);
 });
 
