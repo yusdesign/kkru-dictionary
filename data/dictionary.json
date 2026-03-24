@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -3731,6 +3731,190 @@
       "kkTranscription": "Qate",
       "category": "technology",
       "id": 466
+    },
+    {
+      "ru": "Технология",
+      "kk": "Технология",
+      "ruTranscription": "технология",
+      "kkTranscription": "Tekhnologiia",
+      "category": "technology",
+      "id": 467
+    },
+    {
+      "ru": "Компьютер",
+      "kk": "Компьютер",
+      "ruTranscription": "компьютер",
+      "kkTranscription": "Kompiuter",
+      "category": "technology",
+      "id": 468
+    },
+    {
+      "ru": "Ноутбук",
+      "kk": "Ноутбук",
+      "ruTranscription": "ноутбук",
+      "kkTranscription": "Noutbuk",
+      "category": "technology",
+      "id": 469
+    },
+    {
+      "ru": "Телефон",
+      "kk": "Телефон",
+      "ruTranscription": "телефон",
+      "kkTranscription": "Telefon",
+      "category": "technology",
+      "id": 470
+    },
+    {
+      "ru": "Смартфон",
+      "kk": "Смартфон",
+      "ruTranscription": "смартфон",
+      "kkTranscription": "Smartfon",
+      "category": "technology",
+      "id": 471
+    },
+    {
+      "ru": "Планшет",
+      "kk": "Планшет",
+      "ruTranscription": "планшет",
+      "kkTranscription": "Planshet",
+      "category": "technology",
+      "id": 472
+    },
+    {
+      "ru": "Интернет",
+      "kk": "Интернет",
+      "ruTranscription": "интернет",
+      "kkTranscription": "Internet",
+      "category": "technology",
+      "id": 473
+    },
+    {
+      "ru": "Сайт",
+      "kk": "Сайт",
+      "ruTranscription": "сайт",
+      "kkTranscription": "Sait",
+      "category": "technology",
+      "id": 474
+    },
+    {
+      "ru": "Приложение",
+      "kk": "Қосымша",
+      "ruTranscription": "қосымша",
+      "kkTranscription": "Qosymşa",
+      "category": "technology",
+      "id": 475
+    },
+    {
+      "ru": "Программа",
+      "kk": "Бағдарлама",
+      "ruTranscription": "бағдарлама",
+      "kkTranscription": "Bağdarlama",
+      "category": "technology",
+      "id": 476
+    },
+    {
+      "ru": "Экран",
+      "kk": "Экран",
+      "ruTranscription": "экран",
+      "kkTranscription": "Ekran",
+      "category": "technology",
+      "id": 477
+    },
+    {
+      "ru": "Клавиатура",
+      "kk": "Пернетақта",
+      "ruTranscription": "пернетақта",
+      "kkTranscription": "Pernetaqta",
+      "category": "technology",
+      "id": 478
+    },
+    {
+      "ru": "Мышь",
+      "kk": "Тышқан",
+      "ruTranscription": "тышқан",
+      "kkTranscription": "Tyşqan",
+      "category": "technology",
+      "id": 479
+    },
+    {
+      "ru": "Зарядка",
+      "kk": "Зарядтағыш",
+      "ruTranscription": "зарядтағыш",
+      "kkTranscription": "Zaryadtağyş",
+      "category": "technology",
+      "id": 480
+    },
+    {
+      "ru": "Батарея",
+      "kk": "Батарея",
+      "ruTranscription": "батарея",
+      "kkTranscription": "Batareia",
+      "category": "technology",
+      "id": 481
+    },
+    {
+      "ru": "Wi-Fi",
+      "kk": "Wi-Fi",
+      "ruTranscription": "вай-фай",
+      "kkTranscription": "Wai-Fai",
+      "category": "technology",
+      "id": 482
+    },
+    {
+      "ru": "Пароль",
+      "kk": "Құпиясөз",
+      "ruTranscription": "құпиясөз",
+      "kkTranscription": "Qūpiasöz",
+      "category": "technology",
+      "id": 483
+    },
+    {
+      "ru": "Фото",
+      "kk": "Сурет",
+      "ruTranscription": "сурет",
+      "kkTranscription": "Süret",
+      "category": "technology",
+      "id": 484
+    },
+    {
+      "ru": "Видео",
+      "kk": "Бейне",
+      "ruTranscription": "бейне",
+      "kkTranscription": "Beine",
+      "category": "technology",
+      "id": 485
+    },
+    {
+      "ru": "Звук",
+      "kk": "Дыбыс",
+      "ruTranscription": "дыбыс",
+      "kkTranscription": "Dybys",
+      "category": "technology",
+      "id": 486
+    },
+    {
+      "ru": "Настройки",
+      "kk": "Баптаулар",
+      "ruTranscription": "баптаулар",
+      "kkTranscription": "Baptaular",
+      "category": "technology",
+      "id": 487
+    },
+    {
+      "ru": "Обновление",
+      "kk": "Жаңарту",
+      "ruTranscription": "жаңарту",
+      "kkTranscription": "Jañartu",
+      "category": "technology",
+      "id": 488
+    },
+    {
+      "ru": "Ошибка",
+      "kk": "Қате",
+      "ruTranscription": "қате",
+      "kkTranscription": "Qate",
+      "category": "technology",
+      "id": 489
     }
   ],
   "categories": {
