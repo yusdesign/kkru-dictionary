@@ -1,5 +1,5 @@
 {
-  "version": "1.0.62",
+  "version": "1.0.63",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -14043,6 +14043,454 @@
       "kkTranscription": "Şynjyr",
       "category": "technology",
       "id": 1748
+    },
+    {
+      "ru": "Музыка",
+      "kk": "Музыка",
+      "ruTranscription": "музыка",
+      "kkTranscription": "Muzyka",
+      "category": "culture",
+      "id": 1749
+    },
+    {
+      "ru": "Песня",
+      "kk": "Ән",
+      "ruTranscription": "ән",
+      "kkTranscription": "Än",
+      "category": "culture",
+      "id": 1750
+    },
+    {
+      "ru": "Мелодия",
+      "kk": "Әуен",
+      "ruTranscription": "әуен",
+      "kkTranscription": "Äuen",
+      "category": "culture",
+      "id": 1751
+    },
+    {
+      "ru": "Ритм",
+      "kk": "Ырғақ",
+      "ruTranscription": "ырғақ",
+      "kkTranscription": "Yrğaq",
+      "category": "culture",
+      "id": 1752
+    },
+    {
+      "ru": "Нота",
+      "kk": "Нота",
+      "ruTranscription": "нота",
+      "kkTranscription": "Nota",
+      "category": "culture",
+      "id": 1753
+    },
+    {
+      "ru": "Инструмент",
+      "kk": "Аспап",
+      "ruTranscription": "аспап",
+      "kkTranscription": "Aspap",
+      "category": "culture",
+      "id": 1754
+    },
+    {
+      "ru": "Гитара",
+      "kk": "Гитара",
+      "ruTranscription": "гитара",
+      "kkTranscription": "Gitara",
+      "category": "culture",
+      "id": 1755
+    },
+    {
+      "ru": "Скрипка",
+      "kk": "Скрипка",
+      "ruTranscription": "скрипка",
+      "kkTranscription": "Skripka",
+      "category": "culture",
+      "id": 1756
+    },
+    {
+      "ru": "Фортепиано",
+      "kk": "Фортепиано",
+      "ruTranscription": "фортепиано",
+      "kkTranscription": "Fortepiano",
+      "category": "culture",
+      "id": 1757
+    },
+    {
+      "ru": "Рояль",
+      "kk": "Рояль",
+      "ruTranscription": "рояль",
+      "kkTranscription": "Roial",
+      "category": "culture",
+      "id": 1758
+    },
+    {
+      "ru": "Барабан",
+      "kk": "Барабан",
+      "ruTranscription": "барабан",
+      "kkTranscription": "Baraban",
+      "category": "culture",
+      "id": 1759
+    },
+    {
+      "ru": "Оркестр",
+      "kk": "Оркестр",
+      "ruTranscription": "оркестр",
+      "kkTranscription": "Orkestr",
+      "category": "culture",
+      "id": 1760
+    },
+    {
+      "ru": "Хор",
+      "kk": "Хор",
+      "ruTranscription": "хор",
+      "kkTranscription": "Khor",
+      "category": "culture",
+      "id": 1761
+    },
+    {
+      "ru": "Концерт",
+      "kk": "Концерт",
+      "ruTranscription": "концерт",
+      "kkTranscription": "Kontsert",
+      "category": "culture",
+      "id": 1762
+    },
+    {
+      "ru": "Фестиваль",
+      "kk": "Фестиваль",
+      "ruTranscription": "фестиваль",
+      "kkTranscription": "Festival",
+      "category": "culture",
+      "id": 1763
+    },
+    {
+      "ru": "Живопись",
+      "kk": "Кескіндеме",
+      "ruTranscription": "кескіндеме",
+      "kkTranscription": "Keskındeme",
+      "category": "culture",
+      "id": 1764
+    },
+    {
+      "ru": "Рисунок",
+      "kk": "Сурет",
+      "ruTranscription": "сурет",
+      "kkTranscription": "Süret",
+      "category": "culture",
+      "id": 1765
+    },
+    {
+      "ru": "Картина",
+      "kk": "Көркемсурет",
+      "ruTranscription": "көркемсурет",
+      "kkTranscription": "Körkemsüret",
+      "category": "culture",
+      "id": 1766
+    },
+    {
+      "ru": "Портрет",
+      "kk": "Портрет",
+      "ruTranscription": "портрет",
+      "kkTranscription": "Portret",
+      "category": "culture",
+      "id": 1767
+    },
+    {
+      "ru": "Пейзаж",
+      "kk": "Пейзаж",
+      "ruTranscription": "пейзаж",
+      "kkTranscription": "Peizaj",
+      "category": "culture",
+      "id": 1768
+    },
+    {
+      "ru": "Натюрморт",
+      "kk": "Натюрморт",
+      "ruTranscription": "натюрморт",
+      "kkTranscription": "Natiurmort",
+      "category": "culture",
+      "id": 1769
+    },
+    {
+      "ru": "Краска",
+      "kk": "Бояу",
+      "ruTranscription": "бояу",
+      "kkTranscription": "Boiаu",
+      "category": "culture",
+      "id": 1770
+    },
+    {
+      "ru": "Кисть",
+      "kk": "Қылқалам",
+      "ruTranscription": "қылқалам",
+      "kkTranscription": "Qylqalam",
+      "category": "culture",
+      "id": 1771
+    },
+    {
+      "ru": "Холст",
+      "kk": "Кенеп",
+      "ruTranscription": "кенеп",
+      "kkTranscription": "Kenep",
+      "category": "culture",
+      "id": 1772
+    },
+    {
+      "ru": "Мольберт",
+      "kk": "Мольберт",
+      "ruTranscription": "мольберт",
+      "kkTranscription": "Mol'bert",
+      "category": "culture",
+      "id": 1773
+    },
+    {
+      "ru": "Скульптура",
+      "kk": "Мүсін",
+      "ruTranscription": "мүсін",
+      "kkTranscription": "Müsın",
+      "category": "culture",
+      "id": 1774
+    },
+    {
+      "ru": "Статуя",
+      "kk": "Мүсін",
+      "ruTranscription": "мүсін",
+      "kkTranscription": "Müsın",
+      "category": "culture",
+      "id": 1775
+    },
+    {
+      "ru": "Архитектура",
+      "kk": "Сәулет",
+      "ruTranscription": "сәулет",
+      "kkTranscription": "Säulet",
+      "category": "culture",
+      "id": 1776
+    },
+    {
+      "ru": "Сцена",
+      "kk": "Сахиа",
+      "ruTranscription": "сахиа",
+      "kkTranscription": "Sakhia",
+      "category": "culture",
+      "id": 1777
+    },
+    {
+      "ru": "Спектакль",
+      "kk": "Қойылым",
+      "ruTranscription": "қойылым",
+      "kkTranscription": "Qoiylym",
+      "category": "culture",
+      "id": 1778
+    },
+    {
+      "ru": "Опера",
+      "kk": "Опера",
+      "ruTranscription": "опера",
+      "kkTranscription": "Opera",
+      "category": "culture",
+      "id": 1779
+    },
+    {
+      "ru": "Балет",
+      "kk": "Балет",
+      "ruTranscription": "балет",
+      "kkTranscription": "Balet",
+      "category": "culture",
+      "id": 1780
+    },
+    {
+      "ru": "Танец",
+      "kk": "Би",
+      "ruTranscription": "би",
+      "kkTranscription": "Bi",
+      "category": "culture",
+      "id": 1781
+    },
+    {
+      "ru": "Хореография",
+      "kk": "Хореография",
+      "ruTranscription": "хореография",
+      "kkTranscription": "Khoreografiia",
+      "category": "culture",
+      "id": 1782
+    },
+    {
+      "ru": "Кино",
+      "kk": "Кино",
+      "ruTranscription": "кино",
+      "kkTranscription": "Kino",
+      "category": "culture",
+      "id": 1783
+    },
+    {
+      "ru": "Фильм",
+      "kk": "Фильм",
+      "ruTranscription": "фильм",
+      "kkTranscription": "F ilm",
+      "category": "culture",
+      "id": 1784
+    },
+    {
+      "ru": "Актер",
+      "kk": "Актер",
+      "ruTranscription": "актер",
+      "kkTranscription": "A ktеr",
+      "category": "culture",
+      "id": 1785
+    },
+    {
+      "ru": "Актриса",
+      "kk": "Актриса",
+      "ruTranscription": "актриса",
+      "kkTranscription": "A ktrisa",
+      "category": "culture",
+      "id": 1786
+    },
+    {
+      "ru": "Режиссер",
+      "kk": "Режиссер",
+      "ruTranscription": "режиссер",
+      "kkTranscription": "Rejisser",
+      "category": "culture",
+      "id": 1787
+    },
+    {
+      "ru": "Сценарий",
+      "kk": "Сценарий",
+      "ruTranscription": "сценарий",
+      "kkTranscription": "Stsenarii",
+      "category": "culture",
+      "id": 1788
+    },
+    {
+      "ru": "Поэзия",
+      "kk": "Поэзия",
+      "ruTranscription": "поэзия",
+      "kkTranscription": "Poеziia",
+      "category": "literature",
+      "id": 1789
+    },
+    {
+      "ru": "Проза",
+      "kk": "Проза",
+      "ruTranscription": "проза",
+      "kkTranscription": "Proza",
+      "category": "literature",
+      "id": 1790
+    },
+    {
+      "ru": "Стих",
+      "kk": "Өлең",
+      "ruTranscription": "өлең",
+      "kkTranscription": "Öleñ",
+      "category": "literature",
+      "id": 1791
+    },
+    {
+      "ru": "Миф",
+      "kk": "Миф",
+      "ruTranscription": "миф",
+      "kkTranscription": "Mif",
+      "category": "culture",
+      "id": 1792
+    },
+    {
+      "ru": "Праздник",
+      "kk": "Мереке",
+      "ruTranscription": "мереке",
+      "kkTranscription": "Mereke",
+      "category": "culture",
+      "id": 1793
+    },
+    {
+      "ru": "Каллиграфия",
+      "kk": "Каллиграфия",
+      "ruTranscription": "каллиграфия",
+      "kkTranscription": "Kalligrafiia",
+      "category": "culture",
+      "id": 1794
+    },
+    {
+      "ru": "Орнамент",
+      "kk": "Ою-өрнек",
+      "ruTranscription": "ою-өрнек",
+      "kkTranscription": "Oiu-örnek",
+      "category": "culture",
+      "id": 1795
+    },
+    {
+      "ru": "Килим",
+      "kk": "Кілем",
+      "ruTranscription": "кілем",
+      "kkTranscription": "Kılem",
+      "category": "culture",
+      "id": 1796
+    },
+    {
+      "ru": "Шанырак",
+      "kk": "Шаңырақ",
+      "ruTranscription": "шаңырақ",
+      "kkTranscription": "Shañyraq",
+      "category": "culture",
+      "id": 1797
+    },
+    {
+      "ru": "Юрта",
+      "kk": "Киіз үй",
+      "ruTranscription": "киіз үй",
+      "kkTranscription": "Kiız üi",
+      "category": "culture",
+      "id": 1798
+    },
+    {
+      "ru": "Галерея",
+      "kk": "Галерея",
+      "ruTranscription": "галерея",
+      "kkTranscription": "Galereia",
+      "category": "culture",
+      "id": 1799
+    },
+    {
+      "ru": "Выставка",
+      "kk": "Көрме",
+      "ruTranscription": "көрме",
+      "kkTranscription": "Körme",
+      "category": "culture",
+      "id": 1800
+    },
+    {
+      "ru": "Вернисаж",
+      "kk": "Вернисаж",
+      "ruTranscription": "вернисаж",
+      "kkTranscription": "Vernisaj",
+      "category": "culture",
+      "id": 1801
+    },
+    {
+      "ru": "Шедевр",
+      "kk": "Шедевр",
+      "ruTranscription": "шедевр",
+      "kkTranscription": "Shedevr",
+      "category": "culture",
+      "id": 1802
+    },
+    {
+      "ru": "Вдохновение",
+      "kk": "Шабыт",
+      "ruTranscription": "шабыт",
+      "kkTranscription": "Shabyt",
+      "category": "culture",
+      "id": 1803
+    },
+    {
+      "ru": "Творчество",
+      "kk": "Шығармашылық",
+      "ruTranscription": "шығармашылық",
+      "kkTranscription": "Şyğarmaşylyq",
+      "category": "culture",
+      "id": 1804
     }
   ],
   "categories": {
