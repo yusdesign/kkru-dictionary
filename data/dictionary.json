@@ -1,5 +1,5 @@
 {
-  "version": "1.0.70",
+  "version": "1.0.71",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -17382,6 +17382,511 @@
       "kkTranscription": "Litsenziia",
       "category": "basic",
       "id": 2165
+    },
+    {
+      "ru": "Финансы",
+      "kk": "Қаржы",
+      "ruTranscription": "қаржы",
+      "kkTranscription": "Qarjy",
+      "category": "business",
+      "id": 2166
+    },
+    {
+      "ru": "Деньги",
+      "kk": "Ақша",
+      "ruTranscription": "ақша",
+      "kkTranscription": "Aqşa",
+      "category": "basic",
+      "id": 2167
+    },
+    {
+      "ru": "Валюта",
+      "kk": "Валюта",
+      "ruTranscription": "валюта",
+      "kkTranscription": "Valiuta",
+      "category": "business",
+      "id": 2168
+    },
+    {
+      "ru": "Тенге",
+      "kk": "Теңге",
+      "ruTranscription": "теңге",
+      "kkTranscription": "Teñge",
+      "category": "basic",
+      "id": 2169
+    },
+    {
+      "ru": "Доллар",
+      "kk": "Доллар",
+      "ruTranscription": "доллар",
+      "kkTranscription": "Dollar",
+      "category": "basic",
+      "id": 2170
+    },
+    {
+      "ru": "Евро",
+      "kk": "Еуро",
+      "ruTranscription": "еуро",
+      "kkTranscription": "Euro",
+      "category": "basic",
+      "id": 2171
+    },
+    {
+      "ru": "Рубль",
+      "kk": "Рубль",
+      "ruTranscription": "рубль",
+      "kkTranscription": "Rubl",
+      "category": "basic",
+      "id": 2172
+    },
+    {
+      "ru": "Бюджет",
+      "kk": "Бюджет",
+      "ruTranscription": "бюджет",
+      "kkTranscription": "Biudzhet",
+      "category": "business",
+      "id": 2173
+    },
+    {
+      "ru": "Налог",
+      "kk": "Салық",
+      "ruTranscription": "салық",
+      "kkTranscription": "Salyq",
+      "category": "business",
+      "id": 2174
+    },
+    {
+      "ru": "Доход",
+      "kk": "Кіріс",
+      "ruTranscription": "кіріс",
+      "kkTranscription": "Kırıs",
+      "category": "business",
+      "id": 2175
+    },
+    {
+      "ru": "Расход",
+      "kk": "Шығыс",
+      "ruTranscription": "шығыс",
+      "kkTranscription": "Şyğys",
+      "category": "business",
+      "id": 2176
+    },
+    {
+      "ru": "Пенсия",
+      "kk": "Зейнетақы",
+      "ruTranscription": "зейнетақы",
+      "kkTranscription": "Zeinetaqy",
+      "category": "basic",
+      "id": 2177
+    },
+    {
+      "ru": "Кредит",
+      "kk": "Несие",
+      "ruTranscription": "несие",
+      "kkTranscription": "Nesie",
+      "category": "business",
+      "id": 2178
+    },
+    {
+      "ru": "Займ",
+      "kk": "Қарыз",
+      "ruTranscription": "қарыз",
+      "kkTranscription": "Qaryz",
+      "category": "business",
+      "id": 2179
+    },
+    {
+      "ru": "Процент",
+      "kk": "Пайыз",
+      "ruTranscription": "пайыз",
+      "kkTranscription": "Paiyz",
+      "category": "business",
+      "id": 2180
+    },
+    {
+      "ru": "Ставка",
+      "kk": "Мөлшерлеме",
+      "ruTranscription": "мөлшерлеме",
+      "kkTranscription": "Mölşerleme",
+      "category": "business",
+      "id": 2181
+    },
+    {
+      "ru": "Акция",
+      "kk": "Акция",
+      "ruTranscription": "акция",
+      "kkTranscription": "Aksiia",
+      "category": "business",
+      "id": 2182
+    },
+    {
+      "ru": "Облигация",
+      "kk": "Облигация",
+      "ruTranscription": "облигация",
+      "kkTranscription": "Obligatsiia",
+      "category": "business",
+      "id": 2183
+    },
+    {
+      "ru": "Дивиденд",
+      "kk": "Дивиденд",
+      "ruTranscription": "дивиденд",
+      "kkTranscription": "Dividend",
+      "category": "business",
+      "id": 2184
+    },
+    {
+      "ru": "Счёт",
+      "kk": "Шот",
+      "ruTranscription": "шот",
+      "kkTranscription": "Şot",
+      "category": "business",
+      "id": 2185
+    },
+    {
+      "ru": "Наличные",
+      "kk": "Қолма-қол ақша",
+      "ruTranscription": "қолма-қол ақша",
+      "kkTranscription": "Qolma-qol aqşa",
+      "category": "business",
+      "id": 2186
+    },
+    {
+      "ru": "Безналичный",
+      "kk": "Қолма-қол емес",
+      "ruTranscription": "қолма-қол емес",
+      "kkTranscription": "Qolma-qol emes",
+      "category": "business",
+      "id": 2187
+    },
+    {
+      "ru": "Перевод",
+      "kk": "Аударым",
+      "ruTranscription": "аударым",
+      "kkTranscription": "Audarym",
+      "category": "business",
+      "id": 2188
+    },
+    {
+      "ru": "Платёж",
+      "kk": "Төлем",
+      "ruTranscription": "төлем",
+      "kkTranscription": "Tölem",
+      "category": "business",
+      "id": 2189
+    },
+    {
+      "ru": "Оплата",
+      "kk": "Төлем",
+      "ruTranscription": "төлем",
+      "kkTranscription": "Tölem",
+      "category": "business",
+      "id": 2190
+    },
+    {
+      "ru": "Комиссия",
+      "kk": "Комиссия",
+      "ruTranscription": "комиссия",
+      "kkTranscription": "Komissiia",
+      "category": "business",
+      "id": 2191
+    },
+    {
+      "ru": "НДС",
+      "kk": "ҚҚС",
+      "ruTranscription": "ққс",
+      "kkTranscription": "QQS",
+      "category": "business",
+      "note": "Налог на добавленную стоимость",
+      "id": 2192
+    },
+    {
+      "ru": "Инфляция",
+      "kk": "Инфляция",
+      "ruTranscription": "инфляция",
+      "kkTranscription": "Infliatsiia",
+      "category": "business",
+      "id": 2193
+    },
+    {
+      "ru": "Дефляция",
+      "kk": "Дефляция",
+      "ruTranscription": "дефляция",
+      "kkTranscription": "Defliatsiia",
+      "category": "business",
+      "id": 2194
+    },
+    {
+      "ru": "Девальвация",
+      "kk": "Девальвация",
+      "ruTranscription": "девальвация",
+      "kkTranscription": "Devalvatsiia",
+      "category": "business",
+      "id": 2195
+    },
+    {
+      "ru": "Курс",
+      "kk": "Бағам",
+      "ruTranscription": "бағам",
+      "kkTranscription": "Bağam",
+      "category": "business",
+      "id": 2196
+    },
+    {
+      "ru": "Биржа",
+      "kk": "Биржа",
+      "ruTranscription": "биржа",
+      "kkTranscription": "Birzha",
+      "category": "business",
+      "id": 2197
+    },
+    {
+      "ru": "Монополия",
+      "kk": "Монополия",
+      "ruTranscription": "монополия",
+      "kkTranscription": "Monopoliia",
+      "category": "business",
+      "id": 2198
+    },
+    {
+      "ru": "Предприниматель",
+      "kk": "Кәсіпкер",
+      "ruTranscription": "кәсіпкер",
+      "kkTranscription": "Käsıpker",
+      "category": "business",
+      "id": 2199
+    },
+    {
+      "ru": "Бизнесмен",
+      "kk": "Бизнесмен",
+      "ruTranscription": "бизнесмен",
+      "kkTranscription": "Biznesmen",
+      "category": "business",
+      "id": 2200
+    },
+    {
+      "ru": "Инвестор",
+      "kk": "Инвестор",
+      "ruTranscription": "инвестор",
+      "kkTranscription": "Investor",
+      "category": "business",
+      "id": 2201
+    },
+    {
+      "ru": "Акционер",
+      "kk": "Акционер",
+      "ruTranscription": "акционер",
+      "kkTranscription": "Aksioner",
+      "category": "business",
+      "id": 2202
+    },
+    {
+      "ru": "Актив",
+      "kk": "Актив",
+      "ruTranscription": "актив",
+      "kkTranscription": "Aktiv",
+      "category": "business",
+      "id": 2203
+    },
+    {
+      "ru": "Пассив",
+      "kk": "Пассив",
+      "ruTranscription": "пассив",
+      "kkTranscription": "Passiv",
+      "category": "business",
+      "id": 2204
+    },
+    {
+      "ru": "Капитал",
+      "kk": "Капитал",
+      "ruTranscription": "капитал",
+      "kkTranscription": "Kapital",
+      "category": "business",
+      "id": 2205
+    },
+    {
+      "ru": "Инвестиционный фонд",
+      "kk": "Инвестициялық қор",
+      "ruTranscription": "инвестициялық қор",
+      "kkTranscription": "Investitsialyq qor",
+      "category": "business",
+      "id": 2206
+    },
+    {
+      "ru": "Страхование",
+      "kk": "Сақтандыру",
+      "ruTranscription": "сақтандыру",
+      "kkTranscription": "Saqtandyru",
+      "category": "business",
+      "id": 2207
+    },
+    {
+      "ru": "Полис",
+      "kk": "Полис",
+      "ruTranscription": "полис",
+      "kkTranscription": "Polis",
+      "category": "business",
+      "id": 2208
+    },
+    {
+      "ru": "Бухгалтерия",
+      "kk": "Бухгалтерия",
+      "ruTranscription": "бухгалтерия",
+      "kkTranscription": "Bukhgalteriia",
+      "category": "business",
+      "id": 2209
+    },
+    {
+      "ru": "Баланс",
+      "kk": "Баланс",
+      "ruTranscription": "баланс",
+      "kkTranscription": "Balans",
+      "category": "business",
+      "id": 2210
+    },
+    {
+      "ru": "Дебит",
+      "kk": "Дебит",
+      "ruTranscription": "дебит",
+      "kkTranscription": "Debit",
+      "category": "business",
+      "id": 2211
+    },
+    {
+      "ru": "Кредит",
+      "kk": "Кредит",
+      "ruTranscription": "кредит",
+      "kkTranscription": "Kredit",
+      "category": "business",
+      "id": 2212
+    },
+    {
+      "ru": "Инкассация",
+      "kk": "Инкассация",
+      "ruTranscription": "инкассация",
+      "kkTranscription": "Inkassatsiia",
+      "category": "business",
+      "id": 2213
+    },
+    {
+      "ru": "Лизинг",
+      "kk": "Лизинг",
+      "ruTranscription": "лизинг",
+      "kkTranscription": "Lizing",
+      "category": "business",
+      "id": 2214
+    },
+    {
+      "ru": "Франшиза",
+      "kk": "Франшиза",
+      "ruTranscription": "франшиза",
+      "kkTranscription": "Franshiza",
+      "category": "business",
+      "id": 2215
+    },
+    {
+      "ru": "Стартап",
+      "kk": "Стартап",
+      "ruTranscription": "стартап",
+      "kkTranscription": "Startap",
+      "category": "business",
+      "id": 2216
+    },
+    {
+      "ru": "Криптовалюта",
+      "kk": "Криптовалюта",
+      "ruTranscription": "криптовалюта",
+      "kkTranscription": "Kriptovaliuta",
+      "category": "business",
+      "id": 2217
+    },
+    {
+      "ru": "Биткоин",
+      "kk": "Биткоин",
+      "ruTranscription": "биткоин",
+      "kkTranscription": "Bitkoin",
+      "category": "business",
+      "id": 2218
+    },
+    {
+      "ru": "Трейдер",
+      "kk": "Трейдер",
+      "ruTranscription": "трейдер",
+      "kkTranscription": "Treider",
+      "category": "business",
+      "id": 2219
+    },
+    {
+      "ru": "Брокер",
+      "kk": "Брокер",
+      "ruTranscription": "брокер",
+      "kkTranscription": "Broker",
+      "category": "business",
+      "id": 2220
+    },
+    {
+      "ru": "Дилер",
+      "kk": "Дилер",
+      "ruTranscription": "дилер",
+      "kkTranscription": "Diler",
+      "category": "business",
+      "id": 2221
+    },
+    {
+      "ru": "Маркетинг",
+      "kk": "Маркетинг",
+      "ruTranscription": "маркетинг",
+      "kkTranscription": "Marketing",
+      "category": "business",
+      "id": 2222
+    },
+    {
+      "ru": "Реклама",
+      "kk": "Жарнама",
+      "ruTranscription": "жарнама",
+      "kkTranscription": "Jarnama",
+      "category": "business",
+      "id": 2223
+    },
+    {
+      "ru": "Бренд",
+      "kk": "Бренд",
+      "ruTranscription": "бренд",
+      "kkTranscription": "Brend",
+      "category": "business",
+      "id": 2224
+    },
+    {
+      "ru": "Товар",
+      "kk": "Тауар",
+      "ruTranscription": "тауар",
+      "kkTranscription": "Tauar",
+      "category": "business",
+      "id": 2225
+    },
+    {
+      "ru": "Услуга",
+      "kk": "Қызмет",
+      "ruTranscription": "қызмет",
+      "kkTranscription": "Qyzmet",
+      "category": "business",
+      "id": 2226
+    },
+    {
+      "ru": "Спрос",
+      "kk": "Сұраныс",
+      "ruTranscription": "сұраныс",
+      "kkTranscription": "Sūranys",
+      "category": "business",
+      "id": 2227
+    },
+    {
+      "ru": "Себестоимость",
+      "kk": "Өзіндік құн",
+      "ruTranscription": "өзіндік құн",
+      "kkTranscription": "Özındık qūn",
+      "category": "business",
+      "id": 2228
     }
   ],
   "categories": {
