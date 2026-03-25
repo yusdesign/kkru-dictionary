@@ -1,5 +1,5 @@
 {
-  "version": "1.0.82",
+  "version": "1.0.83",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -21391,6 +21391,270 @@
       "kkTranscription": "Maqsatty bağyttau",
       "category": "technology",
       "id": 2666
+    },
+    {
+      "ru": "Экскурсовод",
+      "kk": "Экскурсовод",
+      "ruTranscription": "экскурсовод",
+      "kkTranscription": "Ekskursovod",
+      "category": "travel",
+      "id": 2667
+    },
+    {
+      "ru": "Хостел",
+      "kk": "Хостел",
+      "ruTranscription": "хостел",
+      "kkTranscription": "Khostel",
+      "category": "travel",
+      "id": 2668
+    },
+    {
+      "ru": "Глэмпинг",
+      "kk": "Глэмпинг",
+      "ruTranscription": "глэмпинг",
+      "kkTranscription": "Glemping",
+      "category": "travel",
+      "id": 2669
+    },
+    {
+      "ru": "Кемпинг",
+      "kk": "Кемпинг",
+      "ruTranscription": "кемпинг",
+      "kkTranscription": "Kemping",
+      "category": "travel",
+      "id": 2670
+    },
+    {
+      "ru": "Палатка",
+      "kk": "Шатыр",
+      "ruTranscription": "шатыр",
+      "kkTranscription": "Şatyr",
+      "category": "travel",
+      "id": 2671
+    },
+    {
+      "ru": "Спальник",
+      "kk": "Ұйықтайтын қап",
+      "ruTranscription": "ұйықтайтын қап",
+      "kkTranscription": "Ūiyqtaityn qap",
+      "category": "travel",
+      "id": 2672
+    },
+    {
+      "ru": "Бронирование",
+      "kk": "Брондау",
+      "ruTranscription": "брондау",
+      "kkTranscription": "Brondau",
+      "category": "travel",
+      "id": 2673
+    },
+    {
+      "ru": "Авиабилет",
+      "kk": "Ұшақ билеті",
+      "ruTranscription": "ұшақ билеті",
+      "kkTranscription": "Ūşaq biletı",
+      "category": "travel",
+      "id": 2674
+    },
+    {
+      "ru": "Железнодорожный билет",
+      "kk": "Пойыз билеті",
+      "ruTranscription": "пойыз билеті",
+      "kkTranscription": "Poiyz biletı",
+      "category": "travel",
+      "id": 2675
+    },
+    {
+      "ru": "Электронный билет",
+      "kk": "Электронды билет",
+      "ruTranscription": "электронды билет",
+      "kkTranscription": "Elektrondy bilet",
+      "category": "travel",
+      "id": 2676
+    },
+    {
+      "ru": "Посадочный талон",
+      "kk": "Отырғызу талоны",
+      "ruTranscription": "отырғызу талоны",
+      "kkTranscription": "Otyrğyzu talony",
+      "category": "travel",
+      "id": 2677
+    },
+    {
+      "ru": "Онлайн-регистрация",
+      "kk": "Онлайн тіркелу",
+      "ruTranscription": "онлайн тіркелу",
+      "kkTranscription": "Onlain tırkelu",
+      "category": "travel",
+      "id": 2678
+    },
+    {
+      "ru": "Загранпаспорт",
+      "kk": "Шетелдік паспорт",
+      "ruTranscription": "шетелдік паспорт",
+      "kkTranscription": "Şeteldık pasport",
+      "category": "travel",
+      "id": 2679
+    },
+    {
+      "ru": "Маршрут",
+      "kk": "Маршрут",
+      "ruTranscription": "маршрут",
+      "kkTranscription": "Marshrut",
+      "category": "travel",
+      "id": 2680
+    },
+    {
+      "ru": "Навигатор",
+      "kk": "Навигатор",
+      "ruTranscription": "навигатор",
+      "kkTranscription": "Navigator",
+      "category": "technology",
+      "id": 2681
+    },
+    {
+      "ru": "GPS",
+      "kk": "GPS",
+      "ruTranscription": "джи-пи-эс",
+      "kkTranscription": "Ji-Pi-Es",
+      "category": "technology",
+      "id": 2682
+    },
+    {
+      "ru": "Трансфер",
+      "kk": "Трансфер",
+      "ruTranscription": "трансфер",
+      "kkTranscription": "Transfer",
+      "category": "travel",
+      "id": 2683
+    },
+    {
+      "ru": "Аренда авто",
+      "kk": "Көлік жалға алу",
+      "ruTranscription": "көлік жалға алу",
+      "kkTranscription": "Kölık jalğa alu",
+      "category": "travel",
+      "id": 2684
+    },
+    {
+      "ru": "Каршеринг",
+      "kk": "Каршеринг",
+      "ruTranscription": "каршеринг",
+      "kkTranscription": "Karshering",
+      "category": "travel",
+      "id": 2685
+    },
+    {
+      "ru": "Прокат велосипедов",
+      "kk": "Велосипед жалға алу",
+      "ruTranscription": "велосипед жалға алу",
+      "kkTranscription": "Velosiped jalğa alu",
+      "category": "travel",
+      "id": 2686
+    },
+    {
+      "ru": "Медицинская страховка",
+      "kk": "Медициналық сақтандыру",
+      "ruTranscription": "медициналық сақтандыру",
+      "kkTranscription": "Meditsinalyq saqtandyru",
+      "category": "travel",
+      "id": 2687
+    },
+    {
+      "ru": "Отзыв",
+      "kk": "Пікір",
+      "ruTranscription": "пікір",
+      "kkTranscription": "Pıkır",
+      "category": "travel",
+      "id": 2688
+    },
+    {
+      "ru": "Рейтинг",
+      "kk": "Рейтинг",
+      "ruTranscription": "рейтинг",
+      "kkTranscription": "Reiting",
+      "category": "travel",
+      "id": 2689
+    },
+    {
+      "ru": "Звезды",
+      "kk": "Жұлдыздар",
+      "ruTranscription": "жұлдыздар",
+      "kkTranscription": "Jūldyzdar",
+      "category": "travel",
+      "id": 2690
+    },
+    {
+      "ru": "Отель 5 звезд",
+      "kk": "5 жұлдызды қонақ үй",
+      "ruTranscription": "5 жұлдызды қонақ үй",
+      "kkTranscription": "5 jūldyzdy qonaq üi",
+      "category": "travel",
+      "id": 2691
+    },
+    {
+      "ru": "Все включено",
+      "kk": "Барлығы қосылған",
+      "ruTranscription": "барлығы қосылған",
+      "kkTranscription": "Barlyğy qosylğan",
+      "category": "travel",
+      "id": 2692
+    },
+    {
+      "ru": "Полупансион",
+      "kk": "Жартылай пансион",
+      "ruTranscription": "жартылай пансион",
+      "kkTranscription": "Jartylai pansіon",
+      "category": "travel",
+      "id": 2693
+    },
+    {
+      "ru": "Заселение",
+      "kk": "Орналасу",
+      "ruTranscription": "орналасу",
+      "kkTranscription": "Ornalasu",
+      "category": "travel",
+      "id": 2694
+    },
+    {
+      "ru": "Выезд",
+      "kk": "Шығу",
+      "ruTranscription": "шығу",
+      "kkTranscription": "Şyğu",
+      "category": "travel",
+      "id": 2695
+    },
+    {
+      "ru": "Ранний заезд",
+      "kk": "Ерте келу",
+      "ruTranscription": "ерте келу",
+      "kkTranscription": "Erte kelu",
+      "category": "travel",
+      "id": 2696
+    },
+    {
+      "ru": "Поздний выезд",
+      "kk": "Кеш шығу",
+      "ruTranscription": "кеш шығу",
+      "kkTranscription": "Keş şyğu",
+      "category": "travel",
+      "id": 2697
+    },
+    {
+      "ru": "Дорожная сумка",
+      "kk": "Жол сөмкесі",
+      "ruTranscription": "жол сөмкесі",
+      "kkTranscription": "Jol sömkesı",
+      "category": "travel",
+      "id": 2698
+    },
+    {
+      "ru": "Каньон",
+      "kk": "Шарын",
+      "ruTranscription": "шарын",
+      "kkTranscription": "Şaryn",
+      "category": "nature",
+      "id": 2699
     }
   ],
   "categories": {
