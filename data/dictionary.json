@@ -1,5 +1,5 @@
 {
-  "version": "1.0.53",
+  "version": "1.0.54",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -10563,6 +10563,406 @@
       "kkTranscription": "Jaiаu jürgınşı ötkelı",
       "category": "city",
       "id": 1313
+    },
+    {
+      "ru": "Активный",
+      "kk": "Белсенді",
+      "ruTranscription": "белсенді",
+      "kkTranscription": "Belsendi",
+      "category": "adjectives",
+      "id": 1314
+    },
+    {
+      "ru": "Пассивный",
+      "kk": "Пассивті",
+      "ruTranscription": "пассивті",
+      "kkTranscription": "Passivti",
+      "category": "adjectives",
+      "id": 1315
+    },
+    {
+      "ru": "Энергичный",
+      "kk": "Қуатты",
+      "ruTranscription": "қуатты",
+      "kkTranscription": "Quatty",
+      "category": "adjectives",
+      "id": 1316
+    },
+    {
+      "ru": "Вялый",
+      "kk": "Жалқау",
+      "ruTranscription": "жалқау",
+      "kkTranscription": "Jalqau",
+      "category": "adjectives",
+      "id": 1317
+    },
+    {
+      "ru": "Смелый",
+      "kk": "Батыл",
+      "ruTranscription": "батыл",
+      "kkTranscription": "Batyl",
+      "category": "adjectives",
+      "id": 1318
+    },
+    {
+      "ru": "Трусливый",
+      "kk": "Қорқақ",
+      "ruTranscription": "қорқақ",
+      "kkTranscription": "Qorqaq",
+      "category": "adjectives",
+      "id": 1319
+    },
+    {
+      "ru": "Щедрый",
+      "kk": "Жомарт",
+      "ruTranscription": "жомарт",
+      "kkTranscription": "Jomart",
+      "category": "adjectives",
+      "id": 1320
+    },
+    {
+      "ru": "Жадный",
+      "kk": "Саран",
+      "ruTranscription": "саран",
+      "kkTranscription": "Saran",
+      "category": "adjectives",
+      "id": 1321
+    },
+    {
+      "ru": "Вежливый",
+      "kk": "Сыпайы",
+      "ruTranscription": "сыпайы",
+      "kkTranscription": "Sypaiy",
+      "category": "adjectives",
+      "id": 1322
+    },
+    {
+      "ru": "Грубый",
+      "kk": "Дөрекі",
+      "ruTranscription": "дөрекі",
+      "kkTranscription": "Dörekı",
+      "category": "adjectives",
+      "id": 1323
+    },
+    {
+      "ru": "Искренний",
+      "kk": "Шыншыл",
+      "ruTranscription": "шыншыл",
+      "kkTranscription": "Şynşyl",
+      "category": "adjectives",
+      "id": 1324
+    },
+    {
+      "ru": "Лживый",
+      "kk": "Өтірікші",
+      "ruTranscription": "өтірікші",
+      "kkTranscription": "Ötırıkşı",
+      "category": "adjectives",
+      "id": 1325
+    },
+    {
+      "ru": "Скромный",
+      "kk": "Кішіпейіл",
+      "ruTranscription": "кішіпейіл",
+      "kkTranscription": "Kışıpeiıl",
+      "category": "adjectives",
+      "id": 1326
+    },
+    {
+      "ru": "Высокомерный",
+      "kk": "Менмен",
+      "ruTranscription": "менмен",
+      "kkTranscription": "Menmen",
+      "category": "adjectives",
+      "id": 1327
+    },
+    {
+      "ru": "Дружелюбный",
+      "kk": "Достық",
+      "ruTranscription": "достық",
+      "kkTranscription": "Dostyq",
+      "category": "adjectives",
+      "id": 1328
+    },
+    {
+      "ru": "Враждебный",
+      "kk": "Дұшпандық",
+      "ruTranscription": "дұшпандық",
+      "kkTranscription": "Dūşpandyq",
+      "category": "adjectives",
+      "id": 1329
+    },
+    {
+      "ru": "Оптимистичный",
+      "kk": "Оптимистік",
+      "ruTranscription": "оптимистік",
+      "kkTranscription": "Optimistık",
+      "category": "adjectives",
+      "id": 1330
+    },
+    {
+      "ru": "Пессимистичный",
+      "kk": "Пессимистік",
+      "ruTranscription": "пессимистік",
+      "kkTranscription": "Pessimistık",
+      "category": "adjectives",
+      "id": 1331
+    },
+    {
+      "ru": "Спокойный",
+      "kk": "Сабырлы",
+      "ruTranscription": "сабырлы",
+      "kkTranscription": "Sabyrly",
+      "category": "adjectives",
+      "id": 1332
+    },
+    {
+      "ru": "Нервный",
+      "kk": "Жүйкелі",
+      "ruTranscription": "жүйкелі",
+      "kkTranscription": "Jüykelı",
+      "category": "adjectives",
+      "id": 1333
+    },
+    {
+      "ru": "Терпеливый",
+      "kk": "Сабырлы",
+      "ruTranscription": "сабырлы",
+      "kkTranscription": "Sabyrly",
+      "category": "adjectives",
+      "id": 1334
+    },
+    {
+      "ru": "Нетерпеливый",
+      "kk": "Сабырсыз",
+      "ruTranscription": "сабырсыз",
+      "kkTranscription": "Sabyrsyz",
+      "category": "adjectives",
+      "id": 1335
+    },
+    {
+      "ru": "Ответственный",
+      "kk": "Жауапкершілікті",
+      "ruTranscription": "жауапкершілікті",
+      "kkTranscription": "Jauapkerşılıktı",
+      "category": "adjectives",
+      "id": 1336
+    },
+    {
+      "ru": "Безответственный",
+      "kk": "Жауапсыз",
+      "ruTranscription": "жауапсыз",
+      "kkTranscription": "Jauapsyz",
+      "category": "adjectives",
+      "id": 1337
+    },
+    {
+      "ru": "Надёжный",
+      "kk": "Сенімді",
+      "ruTranscription": "сенімді",
+      "kkTranscription": "Senımdı",
+      "category": "adjectives",
+      "id": 1338
+    },
+    {
+      "ru": "Ненадёжный",
+      "kk": "Сенімсіз",
+      "ruTranscription": "сенімсіз",
+      "kkTranscription": "Senımsız",
+      "category": "adjectives",
+      "id": 1339
+    },
+    {
+      "ru": "Чистый",
+      "kk": "Таза",
+      "ruTranscription": "таза",
+      "kkTranscription": "Taza",
+      "category": "adjectives",
+      "id": 1340
+    },
+    {
+      "ru": "Грязный",
+      "kk": "Лас",
+      "ruTranscription": "лас",
+      "kkTranscription": "Las",
+      "category": "adjectives",
+      "id": 1341
+    },
+    {
+      "ru": "Аккуратный",
+      "kk": "Ұқыпты",
+      "ruTranscription": "ұқыпты",
+      "kkTranscription": "Ūqypty",
+      "category": "adjectives",
+      "id": 1342
+    },
+    {
+      "ru": "Неряшливый",
+      "kk": "Ұқыпсыз",
+      "ruTranscription": "ұқыпсыз",
+      "kkTranscription": "Ūqypsyz",
+      "category": "adjectives",
+      "id": 1343
+    },
+    {
+      "ru": "Богатый",
+      "kk": "Бай",
+      "ruTranscription": "бай",
+      "kkTranscription": "Bai",
+      "category": "adjectives",
+      "id": 1344
+    },
+    {
+      "ru": "Бедный",
+      "kk": "Кедей",
+      "ruTranscription": "кедей",
+      "kkTranscription": "Kedei",
+      "category": "adjectives",
+      "id": 1345
+    },
+    {
+      "ru": "Успешный",
+      "kk": "Табысты",
+      "ruTranscription": "табысты",
+      "kkTranscription": "Tabysty",
+      "category": "adjectives",
+      "id": 1346
+    },
+    {
+      "ru": "Неудачливый",
+      "kk": "Сәтсіз",
+      "ruTranscription": "сәтсіз",
+      "kkTranscription": "Sätsız",
+      "category": "adjectives",
+      "id": 1347
+    },
+    {
+      "ru": "Здоровый",
+      "kk": "Сау",
+      "ruTranscription": "сау",
+      "kkTranscription": "Sau",
+      "category": "adjectives",
+      "id": 1348
+    },
+    {
+      "ru": "Больной",
+      "kk": "Ауру",
+      "ruTranscription": "ауру",
+      "kkTranscription": "Auru",
+      "category": "adjectives",
+      "id": 1349
+    },
+    {
+      "ru": "Крепкий",
+      "kk": "Мықты",
+      "ruTranscription": "мықты",
+      "kkTranscription": "Myqty",
+      "category": "adjectives",
+      "id": 1350
+    },
+    {
+      "ru": "Слабый",
+      "kk": "Әлсіз",
+      "ruTranscription": "әлсіз",
+      "kkTranscription": "Älsız",
+      "category": "adjectives",
+      "id": 1351
+    },
+    {
+      "ru": "Громкий",
+      "kk": "Қатты",
+      "ruTranscription": "қатты",
+      "kkTranscription": "Qatty",
+      "category": "adjectives",
+      "id": 1352
+    },
+    {
+      "ru": "Тихий",
+      "kk": "Тыныш",
+      "ruTranscription": "тыныш",
+      "kkTranscription": "Tynyş",
+      "category": "adjectives",
+      "id": 1353
+    },
+    {
+      "ru": "Яркий",
+      "kk": "Жарқын",
+      "ruTranscription": "жарқын",
+      "kkTranscription": "Jarqyn",
+      "category": "adjectives",
+      "id": 1354
+    },
+    {
+      "ru": "Тусклый",
+      "kk": "Күңгірт",
+      "ruTranscription": "күңгірт",
+      "kkTranscription": "Küñgırt",
+      "category": "adjectives",
+      "id": 1355
+    },
+    {
+      "ru": "Длинный",
+      "kk": "Ұзын",
+      "ruTranscription": "ұзын",
+      "kkTranscription": "Ūzyn",
+      "category": "adjectives",
+      "id": 1356
+    },
+    {
+      "ru": "Короткий",
+      "kk": "Қысқа",
+      "ruTranscription": "қысқа",
+      "kkTranscription": "Qysqa",
+      "category": "adjectives",
+      "id": 1357
+    },
+    {
+      "ru": "Широкий",
+      "kk": "Кең",
+      "ruTranscription": "кең",
+      "kkTranscription": "Keñ",
+      "category": "adjectives",
+      "id": 1358
+    },
+    {
+      "ru": "Узкий",
+      "kk": "Тар",
+      "ruTranscription": "тар",
+      "kkTranscription": "Tar",
+      "category": "adjectives",
+      "id": 1359
+    },
+    {
+      "ru": "Высокий",
+      "kk": "Биік",
+      "ruTranscription": "биік",
+      "kkTranscription": "Biık",
+      "category": "adjectives",
+      "id": 1360
+    },
+    {
+      "ru": "Низкий",
+      "kk": "Аласа",
+      "ruTranscription": "аласа",
+      "kkTranscription": "Alasa",
+      "category": "adjectives",
+      "id": 1361
+    },
+    {
+      "ru": "Толстый",
+      "kk": "Жуан",
+      "ruTranscription": "жуан",
+      "kkTranscription": "Juan",
+      "category": "adjectives",
+      "id": 1362
+    },
+    {
+      "ru": "Тонкий",
+      "kk": "Жіңішке",
+      "ruTranscription": "жіңішке",
+      "kkTranscription": "Jıñışke",
+      "category": "adjectives",
+      "id": 1363
     }
   ],
   "categories": {
