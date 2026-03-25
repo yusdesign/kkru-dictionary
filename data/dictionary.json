@@ -1,5 +1,5 @@
 {
-  "version": "1.0.73",
+  "version": "1.0.74",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -18647,6 +18647,366 @@
       "kkTranscription": "Ölşeuış stakan",
       "category": "house",
       "id": 2323
+    },
+    {
+      "ru": "Сельское хозяйство",
+      "kk": "Ауыл шаруашылығы",
+      "ruTranscription": "ауыл шаруашылығы",
+      "kkTranscription": "Auyl sharuashylyğy",
+      "category": "nature",
+      "id": 2324
+    },
+    {
+      "ru": "Земледелие",
+      "kk": "Егіншілік",
+      "ruTranscription": "егіншілік",
+      "kkTranscription": "Egınşılık",
+      "category": "nature",
+      "id": 2325
+    },
+    {
+      "ru": "Животноводство",
+      "kk": "Мал шаруашылығы",
+      "ruTranscription": "мал шаруашылығы",
+      "kkTranscription": "Mal sharuashylyğy",
+      "category": "nature",
+      "id": 2326
+    },
+    {
+      "ru": "Пашня",
+      "kk": "Жыртылатын жер",
+      "ruTranscription": "жыртылатын жер",
+      "kkTranscription": "Jyrt alatyn jer",
+      "category": "nature",
+      "id": 2327
+    },
+    {
+      "ru": "Пастбище",
+      "kk": "Жайылым",
+      "ruTranscription": "жайылым",
+      "kkTranscription": "Jaiylym",
+      "category": "nature",
+      "id": 2328
+    },
+    {
+      "ru": "Сенокос",
+      "kk": "Шабындық",
+      "ruTranscription": "шабындық",
+      "kkTranscription": "Şabyndyq",
+      "category": "nature",
+      "id": 2329
+    },
+    {
+      "ru": "Урожай",
+      "kk": "Өнім",
+      "ruTranscription": "өнім",
+      "kkTranscription": "Önım",
+      "category": "nature",
+      "id": 2330
+    },
+    {
+      "ru": "Жатва",
+      "kk": "Орақ",
+      "ruTranscription": "орақ",
+      "kkTranscription": "Oraq",
+      "category": "nature",
+      "id": 2331
+    },
+    {
+      "ru": "Пшеница",
+      "kk": "Бидай",
+      "ruTranscription": "бидай",
+      "kkTranscription": "Bidai",
+      "category": "nature",
+      "id": 2332
+    },
+    {
+      "ru": "Ячмень",
+      "kk": "Арпа",
+      "ruTranscription": "арпа",
+      "kkTranscription": "Arpa",
+      "category": "nature",
+      "id": 2333
+    },
+    {
+      "ru": "Овёс",
+      "kk": "Сұлы",
+      "ruTranscription": "сұлы",
+      "kkTranscription": "Sūly",
+      "category": "nature",
+      "id": 2334
+    },
+    {
+      "ru": "Кукуруза",
+      "kk": "Жүгері",
+      "ruTranscription": "жүгері",
+      "kkTranscription": "Jügerı",
+      "category": "nature",
+      "id": 2335
+    },
+    {
+      "ru": "Подсолнух",
+      "kk": "Күнбағыс",
+      "ruTranscription": "күнбағыс",
+      "kkTranscription": "Künbağys",
+      "category": "nature",
+      "id": 2336
+    },
+    {
+      "ru": "Свёкла",
+      "kk": "Қызылша",
+      "ruTranscription": "қызылша",
+      "kkTranscription": "Qyzylşa",
+      "category": "food",
+      "id": 2337
+    },
+    {
+      "ru": "Лён",
+      "kk": "Зығыр",
+      "ruTranscription": "зығыр",
+      "kkTranscription": "Zyğyr",
+      "category": "nature",
+      "id": 2338
+    },
+    {
+      "ru": "Хлопок",
+      "kk": "Мақта",
+      "ruTranscription": "мақта",
+      "kkTranscription": "Maqta",
+      "category": "nature",
+      "id": 2339
+    },
+    {
+      "ru": "Соя",
+      "kk": "Соя",
+      "ruTranscription": "соя",
+      "kkTranscription": "Soia",
+      "category": "nature",
+      "id": 2340
+    },
+    {
+      "ru": "Трактор",
+      "kk": "Трактор",
+      "ruTranscription": "трактор",
+      "kkTranscription": "Traktor",
+      "category": "technology",
+      "id": 2341
+    },
+    {
+      "ru": "Комбайн",
+      "kk": "Комбайн",
+      "ruTranscription": "комбайн",
+      "kkTranscription": "Kombain",
+      "category": "technology",
+      "id": 2342
+    },
+    {
+      "ru": "Плуг",
+      "kk": "Сока",
+      "ruTranscription": "сока",
+      "kkTranscription": "Soka",
+      "category": "technology",
+      "id": 2343
+    },
+    {
+      "ru": "Борона",
+      "kk": "Тырма",
+      "ruTranscription": "тырма",
+      "kkTranscription": "Tyrma",
+      "category": "technology",
+      "id": 2344
+    },
+    {
+      "ru": "Сеялка",
+      "kk": "Сеялка",
+      "ruTranscription": "сеялка",
+      "kkTranscription": "Seialka",
+      "category": "technology",
+      "id": 2345
+    },
+    {
+      "ru": "Косилка",
+      "kk": "Шапқыш",
+      "ruTranscription": "шапқыш",
+      "kkTranscription": "Şapqyş",
+      "category": "technology",
+      "id": 2346
+    },
+    {
+      "ru": "Молотилка",
+      "kk": "Бастырғыш",
+      "ruTranscription": "бастырғыш",
+      "kkTranscription": "Basty rğyş",
+      "category": "technology",
+      "id": 2347
+    },
+    {
+      "ru": "Удобрение",
+      "kk": "Тыңайтқыш",
+      "ruTranscription": "тыңайтқыш",
+      "kkTranscription": "Tyñaitqyş",
+      "category": "nature",
+      "id": 2348
+    },
+    {
+      "ru": "Навоз",
+      "kk": "Көң",
+      "ruTranscription": "көң",
+      "kkTranscription": "Köñ",
+      "category": "nature",
+      "id": 2349
+    },
+    {
+      "ru": "Компост",
+      "kk": "Компост",
+      "ruTranscription": "компост",
+      "kkTranscription": "Kompost",
+      "category": "nature",
+      "id": 2350
+    },
+    {
+      "ru": "Орошение",
+      "kk": "Суару",
+      "ruTranscription": "суару",
+      "kkTranscription": "Suaru",
+      "category": "nature",
+      "id": 2351
+    },
+    {
+      "ru": "Капельный полив",
+      "kk": "Тамшылатып суару",
+      "ruTranscription": "тамшылатып суару",
+      "kkTranscription": "Tamşylatyp suaru",
+      "category": "nature",
+      "id": 2352
+    },
+    {
+      "ru": "Теплица",
+      "kk": "Жылыжай",
+      "ruTranscription": "жылыжай",
+      "kkTranscription": "Jylyjai",
+      "category": "nature",
+      "id": 2353
+    },
+    {
+      "ru": "Скот",
+      "kk": "Мал",
+      "ruTranscription": "мал",
+      "kkTranscription": "Mal",
+      "category": "animals",
+      "id": 2354
+    },
+    {
+      "ru": "Бык",
+      "kk": "Бұқа",
+      "ruTranscription": "бұқа",
+      "kkTranscription": "Būqa",
+      "category": "animals",
+      "id": 2355
+    },
+    {
+      "ru": "Баран",
+      "kk": "Қошқар",
+      "ruTranscription": "қошқар",
+      "kkTranscription": "Qoşqar",
+      "category": "animals",
+      "id": 2356
+    },
+    {
+      "ru": "Козёл",
+      "kk": "Теке",
+      "ruTranscription": "теке",
+      "kkTranscription": "Teke",
+      "category": "animals",
+      "id": 2357
+    },
+    {
+      "ru": "Петух",
+      "kk": "Әтеш",
+      "ruTranscription": "әтеш",
+      "kkTranscription": "Äteş",
+      "category": "animals",
+      "id": 2358
+    },
+    {
+      "ru": "Гусь",
+      "kk": "Қаз",
+      "ruTranscription": "қаз",
+      "kkTranscription": "Qaz",
+      "category": "animals",
+      "id": 2359
+    },
+    {
+      "ru": "Утка",
+      "kk": "Үйрек",
+      "ruTranscription": "үйрек",
+      "kkTranscription": "Üirek",
+      "category": "animals",
+      "id": 2360
+    },
+    {
+      "ru": "Индюк",
+      "kk": "Күркетауық",
+      "ruTranscription": "күркетауық",
+      "kkTranscription": "Kürketauyq",
+      "category": "animals",
+      "id": 2361
+    },
+    {
+      "ru": "Пчела",
+      "kk": "Ара",
+      "ruTranscription": "ара",
+      "kkTranscription": "Ara",
+      "category": "animals",
+      "id": 2362
+    },
+    {
+      "ru": "Мёд",
+      "kk": "Бал",
+      "ruTranscription": "бал",
+      "kkTranscription": "Bal",
+      "category": "food",
+      "id": 2363
+    },
+    {
+      "ru": "Пасека",
+      "kk": "Омарта",
+      "ruTranscription": "омарта",
+      "kkTranscription": "Omarta",
+      "category": "nature",
+      "id": 2364
+    },
+    {
+      "ru": "Шерсть",
+      "kk": "Жүн",
+      "ruTranscription": "жүн",
+      "kkTranscription": "Jün",
+      "category": "nature",
+      "id": 2365
+    },
+    {
+      "ru": "Сливки",
+      "kk": "Кілегей",
+      "ruTranscription": "кілегей",
+      "kkTranscription": "Kılegei",
+      "category": "food",
+      "id": 2366
+    },
+    {
+      "ru": "Сало",
+      "kk": "Шайқан",
+      "ruTranscription": "шайқан",
+      "kkTranscription": "Şaiqan",
+      "category": "food",
+      "id": 2367
+    },
+    {
+      "ru": "Копчение",
+      "kk": "Ыстау",
+      "ruTranscription": "ыстау",
+      "kkTranscription": "Ystau",
+      "category": "food",
+      "id": 2368
     }
   ],
   "categories": {
