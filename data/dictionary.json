@@ -1,5 +1,5 @@
 {
-  "version": "1.0.84",
+  "version": "1.0.85",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -22055,6 +22055,302 @@
       "kkTranscription": "Ükı",
       "category": "animals",
       "id": 2749
+    },
+    {
+      "ru": "Растение",
+      "kk": "Өсімдік",
+      "ruTranscription": "өсімдік",
+      "kkTranscription": "Ösımdık",
+      "category": "nature",
+      "id": 2750
+    },
+    {
+      "ru": "Лист",
+      "kk": "Жапырақ",
+      "ruTranscription": "жапырақ",
+      "kkTranscription": "Japyraq",
+      "category": "nature",
+      "id": 2751
+    },
+    {
+      "ru": "Корень",
+      "kk": "Тамыр",
+      "ruTranscription": "тамыр",
+      "kkTranscription": "Tamyr",
+      "category": "nature",
+      "id": 2752
+    },
+    {
+      "ru": "Стебель",
+      "kk": "Сабақ",
+      "ruTranscription": "сабақ",
+      "kkTranscription": "Sabaq",
+      "category": "nature",
+      "id": 2753
+    },
+    {
+      "ru": "Ветка",
+      "kk": "Бұтақ",
+      "ruTranscription": "бұтақ",
+      "kkTranscription": "Būtaq",
+      "category": "nature",
+      "id": 2754
+    },
+    {
+      "ru": "Ель",
+      "kk": "Шырша",
+      "ruTranscription": "шырша",
+      "kkTranscription": "Şyrşa",
+      "category": "nature",
+      "id": 2755
+    },
+    {
+      "ru": "Рябина",
+      "kk": "Рябина",
+      "ruTranscription": "рябина",
+      "kkTranscription": "Riabina",
+      "category": "nature",
+      "id": 2756
+    },
+    {
+      "ru": "Осина",
+      "kk": "Көктерек",
+      "ruTranscription": "көктерек",
+      "kkTranscription": "Kökterek",
+      "category": "nature",
+      "id": 2757
+    },
+    {
+      "ru": "Саксаул",
+      "kk": "Сексеуіл",
+      "ruTranscription": "сексеуіл",
+      "kkTranscription": "Sekseuıl",
+      "category": "nature",
+      "id": 2758
+    },
+    {
+      "ru": "Василёк",
+      "kk": "Көкнәр",
+      "ruTranscription": "көкнәр",
+      "kkTranscription": "Köknär",
+      "category": "nature",
+      "id": 2759
+    },
+    {
+      "ru": "Одуванчик",
+      "kk": "Бақбақ",
+      "ruTranscription": "бақбақ",
+      "kkTranscription": "Baqbaq",
+      "category": "nature",
+      "id": 2760
+    },
+    {
+      "ru": "Ландыш",
+      "kk": "Меруертгүл",
+      "ruTranscription": "меруертгүл",
+      "kkTranscription": "Meruertgül",
+      "category": "nature",
+      "id": 2761
+    },
+    {
+      "ru": "Пион",
+      "kk": "Пион",
+      "ruTranscription": "пион",
+      "kkTranscription": "Pion",
+      "category": "nature",
+      "id": 2762
+    },
+    {
+      "ru": "Ирис",
+      "kk": "Күнделік",
+      "ruTranscription": "күнделік",
+      "kkTranscription": "Kündelık",
+      "category": "nature",
+      "id": 2763
+    },
+    {
+      "ru": "Кактус",
+      "kk": "Кактус",
+      "ruTranscription": "кактус",
+      "kkTranscription": "Kaktus",
+      "category": "nature",
+      "id": 2764
+    },
+    {
+      "ru": "Злак",
+      "kk": "Астық тұқымдас",
+      "ruTranscription": "астық тұқымдас",
+      "kkTranscription": "Astyq tūqymdas",
+      "category": "nature",
+      "id": 2765
+    },
+    {
+      "ru": "Белый гриб",
+      "kk": "Ақ саңырауқұлақ",
+      "ruTranscription": "ақ саңырауқұлақ",
+      "kkTranscription": "Aq sañyrauqūlaq",
+      "category": "nature",
+      "id": 2766
+    },
+    {
+      "ru": "Подберёзовик",
+      "kk": "Қайың саңырауқұлағы",
+      "ruTranscription": "қайың саңырауқұлағы",
+      "kkTranscription": "Qaiyñ sañyrauqūlağy",
+      "category": "nature",
+      "id": 2767
+    },
+    {
+      "ru": "Подосиновик",
+      "kk": "Көктерек саңырауқұлағы",
+      "ruTranscription": "көктерек саңырауқұлағы",
+      "kkTranscription": "Kökterek sañyrauqūlağy",
+      "category": "nature",
+      "id": 2768
+    },
+    {
+      "ru": "Лисичка",
+      "kk": "Түлкіқұйрық",
+      "ruTranscription": "түлкіқұйрық",
+      "kkTranscription": "Tülkıqūiryq",
+      "category": "nature",
+      "id": 2769
+    },
+    {
+      "ru": "Опёнок",
+      "kk": "Бал саңырауқұлағы",
+      "ruTranscription": "бал саңырауқұлағы",
+      "kkTranscription": "Bal sañyrauqūlağy",
+      "category": "nature",
+      "id": 2770
+    },
+    {
+      "ru": "Мухомор",
+      "kk": "Шыбын саңырауқұлағы",
+      "ruTranscription": "шыбын саңырауқұлағы",
+      "kkTranscription": "Şybyn sañyrauqūlağy",
+      "category": "nature",
+      "id": 2771
+    },
+    {
+      "ru": "Поганка",
+      "kk": "Улы саңырауқұлақ",
+      "ruTranscription": "улы саңырауқұлақ",
+      "kkTranscription": "Uly sañyrauqūlaq",
+      "category": "nature",
+      "id": 2772
+    },
+    {
+      "ru": "Земляника",
+      "kk": "Жержидек",
+      "ruTranscription": "жержидек",
+      "kkTranscription": "Jerjidek",
+      "category": "food",
+      "id": 2773
+    },
+    {
+      "ru": "Крыжовник",
+      "kk": "Жиде",
+      "ruTranscription": "жиде",
+      "kkTranscription": "Jide",
+      "category": "food",
+      "id": 2774
+    },
+    {
+      "ru": "Черника",
+      "kk": "Көкжидек",
+      "ruTranscription": "көкжидек",
+      "kkTranscription": "Kökjidek",
+      "category": "food",
+      "id": 2775
+    },
+    {
+      "ru": "Брусника",
+      "kk": "Күкрікжидек",
+      "ruTranscription": "күкрікжидек",
+      "kkTranscription": "Kükrikjidek",
+      "category": "food",
+      "id": 2776
+    },
+    {
+      "ru": "Клюква",
+      "kk": "Мүкжидек",
+      "ruTranscription": "мүкжидек",
+      "kkTranscription": "Mükjidek",
+      "category": "food",
+      "id": 2777
+    },
+    {
+      "ru": "Облепиха",
+      "kk": "Теңізжидек",
+      "ruTranscription": "теңізжидек",
+      "kkTranscription": "Teñizjidek",
+      "category": "food",
+      "id": 2778
+    },
+    {
+      "ru": "Фрукт",
+      "kk": "Жеміс",
+      "ruTranscription": "жеміс",
+      "kkTranscription": "Jemıs",
+      "category": "food",
+      "id": 2779
+    },
+    {
+      "ru": "Слива",
+      "kk": "Қара өрік",
+      "ruTranscription": "қара өрік",
+      "kkTranscription": "Qara örık",
+      "category": "food",
+      "id": 2780
+    },
+    {
+      "ru": "Вишня",
+      "kk": "Шие",
+      "ruTranscription": "шие",
+      "kkTranscription": "Şie",
+      "category": "food",
+      "id": 2781
+    },
+    {
+      "ru": "Черешня",
+      "kk": "Балшие",
+      "ruTranscription": "балшие",
+      "kkTranscription": "Balşie",
+      "category": "food",
+      "id": 2782
+    },
+    {
+      "ru": "Абрикос",
+      "kk": "Өрік",
+      "ruTranscription": "өрік",
+      "kkTranscription": "Örık",
+      "category": "food",
+      "id": 2783
+    },
+    {
+      "ru": "Персик",
+      "kk": "Шабдалы",
+      "ruTranscription": "шабдалы",
+      "kkTranscription": "Shab dаly",
+      "category": "food",
+      "id": 2784
+    },
+    {
+      "ru": "Лимон",
+      "kk": "Лимон",
+      "ruTranscription": "лимон",
+      "kkTranscription": "Limon",
+      "category": "food",
+      "id": 2785
+    },
+    {
+      "ru": "Мандарин",
+      "kk": "Мандарин",
+      "ruTranscription": "мандарин",
+      "kkTranscription": "Mandarin",
+      "category": "food",
+      "id": 2786
     }
   ],
   "categories": {
