@@ -1,5 +1,5 @@
 {
-  "version": "1.0.42",
+  "version": "1.0.43",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -7635,6 +7635,318 @@
       "kkTranscription": "Ondai",
       "category": "basic",
       "id": 947
+    },
+    {
+      "ru": "Идти пешком",
+      "kk": "Жаяу жүру",
+      "ruTranscription": "жаяу жүру",
+      "kkTranscription": "Jaiаu jüru",
+      "category": "verbs",
+      "id": 948
+    },
+    {
+      "ru": "Плыть",
+      "kk": "Жүзу",
+      "ruTranscription": "жүзу",
+      "kkTranscription": "Jüzu",
+      "category": "verbs",
+      "id": 949
+    },
+    {
+      "ru": "Лететь",
+      "kk": "Ұшу",
+      "ruTranscription": "ұшу",
+      "kkTranscription": "Ūşu",
+      "category": "verbs",
+      "id": 950
+    },
+    {
+      "ru": "Ехать (на транспорте)",
+      "kk": "Көлікпен жүру",
+      "ruTranscription": "көлікпен жүру",
+      "kkTranscription": "Kölıkpen jüru",
+      "category": "verbs",
+      "id": 951
+    },
+    {
+      "ru": "Проходить",
+      "kk": "Өту",
+      "ruTranscription": "өту",
+      "kkTranscription": "Ötu",
+      "category": "verbs",
+      "id": 952
+    },
+    {
+      "ru": "Заходить (за кем-то)",
+      "kk": "Барып алу",
+      "ruTranscription": "барып алу",
+      "kkTranscription": "Baryp alu",
+      "category": "verbs",
+      "id": 953
+    },
+    {
+      "ru": "Заезжать",
+      "kk": "Кіріп кету",
+      "ruTranscription": "кіріп кету",
+      "kkTranscription": "Kırıp ketu",
+      "category": "verbs",
+      "id": 954
+    },
+    {
+      "ru": "Вылетать",
+      "kk": "Ұшып кету",
+      "ruTranscription": "ұшып кету",
+      "kkTranscription": "Ūşyp ketu",
+      "category": "verbs",
+      "id": 955
+    },
+    {
+      "ru": "Прилетать",
+      "kk": "Ұшып келу",
+      "ruTranscription": "ұшып келу",
+      "kkTranscription": "Ūşyp kelu",
+      "category": "verbs",
+      "id": 956
+    },
+    {
+      "ru": "Приплывать",
+      "kk": "Жүзіп келу",
+      "ruTranscription": "жүзіп келу",
+      "kkTranscription": "Jüzıp kelu",
+      "category": "verbs",
+      "id": 957
+    },
+    {
+      "ru": "Уплывать",
+      "kk": "Жүзіп кету",
+      "ruTranscription": "жүзіп кету",
+      "kkTranscription": "Jüzıp ketu",
+      "category": "verbs",
+      "id": 958
+    },
+    {
+      "ru": "Прибегать",
+      "kk": "Жүгіріп келу",
+      "ruTranscription": "жүгіріп келу",
+      "kkTranscription": "Jügırıp kelu",
+      "category": "verbs",
+      "id": 959
+    },
+    {
+      "ru": "Убегать",
+      "kk": "Жүгіріп кету",
+      "ruTranscription": "жүгіріп кету",
+      "kkTranscription": "Jügırıp ketu",
+      "category": "verbs",
+      "id": 960
+    },
+    {
+      "ru": "Приезжать",
+      "kk": "Келіп жету",
+      "ruTranscription": "келіп жету",
+      "kkTranscription": "Kelıp jetu",
+      "category": "verbs",
+      "id": 961
+    },
+    {
+      "ru": "Уезжать",
+      "kk": "Кетіп қалу",
+      "ruTranscription": "кетіп қалу",
+      "kkTranscription": "Ketıp qalu",
+      "category": "verbs",
+      "id": 962
+    },
+    {
+      "ru": "Обгонять",
+      "kk": "Озу",
+      "ruTranscription": "озу",
+      "kkTranscription": "Ozu",
+      "category": "verbs",
+      "id": 963
+    },
+    {
+      "ru": "Догонять",
+      "kk": "Қуып жету",
+      "ruTranscription": "қуып жету",
+      "kkTranscription": "Quyp jetu",
+      "category": "verbs",
+      "id": 964
+    },
+    {
+      "ru": "Спешить",
+      "kk": "Асығу",
+      "ruTranscription": "асығу",
+      "kkTranscription": "Asyğu",
+      "category": "verbs",
+      "id": 965
+    },
+    {
+      "ru": "Торопиться",
+      "kk": "Асықпау",
+      "ruTranscription": "асықпау",
+      "kkTranscription": "Asyqpau",
+      "category": "verbs",
+      "id": 966
+    },
+    {
+      "ru": "Медлить",
+      "kk": "Баяулау",
+      "ruTranscription": "баяулау",
+      "kkTranscription": "Baiaulau",
+      "category": "verbs",
+      "id": 967
+    },
+    {
+      "ru": "Останавливаться",
+      "kk": "Тоқтау",
+      "ruTranscription": "тоқтау",
+      "kkTranscription": "Toqtau",
+      "category": "verbs",
+      "id": 968
+    },
+    {
+      "ru": "Продолжать",
+      "kk": "Жалғастыру",
+      "ruTranscription": "жалғастыру",
+      "kkTranscription": "Jalğastyru",
+      "category": "verbs",
+      "id": 969
+    },
+    {
+      "ru": "Двигаться",
+      "kk": "Қозғалу",
+      "ruTranscription": "қозғалу",
+      "kkTranscription": "Qozğalu",
+      "category": "verbs",
+      "id": 970
+    },
+    {
+      "ru": "Поворачивать",
+      "kk": "Бұрылу",
+      "ruTranscription": "бұрылу",
+      "kkTranscription": "Būrylu",
+      "category": "verbs",
+      "id": 971
+    },
+    {
+      "ru": "Сворачивать",
+      "kk": "Бұрылып кету",
+      "ruTranscription": "бұрылып кету",
+      "kkTranscription": "Būrylyp ketu",
+      "category": "verbs",
+      "id": 972
+    },
+    {
+      "ru": "Спускаться",
+      "kk": "Түсу",
+      "ruTranscription": "түсу",
+      "kkTranscription": "Tüsu",
+      "category": "verbs",
+      "id": 973
+    },
+    {
+      "ru": "Подниматься",
+      "kk": "Көтерілу",
+      "ruTranscription": "көтерілу",
+      "kkTranscription": "Köterılu",
+      "category": "verbs",
+      "id": 974
+    },
+    {
+      "ru": "Прыгать",
+      "kk": "Секіру",
+      "ruTranscription": "секіру",
+      "kkTranscription": "Sekıru",
+      "category": "verbs",
+      "id": 975
+    },
+    {
+      "ru": "Прыгать (вниз)",
+      "kk": "Секіріп түсу",
+      "ruTranscription": "секіріп түсу",
+      "kkTranscription": "Sekırıp tüsu",
+      "category": "verbs",
+      "id": 976
+    },
+    {
+      "ru": "Прыгать (вверх)",
+      "kk": "Секіріп көтерілу",
+      "ruTranscription": "секіріп көтерілу",
+      "kkTranscription": "Sekırıp köterılu",
+      "category": "verbs",
+      "id": 977
+    },
+    {
+      "ru": "Перепрыгивать",
+      "kk": "Аттап өту",
+      "ruTranscription": "аттап өту",
+      "kkTranscription": "Attap ötu",
+      "category": "verbs",
+      "id": 978
+    },
+    {
+      "ru": "Шагать",
+      "kk": "Адымдау",
+      "ruTranscription": "адымдау",
+      "kkTranscription": "Adymdau",
+      "category": "verbs",
+      "id": 979
+    },
+    {
+      "ru": "Топать",
+      "kk": "Тапсыру",
+      "ruTranscription": "тапсыру",
+      "kkTranscription": "Tapsyru",
+      "category": "verbs",
+      "id": 980
+    },
+    {
+      "ru": "Ковылять",
+      "kk": "Ақсау",
+      "ruTranscription": "ақсау",
+      "kkTranscription": "Aqsau",
+      "category": "verbs",
+      "id": 981
+    },
+    {
+      "ru": "Плестись (еле идти)",
+      "kk": "Сүйрелу",
+      "ruTranscription": "сүйрелу",
+      "kkTranscription": "Süirelu",
+      "category": "verbs",
+      "id": 982
+    },
+    {
+      "ru": "Брести",
+      "kk": "Ақырындап жүру",
+      "ruTranscription": "ақырындап жүру",
+      "kkTranscription": "Aqyryndap jüru",
+      "category": "verbs",
+      "id": 983
+    },
+    {
+      "ru": "Мчаться",
+      "kk": "Желдіру",
+      "ruTranscription": "желдіру",
+      "kkTranscription": "Jeldıru",
+      "category": "verbs",
+      "id": 984
+    },
+    {
+      "ru": "Нестись",
+      "kk": "Асығыс жүру",
+      "ruTranscription": "асығыс жүру",
+      "kkTranscription": "Asyğys jüru",
+      "category": "verbs",
+      "id": 985
+    },
+    {
+      "ru": "Кружиться",
+      "kk": "Айналу",
+      "ruTranscription": "айналу",
+      "kkTranscription": "Ainalu",
+      "category": "verbs",
+      "id": 986
     }
   ],
   "categories": {
