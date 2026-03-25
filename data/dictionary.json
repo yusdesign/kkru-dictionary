@@ -1,5 +1,5 @@
 {
-  "version": "1.0.45",
+  "version": "1.0.46",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -8563,6 +8563,302 @@
       "kkTranscription": "Qialdau",
       "category": "verbs",
       "id": 1063
+    },
+    {
+      "ru": "Произносить",
+      "kk": "Айту",
+      "ruTranscription": "айту",
+      "kkTranscription": "Aitu",
+      "category": "verbs",
+      "id": 1064
+    },
+    {
+      "ru": "Орать",
+      "kk": "Бақыру",
+      "ruTranscription": "бақыру",
+      "kkTranscription": "Baqyru",
+      "category": "verbs",
+      "id": 1065
+    },
+    {
+      "ru": "Молчать",
+      "kk": "Үндемеу",
+      "ruTranscription": "үндемеу",
+      "kkTranscription": "Ündemeu",
+      "category": "verbs",
+      "id": 1066
+    },
+    {
+      "ru": "Болтать",
+      "kk": "Сөйлесу",
+      "ruTranscription": "сөйлесу",
+      "kkTranscription": "Söile su",
+      "category": "verbs",
+      "id": 1067
+    },
+    {
+      "ru": "Разговаривать",
+      "kk": "Сөйлесу",
+      "ruTranscription": "сөйлесу",
+      "kkTranscription": "Söilesu",
+      "category": "verbs",
+      "id": 1068
+    },
+    {
+      "ru": "Беседовать",
+      "kk": "Әңгімелесу",
+      "ruTranscription": "әңгімелесу",
+      "kkTranscription": "Äñgımelesu",
+      "category": "verbs",
+      "id": 1069
+    },
+    {
+      "ru": "Обсуждать",
+      "kk": "Талқылау",
+      "ruTranscription": "талқылау",
+      "kkTranscription": "Talqylau",
+      "category": "verbs",
+      "id": 1070
+    },
+    {
+      "ru": "Спорить",
+      "kk": "Дауласу",
+      "ruTranscription": "дауласу",
+      "kkTranscription": "Daulasu",
+      "category": "verbs",
+      "id": 1071
+    },
+    {
+      "ru": "Доказывать",
+      "kk": "Дәлелдеу",
+      "ruTranscription": "дәлелдеу",
+      "kkTranscription": "Däleldeu",
+      "category": "verbs",
+      "id": 1072
+    },
+    {
+      "ru": "Убеждать",
+      "kk": "Көндіру",
+      "ruTranscription": "көндіру",
+      "kkTranscription": "Köndıru",
+      "category": "verbs",
+      "id": 1073
+    },
+    {
+      "ru": "Уговаривать",
+      "kk": "Көндіру",
+      "ruTranscription": "көндіру",
+      "kkTranscription": "Köndıru",
+      "category": "verbs",
+      "id": 1074
+    },
+    {
+      "ru": "Расспрашивать",
+      "kk": "Сұрастыру",
+      "ruTranscription": "сұрастыру",
+      "kkTranscription": "Sūrastyru",
+      "category": "verbs",
+      "id": 1075
+    },
+    {
+      "ru": "Уточнять",
+      "kk": "Анықтау",
+      "ruTranscription": "анықтау",
+      "kkTranscription": "Anyqtau",
+      "category": "verbs",
+      "id": 1076
+    },
+    {
+      "ru": "Пояснять",
+      "kk": "Түсіндіру",
+      "ruTranscription": "түсіндіру",
+      "kkTranscription": "Tüsındıru",
+      "category": "verbs",
+      "id": 1077
+    },
+    {
+      "ru": "Рассказывать",
+      "kk": "Айтып беру",
+      "ruTranscription": "айтып беру",
+      "kkTranscription": "Aityp beru",
+      "category": "verbs",
+      "id": 1078
+    },
+    {
+      "ru": "Повествовать",
+      "kk": "Баяндау",
+      "ruTranscription": "баяндау",
+      "kkTranscription": "Baiandau",
+      "category": "verbs",
+      "id": 1079
+    },
+    {
+      "ru": "Описывать",
+      "kk": "Сипаттау",
+      "ruTranscription": "сипаттау",
+      "kkTranscription": "Sipattau",
+      "category": "verbs",
+      "id": 1080
+    },
+    {
+      "ru": "Упоминать",
+      "kk": "Еске алу",
+      "ruTranscription": "еске алу",
+      "kkTranscription": "Eske alu",
+      "category": "verbs",
+      "id": 1081
+    },
+    {
+      "ru": "Называть",
+      "kk": "Атау",
+      "ruTranscription": "атау",
+      "kkTranscription": "Atau",
+      "category": "verbs",
+      "id": 1082
+    },
+    {
+      "ru": "Звать",
+      "kk": "Шақыру",
+      "ruTranscription": "шақыру",
+      "kkTranscription": "Şaqyru",
+      "category": "verbs",
+      "id": 1083
+    },
+    {
+      "ru": "Кричать (звать)",
+      "kk": "Шақыру",
+      "ruTranscription": "шақыру",
+      "kkTranscription": "Şaqyru",
+      "category": "verbs",
+      "id": 1084
+    },
+    {
+      "ru": "Шуметь",
+      "kk": "Шулау",
+      "ruTranscription": "шулау",
+      "kkTranscription": "Şulau",
+      "category": "verbs",
+      "id": 1085
+    },
+    {
+      "ru": "Шептаться",
+      "kk": "Сыбырласу",
+      "ruTranscription": "сыбырласу",
+      "kkTranscription": "Sybyrlasu",
+      "category": "verbs",
+      "id": 1086
+    },
+    {
+      "ru": "Размышлять",
+      "kk": "Ойлау",
+      "ruTranscription": "ойлау",
+      "kkTranscription": "Oilau",
+      "category": "verbs",
+      "id": 1087
+    },
+    {
+      "ru": "Обдумывать",
+      "kk": "Ойластыру",
+      "ruTranscription": "ойластыру",
+      "kkTranscription": "Oilastyru",
+      "category": "verbs",
+      "id": 1088
+    },
+    {
+      "ru": "Полагать",
+      "kk": "Ойлау",
+      "ruTranscription": "ойлау",
+      "kkTranscription": "Oilau",
+      "category": "verbs",
+      "id": 1089
+    },
+    {
+      "ru": "Считать",
+      "kk": "Сау",
+      "ruTranscription": "сау",
+      "kkTranscription": "Sau",
+      "category": "verbs",
+      "id": 1090
+    },
+    {
+      "ru": "Предполагать",
+      "kk": "Болжау",
+      "ruTranscription": "болжау",
+      "kkTranscription": "Boljau",
+      "category": "verbs",
+      "id": 1091
+    },
+    {
+      "ru": "Осознавать",
+      "kk": "Түсіну",
+      "ruTranscription": "түсіну",
+      "kkTranscription": "Tüsınu",
+      "category": "verbs",
+      "id": 1092
+    },
+    {
+      "ru": "Узнавать",
+      "kk": "Білу",
+      "ruTranscription": "білу",
+      "kkTranscription": "Bılu",
+      "category": "verbs",
+      "id": 1093
+    },
+    {
+      "ru": "Вспоминать",
+      "kk": "Еске түсіру",
+      "ruTranscription": "еске түсіру",
+      "kkTranscription": "Eske tüsıru",
+      "category": "verbs",
+      "id": 1094
+    },
+    {
+      "ru": "Путать",
+      "kk": "Шатастыру",
+      "ruTranscription": "шатастыру",
+      "kkTranscription": "Şatastyru",
+      "category": "verbs",
+      "id": 1095
+    },
+    {
+      "ru": "Ошибаться",
+      "kk": "Қателесу",
+      "ruTranscription": "қателесу",
+      "kkTranscription": "Qatelesu",
+      "category": "verbs",
+      "id": 1096
+    },
+    {
+      "ru": "Сомневаться",
+      "kk": "Күмәндану",
+      "ruTranscription": "күмәндану",
+      "kkTranscription": "Kümändanu",
+      "category": "verbs",
+      "id": 1097
+    },
+    {
+      "ru": "Уверять",
+      "kk": "Сендіру",
+      "ruTranscription": "сендіру",
+      "kkTranscription": "Sendıru",
+      "category": "verbs",
+      "id": 1098
+    },
+    {
+      "ru": "Решать",
+      "kk": "Шешу",
+      "ruTranscription": "шешу",
+      "kkTranscription": "Şeşu",
+      "category": "verbs",
+      "id": 1099
+    },
+    {
+      "ru": "Принимать решение",
+      "kk": "Шешім қабылдау",
+      "ruTranscription": "шешім қабылдау",
+      "kkTranscription": "Şeşım qabyldau",
+      "category": "verbs",
+      "id": 1100
     }
   ],
   "categories": {
