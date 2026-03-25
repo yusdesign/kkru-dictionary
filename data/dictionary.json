@@ -1,5 +1,5 @@
 {
-  "version": "1.0.57",
+  "version": "1.0.58",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -11675,6 +11675,222 @@
       "kkTranscription": "Erteń kezdeseiık",
       "category": "phrases",
       "id": 1452
+    },
+    {
+      "ru": "Где можно обменять валюту?",
+      "kk": "Валюта айырбастайтын жер қайда?",
+      "ruTranscription": "валюта айырбастайтын жер қайда?",
+      "kkTranscription": "Valiuta aiyrbastaiatyn jer qaida?",
+      "category": "phrases",
+      "id": 1453
+    },
+    {
+      "ru": "Какой курс доллара?",
+      "kk": "Доллар бағамы қанша?",
+      "ruTranscription": "доллар бағамы қанша?",
+      "kkTranscription": "Dollar bağamy qanşa?",
+      "category": "phrases",
+      "id": 1454
+    },
+    {
+      "ru": "Где находится банк?",
+      "kk": "Банк қайда?",
+      "ruTranscription": "банк қайда?",
+      "kkTranscription": "Bank qaida?",
+      "category": "phrases",
+      "id": 1455
+    },
+    {
+      "ru": "Где здесь ближайшая аптека?",
+      "kk": "Ең жақын дәріхана қайда?",
+      "ruTranscription": "ең жақын дәріхана қайда?",
+      "kkTranscription": "Eñ jaqyn därıhana qaida?",
+      "category": "phrases",
+      "id": 1456
+    },
+    {
+      "ru": "Мне нужно лекарство от головной боли",
+      "kk": "Маған бас ауруына қарсы дәрі керек",
+      "ruTranscription": "маған бас ауруына қарсы дәрі керек",
+      "kkTranscription": "Mağan bas auruy na qarsy därı kerek",
+      "category": "phrases",
+      "id": 1457
+    },
+    {
+      "ru": "У меня болит горло",
+      "kk": "Менің тамағым ауырады",
+      "ruTranscription": "менің тамағым ауырады",
+      "kkTranscription": "Menıñ tamağym auyrady",
+      "category": "phrases",
+      "id": 1458
+    },
+    {
+      "ru": "У меня температура",
+      "kk": "Менің қызуым бар",
+      "ruTranscription": "менің қызуым бар",
+      "kkTranscription": "Menıñ qyzuym bar",
+      "category": "phrases",
+      "id": 1459
+    },
+    {
+      "ru": "Я потерял свой паспорт",
+      "kk": "Мен төлқұжатымды жоғалтып алдым",
+      "ruTranscription": "мен төлқұжатымды жоғалтып алдым",
+      "kkTranscription": "Men tölqūjatymdy joğaltyp aldym",
+      "category": "phrases",
+      "id": 1460
+    },
+    {
+      "ru": "Где находится посольство?",
+      "kk": "Елшілік қайда?",
+      "ruTranscription": "елшілік қайда?",
+      "kkTranscription": "Elşılık qaida?",
+      "category": "phrases",
+      "id": 1461
+    },
+    {
+      "ru": "Мне нужен переводчик",
+      "kk": "Маған аудармашы керек",
+      "ruTranscription": "маған аудармашы керек",
+      "kkTranscription": "Mağan audarmaşy kerek",
+      "category": "phrases",
+      "id": 1462
+    },
+    {
+      "ru": "Сколько стоит такси до аэропорта?",
+      "kk": "Әуежайға дейін такси қанша тұрады?",
+      "ruTranscription": "әуежайға дейін такси қанша тұрады?",
+      "kkTranscription": "Äuejaiğa deiın taksi qanşa turady?",
+      "category": "phrases",
+      "id": 1463
+    },
+    {
+      "ru": "Зарегистрируйте мой багаж",
+      "kk": "Менің жүгімді тіркеңіз",
+      "ruTranscription": "менің жүгімді тіркеңіз",
+      "kkTranscription": "Menıñ jügımdı tırkeñız",
+      "category": "phrases",
+      "id": 1464
+    },
+    {
+      "ru": "У меня есть багаж",
+      "kk": "Менің жүгім бар",
+      "ruTranscription": "менің жүгім бар",
+      "kkTranscription": "Menıñ jügım bar",
+      "category": "phrases",
+      "id": 1465
+    },
+    {
+      "ru": "Где выход на посадку?",
+      "kk": "Отырғызу қайда?",
+      "ruTranscription": "отырғызу қайда?",
+      "kkTranscription": "Otyrğyzu qaida?",
+      "category": "phrases",
+      "id": 1466
+    },
+    {
+      "ru": "Мой рейс задерживают",
+      "kk": "Менің рейсім кешіктірілді",
+      "ruTranscription": "менің рейсім кешіктірілді",
+      "kkTranscription": "Menıñ reisim keşıktırıldı",
+      "category": "phrases",
+      "id": 1467
+    },
+    {
+      "ru": "Где можно арендовать машину?",
+      "kk": "Машина жалға алуға болады ма?",
+      "ruTranscription": "машина жалға алуға болады ма?",
+      "kkTranscription": "Mashina jalğa aluğa bolady ma?",
+      "category": "phrases",
+      "id": 1468
+    },
+    {
+      "ru": "Я хочу забронировать номер",
+      "kk": "Мен бөлме брондағым келеді",
+      "ruTranscription": "мен бөлме брондағым келеді",
+      "kkTranscription": "Men bölme brondağym keledı",
+      "category": "phrases",
+      "id": 1469
+    },
+    {
+      "ru": "У вас есть свободные номера?",
+      "kk": "Сізде бос бөлмелер бар ма?",
+      "ruTranscription": "сізде бос бөлмелер бар ма?",
+      "kkTranscription": "Sızde bos bölmeler bar ma?",
+      "category": "phrases",
+      "id": 1470
+    },
+    {
+      "ru": "Сколько стоит номер в сутки?",
+      "kk": "Бөлме тәулігіне қанша тұрады?",
+      "ruTranscription": "бөлме тәулігіне қанша тұрады?",
+      "kkTranscription": "Bölme täulıgıne qanşa turady?",
+      "category": "phrases",
+      "id": 1471
+    },
+    {
+      "ru": "Можно посмотреть номер?",
+      "kk": "Бөлмені көруге бола ма?",
+      "ruTranscription": "бөлмені көруге бола ма?",
+      "kkTranscription": "Bölmenı köruge bola ma?",
+      "category": "phrases",
+      "id": 1472
+    },
+    {
+      "ru": "Когда завтрак?",
+      "kk": "Таңғы ас қашан?",
+      "ruTranscription": "таңғы ас қашан?",
+      "kkTranscription": "Tañğy as qaşan?",
+      "category": "phrases",
+      "id": 1473
+    },
+    {
+      "ru": "Можно продлить проживание?",
+      "kk": "Тұру уақытын ұзартуға бола ма?",
+      "ruTranscription": "тұру уақытын ұзартуға бола ма?",
+      "kkTranscription": "Tūru uaqytyn ūzartuğa bola ma?",
+      "category": "phrases",
+      "id": 1474
+    },
+    {
+      "ru": "Где находится лифт?",
+      "kk": "Лифт қайда?",
+      "ruTranscription": "лифт қайда?",
+      "kkTranscription": "Lift qaida?",
+      "category": "phrases",
+      "id": 1475
+    },
+    {
+      "ru": "У меня не работает кондиционер",
+      "kk": "Менің кондиционерім жұмыс істемейді",
+      "ruTranscription": "менің кондиционерім жұмыс істемейді",
+      "kkTranscription": "Menıñ konditsionerım jūmys istemeidı",
+      "category": "phrases",
+      "id": 1476
+    },
+    {
+      "ru": "В номере нет горячей воды",
+      "kk": "Бөлмеде ыстық су жоқ",
+      "ruTranscription": "бөлмеде ыстық су жоқ",
+      "kkTranscription": "Bölmede ystyq su joq",
+      "category": "phrases",
+      "id": 1477
+    },
+    {
+      "ru": "Можно вызвать такси?",
+      "kk": "Такси шақыруға бола ма?",
+      "ruTranscription": "такси шақыруға бола ма?",
+      "kkTranscription": "Taksi şaqyruğa bola ma?",
+      "category": "phrases",
+      "id": 1478
+    },
+    {
+      "ru": "Во сколько выезд?",
+      "kk": "Шығу уақыты сағат неше?",
+      "ruTranscription": "шығу уақыты сағат неше?",
+      "kkTranscription": "Şyğu uaqyty sağat neşe?",
+      "category": "phrases",
+      "id": 1479
     }
   ],
   "categories": {
