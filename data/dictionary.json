@@ -1,5 +1,5 @@
 {
-  "version": "1.0.50",
+  "version": "1.0.51",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -9731,6 +9731,334 @@
       "kkTranscription": "Işara",
       "category": "basic",
       "id": 1209
+    },
+    {
+      "ru": "Пространство",
+      "kk": "Кеңістік",
+      "ruTranscription": "кеңістік",
+      "kkTranscription": "Keñıstık",
+      "category": "basic",
+      "id": 1210
+    },
+    {
+      "ru": "Жизнь",
+      "kk": "Өмір",
+      "ruTranscription": "өмір",
+      "kkTranscription": "Ömır",
+      "category": "basic",
+      "id": 1211
+    },
+    {
+      "ru": "Смерть",
+      "kk": "Өлім",
+      "ruTranscription": "өлім",
+      "kkTranscription": "Ölım",
+      "category": "basic",
+      "id": 1212
+    },
+    {
+      "ru": "Судьба",
+      "kk": "Тағдыр",
+      "ruTranscription": "тағдыр",
+      "kkTranscription": "Tağdyr",
+      "category": "basic",
+      "id": 1213
+    },
+    {
+      "ru": "Смысл",
+      "kk": "Мағына",
+      "ruTranscription": "мағына",
+      "kkTranscription": "Mağyna",
+      "category": "basic",
+      "id": 1214
+    },
+    {
+      "ru": "Цель",
+      "kk": "Мақсат",
+      "ruTranscription": "мақсат",
+      "kkTranscription": "Maqsat",
+      "category": "basic",
+      "id": 1215
+    },
+    {
+      "ru": "Истина",
+      "kk": "Шындық",
+      "ruTranscription": "шындық",
+      "kkTranscription": "Şyndyq",
+      "category": "basic",
+      "id": 1216
+    },
+    {
+      "ru": "Ложь",
+      "kk": "Өтірік",
+      "ruTranscription": "өтірік",
+      "kkTranscription": "Ötırık",
+      "category": "basic",
+      "id": 1217
+    },
+    {
+      "ru": "Свобода",
+      "kk": "Бостандық",
+      "ruTranscription": "бостандық",
+      "kkTranscription": "Bostandyq",
+      "category": "basic",
+      "id": 1218
+    },
+    {
+      "ru": "Равенство",
+      "kk": "Теңдік",
+      "ruTranscription": "теңдік",
+      "kkTranscription": "Teñdık",
+      "category": "basic",
+      "id": 1219
+    },
+    {
+      "ru": "Справедливость",
+      "kk": "Әділдік",
+      "ruTranscription": "әділдік",
+      "kkTranscription": "Ädıldık",
+      "category": "basic",
+      "id": 1220
+    },
+    {
+      "ru": "Мир (отсутствие войны)",
+      "kk": "Бейбітшілік",
+      "ruTranscription": "бейбітшілік",
+      "kkTranscription": "Beibıtşılık",
+      "category": "basic",
+      "id": 1221
+    },
+    {
+      "ru": "Война",
+      "kk": "Соғыс",
+      "ruTranscription": "соғыс",
+      "kkTranscription": "Soğys",
+      "category": "basic",
+      "id": 1222
+    },
+    {
+      "ru": "Мир (вселенная)",
+      "kk": "Әлем",
+      "ruTranscription": "әлем",
+      "kkTranscription": "Älem",
+      "category": "basic",
+      "id": 1223
+    },
+    {
+      "ru": "Вселенная",
+      "kk": "Ғалам",
+      "ruTranscription": "ғалам",
+      "kkTranscription": "Ğalam",
+      "category": "basic",
+      "id": 1224
+    },
+    {
+      "ru": "Общество",
+      "kk": "Қоғам",
+      "ruTranscription": "қоғам",
+      "kkTranscription": "Qoğam",
+      "category": "basic",
+      "id": 1225
+    },
+    {
+      "ru": "Государство",
+      "kk": "Мемлекет",
+      "ruTranscription": "мемлекет",
+      "kkTranscription": "Memleket",
+      "category": "basic",
+      "id": 1226
+    },
+    {
+      "ru": "Народ",
+      "kk": "Халық",
+      "ruTranscription": "халық",
+      "kkTranscription": "Xalyq",
+      "category": "basic",
+      "id": 1227
+    },
+    {
+      "ru": "Нация",
+      "kk": "Ұлт",
+      "ruTranscription": "ұлт",
+      "kkTranscription": "Ūlt",
+      "category": "basic",
+      "id": 1228
+    },
+    {
+      "ru": "Семья",
+      "kk": "Отбасы",
+      "ruTranscription": "отбасы",
+      "kkTranscription": "Otbasy",
+      "category": "family",
+      "id": 1229
+    },
+    {
+      "ru": "Дружба",
+      "kk": "Достық",
+      "ruTranscription": "достық",
+      "kkTranscription": "Dostyq",
+      "category": "basic",
+      "id": 1230
+    },
+    {
+      "ru": "Ненависть",
+      "kk": "Жеккөрушілік",
+      "ruTranscription": "жеккөрушілік",
+      "kkTranscription": "Jekköruşılık",
+      "category": "emotions",
+      "id": 1231
+    },
+    {
+      "ru": "Вера",
+      "kk": "Сенім",
+      "ruTranscription": "сенім",
+      "kkTranscription": "Senım",
+      "category": "basic",
+      "id": 1232
+    },
+    {
+      "ru": "Горе",
+      "kk": "Қайғы",
+      "ruTranscription": "қайғы",
+      "kkTranscription": "Qaiğy",
+      "category": "emotions",
+      "id": 1233
+    },
+    {
+      "ru": "Память",
+      "kk": "Естелік",
+      "ruTranscription": "естелік",
+      "kkTranscription": "Estelık",
+      "category": "basic",
+      "id": 1234
+    },
+    {
+      "ru": "Знание",
+      "kk": "Білім",
+      "ruTranscription": "білім",
+      "kkTranscription": "Bılım",
+      "category": "education",
+      "id": 1235
+    },
+    {
+      "ru": "Опыт",
+      "kk": "Тәжірибе",
+      "ruTranscription": "тәжірибе",
+      "kkTranscription": "Täjıribe",
+      "category": "basic",
+      "id": 1236
+    },
+    {
+      "ru": "Наука",
+      "kk": "Ғылым",
+      "ruTranscription": "ғылым",
+      "kkTranscription": "Ğylym",
+      "category": "education",
+      "id": 1237
+    },
+    {
+      "ru": "Искусство",
+      "kk": "Өнер",
+      "ruTranscription": "өнер",
+      "kkTranscription": "Öner",
+      "category": "culture",
+      "id": 1238
+    },
+    {
+      "ru": "Культура",
+      "kk": "Мәдениет",
+      "ruTranscription": "мәдениет",
+      "kkTranscription": "Mädeniet",
+      "category": "culture",
+      "id": 1239
+    },
+    {
+      "ru": "Традиция",
+      "kk": "Дәстүр",
+      "ruTranscription": "дәстүр",
+      "kkTranscription": "Dästür",
+      "category": "culture",
+      "id": 1240
+    },
+    {
+      "ru": "Обычай",
+      "kk": "Салт",
+      "ruTranscription": "салт",
+      "kkTranscription": "Salt",
+      "category": "culture",
+      "id": 1241
+    },
+    {
+      "ru": "Слово",
+      "kk": "Сөз",
+      "ruTranscription": "сөз",
+      "kkTranscription": "Söz",
+      "category": "basic",
+      "id": 1242
+    },
+    {
+      "ru": "Речь",
+      "kk": "Сөйлеу",
+      "ruTranscription": "сөйлеу",
+      "kkTranscription": "Söileu",
+      "category": "basic",
+      "id": 1243
+    },
+    {
+      "ru": "Мысль",
+      "kk": "Ой",
+      "ruTranscription": "ой",
+      "kkTranscription": "Oi",
+      "category": "basic",
+      "id": 1244
+    },
+    {
+      "ru": "Идея",
+      "kk": "Идея",
+      "ruTranscription": "идея",
+      "kkTranscription": "Ideia",
+      "category": "basic",
+      "id": 1245
+    },
+    {
+      "ru": "Правда",
+      "kk": "Ақиқат",
+      "ruTranscription": "ақиқат",
+      "kkTranscription": "Aqiqat",
+      "category": "basic",
+      "id": 1246
+    },
+    {
+      "ru": "Закон",
+      "kk": "Заң",
+      "ruTranscription": "заң",
+      "kkTranscription": "Zañ",
+      "category": "basic",
+      "id": 1247
+    },
+    {
+      "ru": "Правило",
+      "kk": "Ереже",
+      "ruTranscription": "ереже",
+      "kkTranscription": "Ereje",
+      "category": "basic",
+      "id": 1248
+    },
+    {
+      "ru": "Порядок",
+      "kk": "Тәртіп",
+      "ruTranscription": "тәртіп",
+      "kkTranscription": "Tärtıp",
+      "category": "basic",
+      "id": 1249
+    },
+    {
+      "ru": "Хаос",
+      "kk": "Хаос",
+      "ruTranscription": "хаос",
+      "kkTranscription": "Haos",
+      "category": "basic",
+      "id": 1250
     }
   ],
   "categories": {
