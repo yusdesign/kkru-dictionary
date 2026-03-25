@@ -1,5 +1,5 @@
 {
-  "version": "1.0.66",
+  "version": "1.0.67",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -15556,6 +15556,560 @@
       "kkTranscription": "Kvanttyq kompiuter",
       "category": "education",
       "id": 1937
+    },
+    {
+      "ru": "Политика",
+      "kk": "Саясат",
+      "ruTranscription": "саясат",
+      "kkTranscription": "Saiasat",
+      "category": "basic",
+      "id": 1938
+    },
+    {
+      "ru": "Политик",
+      "kk": "Саясаткер",
+      "ruTranscription": "саясаткер",
+      "kkTranscription": "Saiasatker",
+      "category": "basic",
+      "id": 1939
+    },
+    {
+      "ru": "Президент",
+      "kk": "Президент",
+      "ruTranscription": "президент",
+      "kkTranscription": "Prezident",
+      "category": "basic",
+      "id": 1940
+    },
+    {
+      "ru": "Правительство",
+      "kk": "Үкімет",
+      "ruTranscription": "үкімет",
+      "kkTranscription": "Ükımet",
+      "category": "basic",
+      "id": 1941
+    },
+    {
+      "ru": "Парламент",
+      "kk": "Парламент",
+      "ruTranscription": "парламент",
+      "kkTranscription": "Parlament",
+      "category": "basic",
+      "id": 1942
+    },
+    {
+      "ru": "Депутат",
+      "kk": "Депутат",
+      "ruTranscription": "депутат",
+      "kkTranscription": "Deputat",
+      "category": "basic",
+      "id": 1943
+    },
+    {
+      "ru": "Министр",
+      "kk": "Министр",
+      "ruTranscription": "министр",
+      "kkTranscription": "Ministr",
+      "category": "basic",
+      "id": 1944
+    },
+    {
+      "ru": "Выборы",
+      "kk": "Сайлау",
+      "ruTranscription": "сайлау",
+      "kkTranscription": "Sailau",
+      "category": "basic",
+      "id": 1945
+    },
+    {
+      "ru": "Голосование",
+      "kk": "Дауыс беру",
+      "ruTranscription": "дауыс беру",
+      "kkTranscription": "Dauys beru",
+      "category": "basic",
+      "id": 1946
+    },
+    {
+      "ru": "Партия",
+      "kk": "Партия",
+      "ruTranscription": "партия",
+      "kkTranscription": "Partiia",
+      "category": "basic",
+      "id": 1947
+    },
+    {
+      "ru": "Оппозиция",
+      "kk": "Оппозиция",
+      "ruTranscription": "оппозиция",
+      "kkTranscription": "Oppozitsiia",
+      "category": "basic",
+      "id": 1948
+    },
+    {
+      "ru": "Конституция",
+      "kk": "Конституция",
+      "ruTranscription": "конституция",
+      "kkTranscription": "Konstitutsiia",
+      "category": "basic",
+      "id": 1949
+    },
+    {
+      "ru": "Демократия",
+      "kk": "Демократия",
+      "ruTranscription": "демократия",
+      "kkTranscription": "Demokratiia",
+      "category": "basic",
+      "id": 1950
+    },
+    {
+      "ru": "Республика",
+      "kk": "Республика",
+      "ruTranscription": "республика",
+      "kkTranscription": "Respublika",
+      "category": "basic",
+      "id": 1951
+    },
+    {
+      "ru": "Монархия",
+      "kk": "Монархия",
+      "ruTranscription": "монархия",
+      "kkTranscription": "Monarkhiia",
+      "category": "basic",
+      "id": 1952
+    },
+    {
+      "ru": "Федерация",
+      "kk": "Федерация",
+      "ruTranscription": "федерация",
+      "kkTranscription": "Federatsiia",
+      "category": "basic",
+      "id": 1953
+    },
+    {
+      "ru": "Суверенитет",
+      "kk": "Егемендік",
+      "ruTranscription": "егемендік",
+      "kkTranscription": "Egemen dık",
+      "category": "basic",
+      "id": 1954
+    },
+    {
+      "ru": "Независимость",
+      "kk": "Тәуелсіздік",
+      "ruTranscription": "тәуелсіздік",
+      "kkTranscription": "Täuelsızdık",
+      "category": "basic",
+      "id": 1955
+    },
+    {
+      "ru": "Гражданин",
+      "kk": "Азамат",
+      "ruTranscription": "азамат",
+      "kkTranscription": "Azamat",
+      "category": "basic",
+      "id": 1956
+    },
+    {
+      "ru": "Гражданство",
+      "kk": "Азаматтық",
+      "ruTranscription": "азаматтық",
+      "kkTranscription": "Azamattyq",
+      "category": "basic",
+      "id": 1957
+    },
+    {
+      "ru": "Патриот",
+      "kk": "Патриот",
+      "ruTranscription": "патриот",
+      "kkTranscription": "Patriot",
+      "category": "basic",
+      "id": 1958
+    },
+    {
+      "ru": "Национализм",
+      "kk": "Ұлтшылдық",
+      "ruTranscription": "ұлтшылдық",
+      "kkTranscription": "Ūltşyldyq",
+      "category": "basic",
+      "id": 1959
+    },
+    {
+      "ru": "Глобализация",
+      "kk": "Жаһандану",
+      "ruTranscription": "жаһандану",
+      "kkTranscription": "Jahandanu",
+      "category": "basic",
+      "id": 1960
+    },
+    {
+      "ru": "Иммиграция",
+      "kk": "Көші-қон",
+      "ruTranscription": "көші-қон",
+      "kkTranscription": "Köşi-qon",
+      "category": "basic",
+      "id": 1961
+    },
+    {
+      "ru": "Эмиграция",
+      "kk": "Эмиграция",
+      "ruTranscription": "эмиграция",
+      "kkTranscription": "Emigratsiia",
+      "category": "basic",
+      "id": 1962
+    },
+    {
+      "ru": "Беженец",
+      "kk": "Босқын",
+      "ruTranscription": "босқын",
+      "kkTranscription": "Bosqyn",
+      "category": "basic",
+      "id": 1963
+    },
+    {
+      "ru": "Дипломатия",
+      "kk": "Дипломатия",
+      "ruTranscription": "дипломатия",
+      "kkTranscription": "Diplomatiia",
+      "category": "basic",
+      "id": 1964
+    },
+    {
+      "ru": "Посол",
+      "kk": "Елші",
+      "ruTranscription": "елші",
+      "kkTranscription": "Elşı",
+      "category": "basic",
+      "id": 1965
+    },
+    {
+      "ru": "Консул",
+      "kk": "Консул",
+      "ruTranscription": "консул",
+      "kkTranscription": "Konsul",
+      "category": "basic",
+      "id": 1966
+    },
+    {
+      "ru": "Альянс",
+      "kk": "Одақ",
+      "ruTranscription": "одақ",
+      "kkTranscription": "Odaq",
+      "category": "basic",
+      "id": 1967
+    },
+    {
+      "ru": "Санкция",
+      "kk": "Санкция",
+      "ruTranscription": "санкция",
+      "kkTranscription": "Sanktsiia",
+      "category": "basic",
+      "id": 1968
+    },
+    {
+      "ru": "Эмбарго",
+      "kk": "Эмбарго",
+      "ruTranscription": "эмбарго",
+      "kkTranscription": "Embargo",
+      "category": "basic",
+      "id": 1969
+    },
+    {
+      "ru": "Революция",
+      "kk": "Революция",
+      "ruTranscription": "революция",
+      "kkTranscription": "Revoliutsiia",
+      "category": "basic",
+      "id": 1970
+    },
+    {
+      "ru": "Реформа",
+      "kk": "Реформа",
+      "ruTranscription": "реформа",
+      "kkTranscription": "Reforma",
+      "category": "basic",
+      "id": 1971
+    },
+    {
+      "ru": "Модернизация",
+      "kk": "Модернизация",
+      "ruTranscription": "модернизация",
+      "kkTranscription": "Modernizatsiia",
+      "category": "basic",
+      "id": 1972
+    },
+    {
+      "ru": "Кризис",
+      "kk": "Дағдарыс",
+      "ruTranscription": "дағдарыс",
+      "kkTranscription": "Dağdarys",
+      "category": "basic",
+      "id": 1973
+    },
+    {
+      "ru": "Стабильность",
+      "kk": "Тұрақтылық",
+      "ruTranscription": "тұрақтылық",
+      "kkTranscription": "Tūraqtylyq",
+      "category": "basic",
+      "id": 1974
+    },
+    {
+      "ru": "Безопасность",
+      "kk": "Қауіпсіздік",
+      "ruTranscription": "қауіпсіздік",
+      "kkTranscription": "Qauipsızdık",
+      "category": "basic",
+      "id": 1975
+    },
+    {
+      "ru": "Терроризм",
+      "kk": "Терроризм",
+      "ruTranscription": "терроризм",
+      "kkTranscription": "Terrorizm",
+      "category": "basic",
+      "id": 1976
+    },
+    {
+      "ru": "Экстремизм",
+      "kk": "Экстремизм",
+      "ruTranscription": "экстремизм",
+      "kkTranscription": "Ekstremizm",
+      "category": "basic",
+      "id": 1977
+    },
+    {
+      "ru": "Коррупция",
+      "kk": "Жемқорлық",
+      "ruTranscription": "жемқорлық",
+      "kkTranscription": "Jemqorlyq",
+      "category": "basic",
+      "id": 1978
+    },
+    {
+      "ru": "Бюрократия",
+      "kk": "Бюрократия",
+      "ruTranscription": "бюрократия",
+      "kkTranscription": "Biurokratiia",
+      "category": "basic",
+      "id": 1979
+    },
+    {
+      "ru": "Лоббизм",
+      "kk": "Лоббизм",
+      "ruTranscription": "лоббизм",
+      "kkTranscription": "Lobbizm",
+      "category": "basic",
+      "id": 1980
+    },
+    {
+      "ru": "Пропаганда",
+      "kk": "Үгіт-насихат",
+      "ruTranscription": "үгіт-насихат",
+      "kkTranscription": "Ügıt-nasikhat",
+      "category": "basic",
+      "id": 1981
+    },
+    {
+      "ru": "Цензура",
+      "kk": "Цензура",
+      "ruTranscription": "цензура",
+      "kkTranscription": "Tsenzura",
+      "category": "basic",
+      "id": 1982
+    },
+    {
+      "ru": "Идеология",
+      "kk": "Идеология",
+      "ruTranscription": "идеология",
+      "kkTranscription": "Ideologiia",
+      "category": "basic",
+      "id": 1983
+    },
+    {
+      "ru": "Менталитет",
+      "kk": "Менталитет",
+      "ruTranscription": "менталитет",
+      "kkTranscription": "Mentalitet",
+      "category": "basic",
+      "id": 1984
+    },
+    {
+      "ru": "Стереотип",
+      "kk": "Стереотип",
+      "ruTranscription": "стереотип",
+      "kkTranscription": "Stereotip",
+      "category": "basic",
+      "id": 1985
+    },
+    {
+      "ru": "Предрассудок",
+      "kk": "Теріс пікір",
+      "ruTranscription": "теріс пікір",
+      "kkTranscription": "Terıs pıkır",
+      "category": "basic",
+      "id": 1986
+    },
+    {
+      "ru": "Дискриминация",
+      "kk": "Кемсіту",
+      "ruTranscription": "кемсіту",
+      "kkTranscription": "Kemsıtu",
+      "category": "basic",
+      "id": 1987
+    },
+    {
+      "ru": "Толерантность",
+      "kk": "Төзімділік",
+      "ruTranscription": "төзімділік",
+      "kkTranscription": "Tözımdılık",
+      "category": "basic",
+      "id": 1988
+    },
+    {
+      "ru": "Расизм",
+      "kk": "Нәсілшілдік",
+      "ruTranscription": "нәсілшілдік",
+      "kkTranscription": "Näsılşıldık",
+      "category": "basic",
+      "id": 1989
+    },
+    {
+      "ru": "Феминизм",
+      "kk": "Феминизм",
+      "ruTranscription": "феминизм",
+      "kkTranscription": "Feminizm",
+      "category": "basic",
+      "id": 1990
+    },
+    {
+      "ru": "ЛГБТ",
+      "kk": "ЛГБТ",
+      "ruTranscription": "эл-гэ-бэ-тэ",
+      "kkTranscription": "EL-GE-BE-TE",
+      "category": "basic",
+      "note": "Лесбиянка, гей, бисексуал, трансгендер",
+      "id": 1991
+    },
+    {
+      "ru": "Активист",
+      "kk": "Белсенді",
+      "ruTranscription": "белсенді",
+      "kkTranscription": "Belsendi",
+      "category": "basic",
+      "id": 1992
+    },
+    {
+      "ru": "Волонтер",
+      "kk": "Ерікті",
+      "ruTranscription": "ерікті",
+      "kkTranscription": "Eriktı",
+      "category": "basic",
+      "id": 1993
+    },
+    {
+      "ru": "Благотворительность",
+      "kk": "Қайырымдылық",
+      "ruTranscription": "қайырымдылық",
+      "kkTranscription": "Qaiyrymdylyq",
+      "category": "basic",
+      "id": 1994
+    },
+    {
+      "ru": "Фонд",
+      "kk": "Қор",
+      "ruTranscription": "қор",
+      "kkTranscription": "Qor",
+      "category": "basic",
+      "id": 1995
+    },
+    {
+      "ru": "НКО",
+      "kk": "ҮЕҰ",
+      "ruTranscription": "үеұ",
+      "kkTranscription": "ÜEŪ",
+      "category": "basic",
+      "note": "Некоммерческая организация / Үкіметтік емес ұйым",
+      "id": 1996
+    },
+    {
+      "ru": "Профсоюз",
+      "kk": "Кәсіподақ",
+      "ruTranscription": "кәсіподақ",
+      "kkTranscription": "Käsıpodaq",
+      "category": "basic",
+      "id": 1997
+    },
+    {
+      "ru": "Митинг",
+      "kk": "Митинг",
+      "ruTranscription": "митинг",
+      "kkTranscription": "Miting",
+      "category": "basic",
+      "id": 1998
+    },
+    {
+      "ru": "Демонстрация",
+      "kk": "Демонстрация",
+      "ruTranscription": "демонстрация",
+      "kkTranscription": "Demonstratsiia",
+      "category": "basic",
+      "id": 1999
+    },
+    {
+      "ru": "Забастовка",
+      "kk": "Ереуіл",
+      "ruTranscription": "ереуіл",
+      "kkTranscription": "Ereuıl",
+      "category": "basic",
+      "id": 2000
+    },
+    {
+      "ru": "Петиция",
+      "kk": "Петиция",
+      "ruTranscription": "петиция",
+      "kkTranscription": "Petitsiia",
+      "category": "basic",
+      "id": 2001
+    },
+    {
+      "ru": "Референдум",
+      "kk": "Референдум",
+      "ruTranscription": "референдум",
+      "kkTranscription": "Referendum",
+      "category": "basic",
+      "id": 2002
+    },
+    {
+      "ru": "Плебисцит",
+      "kk": "Плебисцит",
+      "ruTranscription": "плебисцит",
+      "kkTranscription": "Plebisit",
+      "category": "basic",
+      "id": 2003
+    },
+    {
+      "ru": "Импичмент",
+      "kk": "Импичмент",
+      "ruTranscription": "импичмент",
+      "kkTranscription": "Impichment",
+      "category": "basic",
+      "id": 2004
+    },
+    {
+      "ru": "Лобби",
+      "kk": "Лобби",
+      "ruTranscription": "лобби",
+      "kkTranscription": "Lobbi",
+      "category": "basic",
+      "id": 2005
+    },
+    {
+      "ru": "Коалиция",
+      "kk": "Коалиция",
+      "ruTranscription": "коалиция",
+      "kkTranscription": "Koalitsiia",
+      "category": "basic",
+      "id": 2006
     }
   ],
   "categories": {
