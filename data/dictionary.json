@@ -1,5 +1,5 @@
 {
-  "version": "1.0.65",
+  "version": "1.0.66",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -14980,6 +14980,582 @@
       "kkTranscription": "Katalizator",
       "category": "education",
       "id": 1865
+    },
+    {
+      "ru": "Академия",
+      "kk": "Академия",
+      "ruTranscription": "академия",
+      "kkTranscription": "Akademiia",
+      "category": "education",
+      "id": 1866
+    },
+    {
+      "ru": "Институт",
+      "kk": "Институт",
+      "ruTranscription": "институт",
+      "kkTranscription": "Institut",
+      "category": "education",
+      "id": 1867
+    },
+    {
+      "ru": "Факультет",
+      "kk": "Факультет",
+      "ruTranscription": "факультет",
+      "kkTranscription": "Fakul'tet",
+      "category": "education",
+      "id": 1868
+    },
+    {
+      "ru": "Кафедра",
+      "kk": "Кафедра",
+      "ruTranscription": "кафедра",
+      "kkTranscription": "Kafedra",
+      "category": "education",
+      "id": 1869
+    },
+    {
+      "ru": "Магистр",
+      "kk": "Магистр",
+      "ruTranscription": "магистр",
+      "kkTranscription": "Magistr",
+      "category": "education",
+      "id": 1870
+    },
+    {
+      "ru": "Бакалавр",
+      "kk": "Бакалавр",
+      "ruTranscription": "бакалавр",
+      "kkTranscription": "Bakalavr",
+      "category": "education",
+      "id": 1871
+    },
+    {
+      "ru": "Доктор наук",
+      "kk": "Ғылым докторы",
+      "ruTranscription": "ғылым докторы",
+      "kkTranscription": "Ğylym doktory",
+      "category": "education",
+      "id": 1872
+    },
+    {
+      "ru": "Аспирант",
+      "kk": "Аспирант",
+      "ruTranscription": "аспирант",
+      "kkTranscription": "Aspirant",
+      "category": "education",
+      "id": 1873
+    },
+    {
+      "ru": "Монография",
+      "kk": "Монография",
+      "ruTranscription": "монография",
+      "kkTranscription": "Monografiia",
+      "category": "education",
+      "id": 1874
+    },
+    {
+      "ru": "Публикация",
+      "kk": "Жарияланым",
+      "ruTranscription": "жарияланым",
+      "kkTranscription": "Jariialanym",
+      "category": "education",
+      "id": 1875
+    },
+    {
+      "ru": "Цитирование",
+      "kk": "Дәйексөз",
+      "ruTranscription": "дәйексөз",
+      "kkTranscription": "Däieksöz",
+      "category": "education",
+      "id": 1876
+    },
+    {
+      "ru": "Библиография",
+      "kk": "Библиография",
+      "ruTranscription": "библиография",
+      "kkTranscription": "Bibliografiia",
+      "category": "education",
+      "id": 1877
+    },
+    {
+      "ru": "Рецензия",
+      "kk": "Пікір",
+      "ruTranscription": "пікір",
+      "kkTranscription": "Pıkır",
+      "category": "education",
+      "id": 1878
+    },
+    {
+      "ru": "Аннотация",
+      "kk": "Аннотация",
+      "ruTranscription": "аннотация",
+      "kkTranscription": "Annotatsiia",
+      "category": "education",
+      "id": 1879
+    },
+    {
+      "ru": "Реферат",
+      "kk": "Реферат",
+      "ruTranscription": "реферат",
+      "kkTranscription": "Referat",
+      "category": "education",
+      "id": 1880
+    },
+    {
+      "ru": "Курсовая работа",
+      "kk": "Курстық жұмыс",
+      "ruTranscription": "курстық жұмыс",
+      "kkTranscription": "Kurystyq jūmys",
+      "category": "education",
+      "id": 1881
+    },
+    {
+      "ru": "Дипломная работа",
+      "kk": "Дипломдық жұмыс",
+      "ruTranscription": "дипломдық жұмыс",
+      "kkTranscription": "Diplomdyq jūmys",
+      "category": "education",
+      "id": 1882
+    },
+    {
+      "ru": "Коллоквиум",
+      "kk": "Коллоквиум",
+      "ruTranscription": "коллоквиум",
+      "kkTranscription": "Kollokvium",
+      "category": "education",
+      "id": 1883
+    },
+    {
+      "ru": "Симпозиум",
+      "kk": "Симпозиум",
+      "ruTranscription": "симпозиум",
+      "kkTranscription": "Simpozium",
+      "category": "education",
+      "id": 1884
+    },
+    {
+      "ru": "Конгресс",
+      "kk": "Конгресс",
+      "ruTranscription": "конгресс",
+      "kkTranscription": "Kongress",
+      "category": "education",
+      "id": 1885
+    },
+    {
+      "ru": "Грант",
+      "kk": "Грант",
+      "ruTranscription": "грант",
+      "kkTranscription": "Grant",
+      "category": "education",
+      "id": 1886
+    },
+    {
+      "ru": "Гипотеза",
+      "kk": "Гипотеза",
+      "ruTranscription": "гипотеза",
+      "kkTranscription": "Gipoteza",
+      "category": "education",
+      "id": 1887
+    },
+    {
+      "ru": "Парадигма",
+      "kk": "Парадигма",
+      "ruTranscription": "парадигма",
+      "kkTranscription": "Paradigma",
+      "category": "education",
+      "id": 1888
+    },
+    {
+      "ru": "Концепция",
+      "kk": "Тұжырымдама",
+      "ruTranscription": "тұжырымдама",
+      "kkTranscription": "Tūjyrymdama",
+      "category": "education",
+      "id": 1889
+    },
+    {
+      "ru": "Критерий",
+      "kk": "Критерий",
+      "ruTranscription": "критерий",
+      "kkTranscription": "Kriterii",
+      "category": "education",
+      "id": 1890
+    },
+    {
+      "ru": "Параметр",
+      "kk": "Параметр",
+      "ruTranscription": "параметр",
+      "kkTranscription": "Parametr",
+      "category": "education",
+      "id": 1891
+    },
+    {
+      "ru": "Коэффициент",
+      "kk": "Коэффициент",
+      "ruTranscription": "коэффициент",
+      "kkTranscription": "Koeffitsient",
+      "category": "education",
+      "id": 1892
+    },
+    {
+      "ru": "Индекс",
+      "kk": "Индекс",
+      "ruTranscription": "индекс",
+      "kkTranscription": "Indeks",
+      "category": "education",
+      "id": 1893
+    },
+    {
+      "ru": "Классификация",
+      "kk": "Классификация",
+      "ruTranscription": "классификация",
+      "kkTranscription": "Klassifikatsiia",
+      "category": "education",
+      "id": 1894
+    },
+    {
+      "ru": "Типология",
+      "kk": "Типология",
+      "ruTranscription": "типология",
+      "kkTranscription": "Tipologiia",
+      "category": "education",
+      "id": 1895
+    },
+    {
+      "ru": "Таксономия",
+      "kk": "Таксономия",
+      "ruTranscription": "таксономия",
+      "kkTranscription": "Taksonomiia",
+      "category": "education",
+      "id": 1896
+    },
+    {
+      "ru": "Генетика",
+      "kk": "Генетика",
+      "ruTranscription": "генетика",
+      "kkTranscription": "Genetika",
+      "category": "education",
+      "id": 1897
+    },
+    {
+      "ru": "Экология",
+      "kk": "Экология",
+      "ruTranscription": "экология",
+      "kkTranscription": "Ekologiia",
+      "category": "education",
+      "id": 1898
+    },
+    {
+      "ru": "Космология",
+      "kk": "Космология",
+      "ruTranscription": "космология",
+      "kkTranscription": "Kosmologiia",
+      "category": "education",
+      "id": 1899
+    },
+    {
+      "ru": "Квант",
+      "kk": "Квант",
+      "ruTranscription": "квант",
+      "kkTranscription": "Kvant",
+      "category": "education",
+      "id": 1900
+    },
+    {
+      "ru": "Фотон",
+      "kk": "Фотон",
+      "ruTranscription": "фотон",
+      "kkTranscription": "Foton",
+      "category": "education",
+      "id": 1901
+    },
+    {
+      "ru": "Электрон",
+      "kk": "Электрон",
+      "ruTranscription": "электрон",
+      "kkTranscription": "Elektron",
+      "category": "education",
+      "id": 1902
+    },
+    {
+      "ru": "Протон",
+      "kk": "Протон",
+      "ruTranscription": "протон",
+      "kkTranscription": "Proton",
+      "category": "education",
+      "id": 1903
+    },
+    {
+      "ru": "Нейтрон",
+      "kk": "Нейтрон",
+      "ruTranscription": "нейтрон",
+      "kkTranscription": "Neitron",
+      "category": "education",
+      "id": 1904
+    },
+    {
+      "ru": "Изотоп",
+      "kk": "Изотоп",
+      "ruTranscription": "изотоп",
+      "kkTranscription": "Izotop",
+      "category": "education",
+      "id": 1905
+    },
+    {
+      "ru": "Радиация",
+      "kk": "Радиация",
+      "ruTranscription": "радиация",
+      "kkTranscription": "Radiatsiia",
+      "category": "education",
+      "id": 1906
+    },
+    {
+      "ru": "Магнит",
+      "kk": "Магнит",
+      "ruTranscription": "магнит",
+      "kkTranscription": "Magnit",
+      "category": "education",
+      "id": 1907
+    },
+    {
+      "ru": "Электричество",
+      "kk": "Электр",
+      "ruTranscription": "электр",
+      "kkTranscription": "Elektr",
+      "category": "education",
+      "id": 1908
+    },
+    {
+      "ru": "Проводник",
+      "kk": "Өткізгіш",
+      "ruTranscription": "өткізгіш",
+      "kkTranscription": "Ötkızgış",
+      "category": "education",
+      "id": 1909
+    },
+    {
+      "ru": "Изолятор",
+      "kk": "Оқшаулағыш",
+      "ruTranscription": "оқшаулағыш",
+      "kkTranscription": "Oqşaulağyş",
+      "category": "education",
+      "id": 1910
+    },
+    {
+      "ru": "Полупроводник",
+      "kk": "Жартылай өткізгіш",
+      "ruTranscription": "жартылай өткізгіш",
+      "kkTranscription": "Jartylai ötkızgış",
+      "category": "education",
+      "id": 1911
+    },
+    {
+      "ru": "Гравитация",
+      "kk": "Гравитация",
+      "ruTranscription": "гравитация",
+      "kkTranscription": "Gravitatsiia",
+      "category": "education",
+      "id": 1912
+    },
+    {
+      "ru": "Энтропия",
+      "kk": "Энтропия",
+      "ruTranscription": "энтропия",
+      "kkTranscription": "Entropiia",
+      "category": "education",
+      "id": 1913
+    },
+    {
+      "ru": "Энтальпия",
+      "kk": "Энтальпия",
+      "ruTranscription": "энтальпия",
+      "kkTranscription": "Ental'piia",
+      "category": "education",
+      "id": 1914
+    },
+    {
+      "ru": "Кинетика",
+      "kk": "Кинетика",
+      "ruTranscription": "кинетика",
+      "kkTranscription": "Kinetika",
+      "category": "education",
+      "id": 1915
+    },
+    {
+      "ru": "Статика",
+      "kk": "Статика",
+      "ruTranscription": "статика",
+      "kkTranscription": "Statika",
+      "category": "education",
+      "id": 1916
+    },
+    {
+      "ru": "Динамика",
+      "kk": "Динамика",
+      "ruTranscription": "динамика",
+      "kkTranscription": "Dinamika",
+      "category": "education",
+      "id": 1917
+    },
+    {
+      "ru": "Вакуум",
+      "kk": "Вакуум",
+      "ruTranscription": "вакуум",
+      "kkTranscription": "Vakuum",
+      "category": "education",
+      "id": 1918
+    },
+    {
+      "ru": "Плазма",
+      "kk": "Плазма",
+      "ruTranscription": "плазма",
+      "kkTranscription": "Plazma",
+      "category": "education",
+      "id": 1919
+    },
+    {
+      "ru": "Кристалл",
+      "kk": "Кристал",
+      "ruTranscription": "кристал",
+      "kkTranscription": "Kristal",
+      "category": "education",
+      "id": 1920
+    },
+    {
+      "ru": "Аморфный",
+      "kk": "Аморфты",
+      "ruTranscription": "аморфты",
+      "kkTranscription": "Amorfty",
+      "category": "education",
+      "id": 1921
+    },
+    {
+      "ru": "Полимер",
+      "kk": "Полимер",
+      "ruTranscription": "полимер",
+      "kkTranscription": "Polimer",
+      "category": "education",
+      "id": 1922
+    },
+    {
+      "ru": "Композит",
+      "kk": "Композит",
+      "ruTranscription": "композит",
+      "kkTranscription": "Kompozit",
+      "category": "education",
+      "id": 1923
+    },
+    {
+      "ru": "Нанотехнология",
+      "kk": "Нанотехнология",
+      "ruTranscription": "нанотехнология",
+      "kkTranscription": "Nanotekhnologiia",
+      "category": "education",
+      "id": 1924
+    },
+    {
+      "ru": "Биотехнология",
+      "kk": "Биотехнология",
+      "ruTranscription": "биотехнология",
+      "kkTranscription": "Biotekhnologiia",
+      "category": "education",
+      "id": 1925
+    },
+    {
+      "ru": "Робототехника",
+      "kk": "Робототехника",
+      "ruTranscription": "робототехника",
+      "kkTranscription": "Robototekhnika",
+      "category": "education",
+      "id": 1926
+    },
+    {
+      "ru": "Искусственный интеллект",
+      "kk": "Жасанды интеллект",
+      "ruTranscription": "жасанды интеллект",
+      "kkTranscription": "Jasandy intellekt",
+      "category": "education",
+      "id": 1927
+    },
+    {
+      "ru": "Нейросеть",
+      "kk": "Нейрожелі",
+      "ruTranscription": "нейрожелі",
+      "kkTranscription": "Neirojeli",
+      "category": "education",
+      "id": 1928
+    },
+    {
+      "ru": "Большие данные",
+      "kk": "Үлкен деректер",
+      "ruTranscription": "үлкен деректер",
+      "kkTranscription": "Ülken derekter",
+      "category": "education",
+      "id": 1929
+    },
+    {
+      "ru": "Облачные технологии",
+      "kk": "Бұлтты технологиялар",
+      "ruTranscription": "бұлтты технологиялар",
+      "kkTranscription": "Būltty tekhnologiialar",
+      "category": "education",
+      "id": 1930
+    },
+    {
+      "ru": "Кибербезопасность",
+      "kk": "Киберқауіпсіздік",
+      "ruTranscription": "киберқауіпсіздік",
+      "kkTranscription": "Kiberqauipsızdık",
+      "category": "education",
+      "id": 1931
+    },
+    {
+      "ru": "Криптография",
+      "kk": "Криптография",
+      "ruTranscription": "криптография",
+      "kkTranscription": "Kriptografiia",
+      "category": "education",
+      "id": 1932
+    },
+    {
+      "ru": "Аутентификация",
+      "kk": "Аутентификация",
+      "ruTranscription": "аутентификация",
+      "kkTranscription": "Autentifikatsiia",
+      "category": "education",
+      "id": 1933
+    },
+    {
+      "ru": "Шифрование",
+      "kk": "Шифрлау",
+      "ruTranscription": "шифрлау",
+      "kkTranscription": "Şifrlau",
+      "category": "education",
+      "id": 1934
+    },
+    {
+      "ru": "Дешифровка",
+      "kk": "Шифрды ашу",
+      "ruTranscription": "шифрды ашу",
+      "kkTranscription": "Şifrdy aşu",
+      "category": "education",
+      "id": 1935
+    },
+    {
+      "ru": "Блокчейн",
+      "kk": "Блокчейн",
+      "ruTranscription": "блокчейн",
+      "kkTranscription": "Blokchein",
+      "category": "education",
+      "id": 1936
+    },
+    {
+      "ru": "Квантовый компьютер",
+      "kk": "Кванттық компьютер",
+      "ruTranscription": "кванттық компьютер",
+      "kkTranscription": "Kvanttyq kompiuter",
+      "category": "education",
+      "id": 1937
     }
   ],
   "categories": {
