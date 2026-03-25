@@ -1,5 +1,5 @@
 {
-  "version": "1.0.80",
+  "version": "1.0.81",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -20855,6 +20855,390 @@
       "kkTranscription": "Karaoke",
       "category": "culture",
       "id": 2599
+    },
+    {
+      "ru": "Здоровый образ жизни",
+      "kk": "Салауатты өмір салты",
+      "ruTranscription": "салауатты өмір салты",
+      "kkTranscription": "Salauatty ömır salty",
+      "category": "medicine",
+      "id": 2600
+    },
+    {
+      "ru": "Фитнес",
+      "kk": "Фитнес",
+      "ruTranscription": "фитнес",
+      "kkTranscription": "Fitness",
+      "category": "sports",
+      "id": 2601
+    },
+    {
+      "ru": "Тренировка",
+      "kk": "Жаттығу",
+      "ruTranscription": "жаттығу",
+      "kkTranscription": "Jattyğu",
+      "category": "sports",
+      "id": 2602
+    },
+    {
+      "ru": "Спортзал",
+      "kk": "Спорт залы",
+      "ruTranscription": "спорт залы",
+      "kkTranscription": "Sport zaly",
+      "category": "sports",
+      "id": 2603
+    },
+    {
+      "ru": "Упражнение",
+      "kk": "Жаттығу",
+      "ruTranscription": "жаттығу",
+      "kkTranscription": "Jattyğu",
+      "category": "sports",
+      "id": 2604
+    },
+    {
+      "ru": "Разминка",
+      "kk": "Белсендіру",
+      "ruTranscription": "белсендіру",
+      "kkTranscription": "Belsendıru",
+      "category": "sports",
+      "id": 2605
+    },
+    {
+      "ru": "Кардио",
+      "kk": "Кардио",
+      "ruTranscription": "кардио",
+      "kkTranscription": "Kardio",
+      "category": "sports",
+      "id": 2606
+    },
+    {
+      "ru": "Силовая тренировка",
+      "kk": "Күш жаттығуы",
+      "ruTranscription": "күш жаттығуы",
+      "kkTranscription": "Küş jattyğuy",
+      "category": "sports",
+      "id": 2607
+    },
+    {
+      "ru": "Растяжка",
+      "kk": "Созылу",
+      "ruTranscription": "созылу",
+      "kkTranscription": "Sozylu",
+      "category": "sports",
+      "id": 2608
+    },
+    {
+      "ru": "Йога",
+      "kk": "Йога",
+      "ruTranscription": "йога",
+      "kkTranscription": "Ioga",
+      "category": "sports",
+      "id": 2609
+    },
+    {
+      "ru": "Пилатес",
+      "kk": "Пилатес",
+      "ruTranscription": "пилатес",
+      "kkTranscription": "Pilates",
+      "category": "sports",
+      "id": 2610
+    },
+    {
+      "ru": "Ходьба",
+      "kk": "Жүру",
+      "ruTranscription": "жүру",
+      "kkTranscription": "Jüru",
+      "category": "sports",
+      "id": 2611
+    },
+    {
+      "ru": "Скандинавская ходьба",
+      "kk": "Скандинавтық жүру",
+      "ruTranscription": "скандинавтық жүру",
+      "kkTranscription": "Skandinavtyq jüru",
+      "category": "sports",
+      "id": 2612
+    },
+    {
+      "ru": "Бассейн",
+      "kk": "Бассейн",
+      "ruTranscription": "бассейн",
+      "kkTranscription": "Bassein",
+      "category": "sports",
+      "id": 2613
+    },
+    {
+      "ru": "Коньки",
+      "kk": "Коньки",
+      "ruTranscription": "коньки",
+      "kkTranscription": "Konki",
+      "category": "sports",
+      "id": 2614
+    },
+    {
+      "ru": "Ролики",
+      "kk": "Ролик",
+      "ruTranscription": "ролик",
+      "kkTranscription": "Rolik",
+      "category": "sports",
+      "id": 2615
+    },
+    {
+      "ru": "Скейтборд",
+      "kk": "Скейтборд",
+      "ruTranscription": "скейтборд",
+      "kkTranscription": "Skeibord",
+      "category": "sports",
+      "id": 2616
+    },
+    {
+      "ru": "Правильное питание",
+      "kk": "Дұрыс тамақтану",
+      "ruTranscription": "дұрыс тамақтану",
+      "kkTranscription": "Dūrys tamaqtanu",
+      "category": "food",
+      "id": 2617
+    },
+    {
+      "ru": "Диета",
+      "kk": "Диета",
+      "ruTranscription": "диета",
+      "kkTranscription": "Dieta",
+      "category": "food",
+      "id": 2618
+    },
+    {
+      "ru": "Калория",
+      "kk": "Калория",
+      "ruTranscription": "калория",
+      "kkTranscription": "Kaloriia",
+      "category": "food",
+      "id": 2619
+    },
+    {
+      "ru": "Белок",
+      "kk": "Ақуыз",
+      "ruTranscription": "ақуыз",
+      "kkTranscription": "Aquyz",
+      "category": "food",
+      "id": 2620
+    },
+    {
+      "ru": "Жиры",
+      "kk": "Майлар",
+      "ruTranscription": "майлар",
+      "kkTranscription": "Mailar",
+      "category": "food",
+      "id": 2621
+    },
+    {
+      "ru": "Углеводы",
+      "kk": "Көмірсулар",
+      "ruTranscription": "көмірсулар",
+      "kkTranscription": "Kömirsular",
+      "category": "food",
+      "id": 2622
+    },
+    {
+      "ru": "Витамины",
+      "kk": "Витаминдер",
+      "ruTranscription": "витаминдер",
+      "kkTranscription": "Vitaminder",
+      "category": "medicine",
+      "id": 2623
+    },
+    {
+      "ru": "Минералы",
+      "kk": "Минералдар",
+      "ruTranscription": "минералдар",
+      "kkTranscription": "Minerаldar",
+      "category": "medicine",
+      "id": 2624
+    },
+    {
+      "ru": "Гидратация",
+      "kk": "Сумен қамтамасыз ету",
+      "ruTranscription": "сумен қамтамасыз ету",
+      "kkTranscription": "Sumen qamtamasyz etu",
+      "category": "medicine",
+      "id": 2625
+    },
+    {
+      "ru": "Сон",
+      "kk": "Ұйқы",
+      "ruTranscription": "ұйқы",
+      "kkTranscription": "Ūiyqy",
+      "category": "basic",
+      "id": 2626
+    },
+    {
+      "ru": "Режим дня",
+      "kk": "Күн тәртібі",
+      "ruTranscription": "күн тәртібі",
+      "kkTranscription": "Kün tärtıbı",
+      "category": "basic",
+      "id": 2627
+    },
+    {
+      "ru": "Релаксация",
+      "kk": "Релаксация",
+      "ruTranscription": "релаксация",
+      "kkTranscription": "Relaksatsiia",
+      "category": "basic",
+      "id": 2628
+    },
+    {
+      "ru": "Дыхательная гимнастика",
+      "kk": "Тыныс алу жаттығулары",
+      "ruTranscription": "тыныс алу жаттығулары",
+      "kkTranscription": "Tynys alu jattyğulary",
+      "category": "sports",
+      "id": 2629
+    },
+    {
+      "ru": "Закаливание",
+      "kk": "Шынықтыру",
+      "ruTranscription": "шынықтыру",
+      "kkTranscription": "Şynyqtyru",
+      "category": "medicine",
+      "id": 2630
+    },
+    {
+      "ru": "Массаж",
+      "kk": "Массаж",
+      "ruTranscription": "массаж",
+      "kkTranscription": "Massazh",
+      "category": "medicine",
+      "id": 2631
+    },
+    {
+      "ru": "Спа",
+      "kk": "Спа",
+      "ruTranscription": "спа",
+      "kkTranscription": "Spa",
+      "category": "basic",
+      "id": 2632
+    },
+    {
+      "ru": "Сауна",
+      "kk": "Сауна",
+      "ruTranscription": "сауна",
+      "kkTranscription": "Sauna",
+      "category": "basic",
+      "id": 2633
+    },
+    {
+      "ru": "Баня",
+      "kk": "Монша",
+      "ruTranscription": "монша",
+      "kkTranscription": "Monşa",
+      "category": "basic",
+      "id": 2634
+    },
+    {
+      "ru": "Отказ от вредных привычек",
+      "kk": "Зиянды әдеттерден бас тарту",
+      "ruTranscription": "зиянды әдеттерден бас тарту",
+      "kkTranscription": "Ziandy ädetterden bas tartu",
+      "category": "basic",
+      "id": 2635
+    },
+    {
+      "ru": "Курение",
+      "kk": "Шылым шегу",
+      "ruTranscription": "шылым шегу",
+      "kkTranscription": "Şylym şegu",
+      "category": "basic",
+      "id": 2636
+    },
+    {
+      "ru": "Алкоголь",
+      "kk": "Алкоголь",
+      "ruTranscription": "алкоголь",
+      "kkTranscription": "Alkogol",
+      "category": "basic",
+      "id": 2637
+    },
+    {
+      "ru": "Наркотики",
+      "kk": "Есірткі",
+      "ruTranscription": "есірткі",
+      "kkTranscription": "Esırtkı",
+      "category": "basic",
+      "id": 2638
+    },
+    {
+      "ru": "Профилактика",
+      "kk": "Алдын алу",
+      "ruTranscription": "алдын алу",
+      "kkTranscription": "Aldyn alu",
+      "category": "medicine",
+      "id": 2639
+    },
+    {
+      "ru": "Вакцинация",
+      "kk": "Вакцинация",
+      "ruTranscription": "вакцинация",
+      "kkTranscription": "Vaktsinatsiia",
+      "category": "medicine",
+      "id": 2640
+    },
+    {
+      "ru": "Чекап",
+      "kk": "Медициналық тексеру",
+      "ruTranscription": "медициналық тексеру",
+      "kkTranscription": "Meditsinalyq tekseru",
+      "category": "medicine",
+      "id": 2641
+    },
+    {
+      "ru": "Диспансеризация",
+      "kk": "Диспансеризация",
+      "ruTranscription": "диспансеризация",
+      "kkTranscription": "Dispanserizatsiia",
+      "category": "medicine",
+      "id": 2642
+    },
+    {
+      "ru": "Бодрость",
+      "kk": "Көңілділік",
+      "ruTranscription": "көңілділік",
+      "kkTranscription": "Köñıldılık",
+      "category": "adjectives",
+      "id": 2643
+    },
+    {
+      "ru": "Тонус",
+      "kk": "Тонус",
+      "ruTranscription": "тонус",
+      "kkTranscription": "Tonus",
+      "category": "basic",
+      "id": 2644
+    },
+    {
+      "ru": "Выносливость",
+      "kk": "Төзімділік",
+      "ruTranscription": "төзімділік",
+      "kkTranscription": "Tözımdılık",
+      "category": "adjectives",
+      "id": 2645
+    },
+    {
+      "ru": "Гибкость",
+      "kk": "Икемділік",
+      "ruTranscription": "икемділік",
+      "kkTranscription": "Ikemdılık",
+      "category": "adjectives",
+      "id": 2646
+    },
+    {
+      "ru": "Долголетие",
+      "kk": "Ұзақ өмір сүру",
+      "ruTranscription": "ұзақ өмір сүру",
+      "kkTranscription": "Ūzaq ömır süru",
+      "category": "basic",
+      "id": 2647
     }
   ],
   "categories": {
