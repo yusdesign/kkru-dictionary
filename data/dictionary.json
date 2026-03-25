@@ -1,5 +1,5 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -8299,6 +8299,270 @@
       "kkTranscription": "Şyğu",
       "category": "verbs",
       "id": 1030
+    },
+    {
+      "ru": "Чувствовать",
+      "kk": "Сезу",
+      "ruTranscription": "сезу",
+      "kkTranscription": "Sezu",
+      "category": "verbs",
+      "id": 1031
+    },
+    {
+      "ru": "Ощущать",
+      "kk": "Сезу",
+      "ruTranscription": "сезу",
+      "kkTranscription": "Sezu",
+      "category": "verbs",
+      "id": 1032
+    },
+    {
+      "ru": "Чувствовать себя",
+      "kk": "Өзін сезу",
+      "ruTranscription": "өзін сезу",
+      "kkTranscription": "Özın sezu",
+      "category": "verbs",
+      "id": 1033
+    },
+    {
+      "ru": "Переживать",
+      "kk": "Бастан кешу",
+      "ruTranscription": "бастан кешу",
+      "kkTranscription": "Bastan keşu",
+      "category": "verbs",
+      "id": 1034
+    },
+    {
+      "ru": "Испытывать",
+      "kk": "Сезу",
+      "ruTranscription": "сезу",
+      "kkTranscription": "Sezu",
+      "category": "verbs",
+      "id": 1035
+    },
+    {
+      "ru": "Огорчаться",
+      "kk": "Ренжу",
+      "ruTranscription": "ренжу",
+      "kkTranscription": "Renju",
+      "category": "verbs",
+      "id": 1036
+    },
+    {
+      "ru": "Печалиться",
+      "kk": "Мұңаю",
+      "ruTranscription": "мұңаю",
+      "kkTranscription": "Mūñaiu",
+      "category": "verbs",
+      "id": 1037
+    },
+    {
+      "ru": "Тосковать",
+      "kk": "Сағыну",
+      "ruTranscription": "сағыну",
+      "kkTranscription": "Sağynu",
+      "category": "verbs",
+      "id": 1038
+    },
+    {
+      "ru": "Ненавидеть",
+      "kk": "Жек көру",
+      "ruTranscription": "жек көру",
+      "kkTranscription": "Jek köru",
+      "category": "verbs",
+      "id": 1039
+    },
+    {
+      "ru": "Обожать",
+      "kk": "Жақсы көру",
+      "ruTranscription": "жақсы көру",
+      "kkTranscription": "Jaqsy köru",
+      "category": "verbs",
+      "id": 1040
+    },
+    {
+      "ru": "Уважать",
+      "kk": "Құрметтеу",
+      "ruTranscription": "құрметтеу",
+      "kkTranscription": "Qūrmetteu",
+      "category": "verbs",
+      "id": 1041
+    },
+    {
+      "ru": "Ценить",
+      "kk": "Бағалау",
+      "ruTranscription": "бағалау",
+      "kkTranscription": "Bağalau",
+      "category": "verbs",
+      "id": 1042
+    },
+    {
+      "ru": "Доверять",
+      "kk": "Сену",
+      "ruTranscription": "сену",
+      "kkTranscription": "Senu",
+      "category": "verbs",
+      "id": 1043
+    },
+    {
+      "ru": "Верить",
+      "kk": "Сену",
+      "ruTranscription": "сену",
+      "kkTranscription": "Senu",
+      "category": "verbs",
+      "id": 1044
+    },
+    {
+      "ru": "Пугаться",
+      "kk": "Қорқу",
+      "ruTranscription": "қорқу",
+      "kkTranscription": "Qorqu",
+      "category": "verbs",
+      "id": 1045
+    },
+    {
+      "ru": "Ужасаться",
+      "kk": "Қатты қорқу",
+      "ruTranscription": "қатты қорқу",
+      "kkTranscription": "Qatty qorqu",
+      "category": "verbs",
+      "id": 1046
+    },
+    {
+      "ru": "Стыдиться",
+      "kk": "Ұялу",
+      "ruTranscription": "ұялу",
+      "kkTranscription": "Ūialu",
+      "category": "verbs",
+      "id": 1047
+    },
+    {
+      "ru": "Смущаться",
+      "kk": "Ұялу",
+      "ruTranscription": "ұялу",
+      "kkTranscription": "Ūialu",
+      "category": "verbs",
+      "id": 1048
+    },
+    {
+      "ru": "Гордиться",
+      "kk": "Мақтану",
+      "ruTranscription": "мақтану",
+      "kkTranscription": "Maqtanu",
+      "category": "verbs",
+      "id": 1049
+    },
+    {
+      "ru": "Завидовать",
+      "kk": "Қызғану",
+      "ruTranscription": "қызғану",
+      "kkTranscription": "Qyzğanu",
+      "category": "verbs",
+      "id": 1050
+    },
+    {
+      "ru": "Ревновать",
+      "kk": "Қызғану",
+      "ruTranscription": "қызғану",
+      "kkTranscription": "Qyzğanu",
+      "category": "verbs",
+      "id": 1051
+    },
+    {
+      "ru": "Сердиться",
+      "kk": "Ашулану",
+      "ruTranscription": "ашулану",
+      "kkTranscription": "Aşulanu",
+      "category": "verbs",
+      "id": 1052
+    },
+    {
+      "ru": "Раздражаться",
+      "kk": "Тітіркену",
+      "ruTranscription": "тітіркену",
+      "kkTranscription": "Tıtırkenu",
+      "category": "verbs",
+      "id": 1053
+    },
+    {
+      "ru": "Изумляться",
+      "kk": "Таң қалу",
+      "ruTranscription": "таң қалу",
+      "kkTranscription": "Tañ qalu",
+      "category": "verbs",
+      "id": 1054
+    },
+    {
+      "ru": "Восхищаться",
+      "kk": "Тамсану",
+      "ruTranscription": "тамсану",
+      "kkTranscription": "Tamsanu",
+      "category": "verbs",
+      "id": 1055
+    },
+    {
+      "ru": "Нравиться",
+      "kk": "Ұнау",
+      "ruTranscription": "ұнау",
+      "kkTranscription": "Ūnau",
+      "category": "verbs",
+      "id": 1056
+    },
+    {
+      "ru": "Разонравиться",
+      "kk": "Ұнамау",
+      "ruTranscription": "ұнамау",
+      "kkTranscription": "Ūnamau",
+      "category": "verbs",
+      "id": 1057
+    },
+    {
+      "ru": "Интересоваться",
+      "kk": "Қызығу",
+      "ruTranscription": "қызығу",
+      "kkTranscription": "Qyzyğu",
+      "category": "verbs",
+      "id": 1058
+    },
+    {
+      "ru": "Увлекаться",
+      "kk": "Қызығу",
+      "ruTranscription": "қызығу",
+      "kkTranscription": "Qyzyğu",
+      "category": "verbs",
+      "id": 1059
+    },
+    {
+      "ru": "Скучать",
+      "kk": "Жалығу",
+      "ruTranscription": "жалығу",
+      "kkTranscription": "Jalyğu",
+      "category": "verbs",
+      "id": 1060
+    },
+    {
+      "ru": "Надоедать",
+      "kk": "Жалықтыру",
+      "ruTranscription": "жалықтыру",
+      "kkTranscription": "Jalyqtyru",
+      "category": "verbs",
+      "id": 1061
+    },
+    {
+      "ru": "Дремать",
+      "kk": "Мүлгіп ұйықтау",
+      "ruTranscription": "мүлгіп ұйықтау",
+      "kkTranscription": "Mülgıp ūiyqtau",
+      "category": "verbs",
+      "id": 1062
+    },
+    {
+      "ru": "Фантазировать",
+      "kk": "Қиялдау",
+      "ruTranscription": "қиялдау",
+      "kkTranscription": "Qialdau",
+      "category": "verbs",
+      "id": 1063
     }
   ],
   "categories": {
