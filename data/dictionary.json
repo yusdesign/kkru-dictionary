@@ -1,5 +1,5 @@
 {
-  "version": "1.0.67",
+  "version": "1.0.68",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -16110,6 +16110,438 @@
       "kkTranscription": "Koalitsiia",
       "category": "basic",
       "id": 2006
+    },
+    {
+      "ru": "Религия",
+      "kk": "Дін",
+      "ruTranscription": "дін",
+      "kkTranscription": "Dın",
+      "category": "culture",
+      "id": 2007
+    },
+    {
+      "ru": "Бог",
+      "kk": "Құдай",
+      "ruTranscription": "құдай",
+      "kkTranscription": "Qūdai",
+      "category": "culture",
+      "id": 2008
+    },
+    {
+      "ru": "Аллах",
+      "kk": "Алла",
+      "ruTranscription": "алла",
+      "kkTranscription": "Alla",
+      "category": "culture",
+      "id": 2009
+    },
+    {
+      "ru": "Ислам",
+      "kk": "Ислам",
+      "ruTranscription": "ислам",
+      "kkTranscription": "Islam",
+      "category": "culture",
+      "id": 2010
+    },
+    {
+      "ru": "Мусульманин",
+      "kk": "Мұсылман",
+      "ruTranscription": "мұсылман",
+      "kkTranscription": "Mūsylman",
+      "category": "culture",
+      "id": 2011
+    },
+    {
+      "ru": "Христианство",
+      "kk": "Христиандық",
+      "ruTranscription": "христиандық",
+      "kkTranscription": "Khristiandyq",
+      "category": "culture",
+      "id": 2012
+    },
+    {
+      "ru": "Православие",
+      "kk": "Православие",
+      "ruTranscription": "православие",
+      "kkTranscription": "Pravoslavie",
+      "category": "culture",
+      "id": 2013
+    },
+    {
+      "ru": "Католицизм",
+      "kk": "Католицизм",
+      "ruTranscription": "католицизм",
+      "kkTranscription": "Katolitsizm",
+      "category": "culture",
+      "id": 2014
+    },
+    {
+      "ru": "Протестантизм",
+      "kk": "Протестантизм",
+      "ruTranscription": "протестантизм",
+      "kkTranscription": "Protestantizm",
+      "category": "culture",
+      "id": 2015
+    },
+    {
+      "ru": "Иудаизм",
+      "kk": "Иудаизм",
+      "ruTranscription": "иудаизм",
+      "kkTranscription": "Iudaizm",
+      "category": "culture",
+      "id": 2016
+    },
+    {
+      "ru": "Буддизм",
+      "kk": "Буддизм",
+      "ruTranscription": "буддизм",
+      "kkTranscription": "Buddizm",
+      "category": "culture",
+      "id": 2017
+    },
+    {
+      "ru": "Индуизм",
+      "kk": "Индуизм",
+      "ruTranscription": "индуизм",
+      "kkTranscription": "Induizm",
+      "category": "culture",
+      "id": 2018
+    },
+    {
+      "ru": "Мечеть",
+      "kk": "Мешіт",
+      "ruTranscription": "мешіт",
+      "kkTranscription": "Meşıt",
+      "category": "culture",
+      "id": 2019
+    },
+    {
+      "ru": "Церковь",
+      "kk": "Шіркеу",
+      "ruTranscription": "шіркеу",
+      "kkTranscription": "Şırkeu",
+      "category": "culture",
+      "id": 2020
+    },
+    {
+      "ru": "Храм",
+      "kk": "Ғибадатхана",
+      "ruTranscription": "ғибадатхана",
+      "kkTranscription": "Ğibadathana",
+      "category": "culture",
+      "id": 2021
+    },
+    {
+      "ru": "Молитва",
+      "kk": "Дұға",
+      "ruTranscription": "дұға",
+      "kkTranscription": "Dūğa",
+      "category": "culture",
+      "id": 2022
+    },
+    {
+      "ru": "Намаз",
+      "kk": "Намаз",
+      "ruTranscription": "намаз",
+      "kkTranscription": "Namaz",
+      "category": "culture",
+      "id": 2023
+    },
+    {
+      "ru": "Пост",
+      "kk": "Ораза",
+      "ruTranscription": "ораза",
+      "kkTranscription": "Oraza",
+      "category": "culture",
+      "id": 2024
+    },
+    {
+      "ru": "Рамадан",
+      "kk": "Рамазан",
+      "ruTranscription": "рамазан",
+      "kkTranscription": "Ramazan",
+      "category": "culture",
+      "id": 2025
+    },
+    {
+      "ru": "Коран",
+      "kk": "Құран",
+      "ruTranscription": "құран",
+      "kkTranscription": "Qūran",
+      "category": "culture",
+      "id": 2026
+    },
+    {
+      "ru": "Библия",
+      "kk": "Інжіл",
+      "ruTranscription": "інжіл",
+      "kkTranscription": "Injıl",
+      "category": "culture",
+      "id": 2027
+    },
+    {
+      "ru": "Тора",
+      "kk": "Тора",
+      "ruTranscription": "тора",
+      "kkTranscription": "Tora",
+      "category": "culture",
+      "id": 2028
+    },
+    {
+      "ru": "Пророк",
+      "kk": "Пайғамбар",
+      "ruTranscription": "пайғамбар",
+      "kkTranscription": "Paiğambar",
+      "category": "culture",
+      "id": 2029
+    },
+    {
+      "ru": "Мухаммед",
+      "kk": "Мұхаммед",
+      "ruTranscription": "мұхаммед",
+      "kkTranscription": "Mūhammed",
+      "category": "culture",
+      "id": 2030
+    },
+    {
+      "ru": "Иисус",
+      "kk": "Иса",
+      "ruTranscription": "иса",
+      "kkTranscription": "Isa",
+      "category": "culture",
+      "id": 2031
+    },
+    {
+      "ru": "Моисей",
+      "kk": "Мұса",
+      "ruTranscription": "мұса",
+      "kkTranscription": "Mūsa",
+      "category": "culture",
+      "id": 2032
+    },
+    {
+      "ru": "Ангел",
+      "kk": "Періште",
+      "ruTranscription": "періште",
+      "kkTranscription": "Perışte",
+      "category": "culture",
+      "id": 2033
+    },
+    {
+      "ru": "Дьявол",
+      "kk": "Шайтан",
+      "ruTranscription": "шайтан",
+      "kkTranscription": "Şaitan",
+      "category": "culture",
+      "id": 2034
+    },
+    {
+      "ru": "Рай",
+      "kk": "Жәннат",
+      "ruTranscription": "жәннат",
+      "kkTranscription": "Jännat",
+      "category": "culture",
+      "id": 2035
+    },
+    {
+      "ru": "Ад",
+      "kk": "Тозақ",
+      "ruTranscription": "тозақ",
+      "kkTranscription": "Tozaq",
+      "category": "culture",
+      "id": 2036
+    },
+    {
+      "ru": "Душа",
+      "kk": "Жан",
+      "ruTranscription": "жан",
+      "kkTranscription": "Jan",
+      "category": "culture",
+      "id": 2037
+    },
+    {
+      "ru": "Дух",
+      "kk": "Рух",
+      "ruTranscription": "рух",
+      "kkTranscription": "Ruh",
+      "category": "culture",
+      "id": 2038
+    },
+    {
+      "ru": "Священный",
+      "kk": "Қасиетті",
+      "ruTranscription": "қасиетті",
+      "kkTranscription": "Qasiettı",
+      "category": "adjectives",
+      "id": 2039
+    },
+    {
+      "ru": "Грех",
+      "kk": "Күнә",
+      "ruTranscription": "күнә",
+      "kkTranscription": "Künä",
+      "category": "culture",
+      "id": 2040
+    },
+    {
+      "ru": "Покаяние",
+      "kk": "Тәубе",
+      "ruTranscription": "тәубе",
+      "kkTranscription": "Täube",
+      "category": "culture",
+      "id": 2041
+    },
+    {
+      "ru": "Истина",
+      "kk": "Ақиқат",
+      "ruTranscription": "ақиқат",
+      "kkTranscription": "Aqiqat",
+      "category": "basic",
+      "id": 2042
+    },
+    {
+      "ru": "Бытие",
+      "kk": "Болмыс",
+      "ruTranscription": "болмыс",
+      "kkTranscription": "Bolmys",
+      "category": "basic",
+      "id": 2043
+    },
+    {
+      "ru": "Сущность",
+      "kk": "Мәні",
+      "ruTranscription": "мәні",
+      "kkTranscription": "Mänı",
+      "category": "basic",
+      "id": 2044
+    },
+    {
+      "ru": "Сознание",
+      "kk": "Сана",
+      "ruTranscription": "сана",
+      "kkTranscription": "Sana",
+      "category": "basic",
+      "id": 2045
+    },
+    {
+      "ru": "Разум",
+      "kk": "Ақыл",
+      "ruTranscription": "ақыл",
+      "kkTranscription": "Aqyl",
+      "category": "basic",
+      "id": 2046
+    },
+    {
+      "ru": "Интеллект",
+      "kk": "Зият",
+      "ruTranscription": "зият",
+      "kkTranscription": "Ziiat",
+      "category": "basic",
+      "id": 2047
+    },
+    {
+      "ru": "Этика",
+      "kk": "Этика",
+      "ruTranscription": "этика",
+      "kkTranscription": "Etika",
+      "category": "education",
+      "id": 2048
+    },
+    {
+      "ru": "Мораль",
+      "kk": "Адамгершілік",
+      "ruTranscription": "адамгершілік",
+      "kkTranscription": "Adamgerşılık",
+      "category": "basic",
+      "id": 2049
+    },
+    {
+      "ru": "Нравственность",
+      "kk": "Имандылық",
+      "ruTranscription": "имандылық",
+      "kkTranscription": "Imandylyq",
+      "category": "basic",
+      "id": 2050
+    },
+    {
+      "ru": "Добро",
+      "kk": "Жақсылық",
+      "ruTranscription": "жақсылық",
+      "kkTranscription": "Jaqsylyq",
+      "category": "basic",
+      "id": 2051
+    },
+    {
+      "ru": "Зло",
+      "kk": "Зұлымдық",
+      "ruTranscription": "зұлымдық",
+      "kkTranscription": "Zūlymdyq",
+      "category": "basic",
+      "id": 2052
+    },
+    {
+      "ru": "Совесть",
+      "kk": "Ар-ұждан",
+      "ruTranscription": "ар-ұждан",
+      "kkTranscription": "Ar-ūjdan",
+      "category": "basic",
+      "id": 2053
+    },
+    {
+      "ru": "Долг",
+      "kk": "Парыз",
+      "ruTranscription": "парыз",
+      "kkTranscription": "Paryz",
+      "category": "basic",
+      "id": 2054
+    },
+    {
+      "ru": "Свобода воли",
+      "kk": "Ерік бостандығы",
+      "ruTranscription": "ерік бостандығы",
+      "kkTranscription": "Erık bostandyğy",
+      "category": "basic",
+      "id": 2055
+    },
+    {
+      "ru": "Предопределение",
+      "kk": "Жазмыш",
+      "ruTranscription": "жазмыш",
+      "kkTranscription": "Jazmyş",
+      "category": "basic",
+      "id": 2056
+    },
+    {
+      "ru": "Карма",
+      "kk": "Карма",
+      "ruTranscription": "карма",
+      "kkTranscription": "Karma",
+      "category": "culture",
+      "id": 2057
+    },
+    {
+      "ru": "Реинкарнация",
+      "kk": "Реинкарнация",
+      "ruTranscription": "реинкарнация",
+      "kkTranscription": "Reinkarnatsiia",
+      "category": "culture",
+      "id": 2058
+    },
+    {
+      "ru": "Атеизм",
+      "kk": "Атеизм",
+      "ruTranscription": "атеизм",
+      "kkTranscription": "Ateizm",
+      "category": "culture",
+      "id": 2059
+    },
+    {
+      "ru": "Агностицизм",
+      "kk": "Агностицизм",
+      "ruTranscription": "агностицизм",
+      "kkTranscription": "Agnostitsizm",
+      "category": "culture",
+      "id": 2060
     }
   ],
   "categories": {
