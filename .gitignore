@@ -143,3 +143,5 @@ admin/
 admin/*.*
 updates/
 updates/*.*
+backups/
+backups/*.*
