@@ -1,5 +1,5 @@
 {
-  "version": "1.0.71",
+  "version": "1.0.72",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -17887,6 +17887,398 @@
       "kkTranscription": "Özındık qūn",
       "category": "business",
       "id": 2228
+    },
+    {
+      "ru": "Гаджет",
+      "kk": "Гаджет",
+      "ruTranscription": "гаджет",
+      "kkTranscription": "Gadzhet",
+      "category": "technology",
+      "id": 2229
+    },
+    {
+      "ru": "Девайс",
+      "kk": "Құрылғы",
+      "ruTranscription": "құрылғы",
+      "kkTranscription": "Qūrylğy",
+      "category": "technology",
+      "id": 2230
+    },
+    {
+      "ru": "Софт",
+      "kk": "Бағдарлама",
+      "ruTranscription": "бағдарлама",
+      "kkTranscription": "Bağdarlama",
+      "category": "technology",
+      "id": 2231
+    },
+    {
+      "ru": "Прога",
+      "kk": "Бағдарлама",
+      "ruTranscription": "бағдарлама",
+      "kkTranscription": "Bağdarlama",
+      "category": "technology",
+      "id": 2232
+    },
+    {
+      "ru": "Апп",
+      "kk": "Қосымша",
+      "ruTranscription": "қосымша",
+      "kkTranscription": "Qosymşa",
+      "category": "technology",
+      "id": 2233
+    },
+    {
+      "ru": "Сеть",
+      "kk": "Желі",
+      "ruTranscription": "желі",
+      "kkTranscription": "Jelı",
+      "category": "technology",
+      "id": 2234
+    },
+    {
+      "ru": "Веб-сайт",
+      "kk": "Веб-сайт",
+      "ruTranscription": "веб-сайт",
+      "kkTranscription": "Veb-sait",
+      "category": "technology",
+      "id": 2235
+    },
+    {
+      "ru": "Поисковик",
+      "kk": "Іздеу жүйесі",
+      "ruTranscription": "іздеу жүйесі",
+      "kkTranscription": "Izdeu jüiesı",
+      "category": "technology",
+      "id": 2236
+    },
+    {
+      "ru": "Браузер",
+      "kk": "Шолғыш",
+      "ruTranscription": "шолғыш",
+      "kkTranscription": "Şolğyş",
+      "category": "technology",
+      "id": 2237
+    },
+    {
+      "ru": "Юзер",
+      "kk": "Пайдаланушы",
+      "ruTranscription": "пайдаланушы",
+      "kkTranscription": "Paidalanuşy",
+      "category": "technology",
+      "id": 2238
+    },
+    {
+      "ru": "Пользователь",
+      "kk": "Пайдаланушы",
+      "ruTranscription": "пайдаланушы",
+      "kkTranscription": "Paidalanuşy",
+      "category": "technology",
+      "id": 2239
+    },
+    {
+      "ru": "Логин",
+      "kk": "Логин",
+      "ruTranscription": "логин",
+      "kkTranscription": "Login",
+      "category": "technology",
+      "id": 2240
+    },
+    {
+      "ru": "Пароль",
+      "kk": "Құпия сөз",
+      "ruTranscription": "құпия сөз",
+      "kkTranscription": "Qūpia söz",
+      "category": "technology",
+      "id": 2241
+    },
+    {
+      "ru": "Аккаунт",
+      "kk": "Тіркелгі",
+      "ruTranscription": "тіркелгі",
+      "kkTranscription": "Tırkelgı",
+      "category": "technology",
+      "id": 2242
+    },
+    {
+      "ru": "Профиль",
+      "kk": "Профиль",
+      "ruTranscription": "профиль",
+      "kkTranscription": "Profil",
+      "category": "technology",
+      "id": 2243
+    },
+    {
+      "ru": "Аватар",
+      "kk": "Аватар",
+      "ruTranscription": "аватар",
+      "kkTranscription": "Avatar",
+      "category": "technology",
+      "id": 2244
+    },
+    {
+      "ru": "Никнейм",
+      "kk": "Лақап ат",
+      "ruTranscription": "лақап ат",
+      "kkTranscription": "Laqap at",
+      "category": "technology",
+      "id": 2245
+    },
+    {
+      "ru": "Мессенджер",
+      "kk": "Хабарлама қызметі",
+      "ruTranscription": "хабарлама қызметі",
+      "kkTranscription": "Habarlama qyzmetı",
+      "category": "technology",
+      "id": 2246
+    },
+    {
+      "ru": "Чат",
+      "kk": "Чат",
+      "ruTranscription": "чат",
+      "kkTranscription": "Chat",
+      "category": "technology",
+      "id": 2247
+    },
+    {
+      "ru": "Форум",
+      "kk": "Форум",
+      "ruTranscription": "форум",
+      "kkTranscription": "Forum",
+      "category": "technology",
+      "id": 2248
+    },
+    {
+      "ru": "Пост",
+      "kk": "Жазба",
+      "ruTranscription": "жазба",
+      "kkTranscription": "Jazba",
+      "category": "technology",
+      "id": 2249
+    },
+    {
+      "ru": "Коммент",
+      "kk": "Пікір",
+      "ruTranscription": "пікір",
+      "kkTranscription": "Pıkır",
+      "category": "technology",
+      "id": 2250
+    },
+    {
+      "ru": "Лайк",
+      "kk": "Лайк",
+      "ruTranscription": "лайк",
+      "kkTranscription": "Laik",
+      "category": "technology",
+      "id": 2251
+    },
+    {
+      "ru": "Дизлайк",
+      "kk": "Дизлайк",
+      "ruTranscription": "дизлайк",
+      "kkTranscription": "Dizlaik",
+      "category": "technology",
+      "id": 2252
+    },
+    {
+      "ru": "Репост",
+      "kk": "Бөлісу",
+      "ruTranscription": "бөлісу",
+      "kkTranscription": "Bölısu",
+      "category": "technology",
+      "id": 2253
+    },
+    {
+      "ru": "Ретвит",
+      "kk": "Ретвит",
+      "ruTranscription": "ретвит",
+      "kkTranscription": "Retvit",
+      "category": "technology",
+      "id": 2254
+    },
+    {
+      "ru": "Фолловер",
+      "kk": "Ізбасар",
+      "ruTranscription": "ізбасар",
+      "kkTranscription": "Izbasar",
+      "category": "technology",
+      "id": 2255
+    },
+    {
+      "ru": "Лента",
+      "kk": "Лента",
+      "ruTranscription": "лента",
+      "kkTranscription": "Lenta",
+      "category": "technology",
+      "id": 2256
+    },
+    {
+      "ru": "Стрим",
+      "kk": "Стрим",
+      "ruTranscription": "стрим",
+      "kkTranscription": "Strim",
+      "category": "technology",
+      "id": 2257
+    },
+    {
+      "ru": "Стример",
+      "kk": "Стример",
+      "ruTranscription": "стример",
+      "kkTranscription": "Strimer",
+      "category": "technology",
+      "id": 2258
+    },
+    {
+      "ru": "Ютубер",
+      "kk": "Ютубер",
+      "ruTranscription": "ютубер",
+      "kkTranscription": "Iutuber",
+      "category": "technology",
+      "id": 2259
+    },
+    {
+      "ru": "Тиктокер",
+      "kk": "Тиктокер",
+      "ruTranscription": "тиктокер",
+      "kkTranscription": "Tiktoker",
+      "category": "technology",
+      "id": 2260
+    },
+    {
+      "ru": "Инфлюенсер",
+      "kk": "Ықпалдаушы",
+      "ruTranscription": "ықпалдаушы",
+      "kkTranscription": "Yqpal dauşy",
+      "category": "technology",
+      "id": 2261
+    },
+    {
+      "ru": "Вирусный",
+      "kk": "Вирусты",
+      "ruTranscription": "вирусты",
+      "kkTranscription": "Virusty",
+      "category": "technology",
+      "id": 2262
+    },
+    {
+      "ru": "Мем",
+      "kk": "Мем",
+      "ruTranscription": "мем",
+      "kkTranscription": "Mem",
+      "category": "technology",
+      "id": 2263
+    },
+    {
+      "ru": "Тренд",
+      "kk": "Тренд",
+      "ruTranscription": "тренд",
+      "kkTranscription": "Trend",
+      "category": "technology",
+      "id": 2264
+    },
+    {
+      "ru": "Хайп",
+      "kk": "Хайп",
+      "ruTranscription": "хайп",
+      "kkTranscription": "Khaip",
+      "category": "technology",
+      "id": 2265
+    },
+    {
+      "ru": "Хештег",
+      "kk": "Хештег",
+      "ruTranscription": "хештег",
+      "kkTranscription": "Kheshteg",
+      "category": "technology",
+      "id": 2266
+    },
+    {
+      "ru": "Эмодзи",
+      "kk": "Эмодзи",
+      "ruTranscription": "эмодзи",
+      "kkTranscription": "Emodzi",
+      "category": "technology",
+      "id": 2267
+    },
+    {
+      "ru": "Смайлик",
+      "kk": "Смайлик",
+      "ruTranscription": "смайлик",
+      "kkTranscription": "Smailik",
+      "category": "technology",
+      "id": 2268
+    },
+    {
+      "ru": "Гифка",
+      "kk": "Гиф",
+      "ruTranscription": "гиф",
+      "kkTranscription": "Gif",
+      "category": "technology",
+      "id": 2269
+    },
+    {
+      "ru": "Скриншот",
+      "kk": "Скриншот",
+      "ruTranscription": "скриншот",
+      "kkTranscription": "Skrinshot",
+      "category": "technology",
+      "id": 2270
+    },
+    {
+      "ru": "Селфи",
+      "kk": "Селфи",
+      "ruTranscription": "селфи",
+      "kkTranscription": "Selfi",
+      "category": "technology",
+      "id": 2271
+    },
+    {
+      "ru": "Фотошоп",
+      "kk": "Фотошоп",
+      "ruTranscription": "фотошоп",
+      "kkTranscription": "Fotoshop",
+      "category": "technology",
+      "id": 2272
+    },
+    {
+      "ru": "Фильтр",
+      "kk": "Сүзгі",
+      "ruTranscription": "сүзгі",
+      "kkTranscription": "Süzgı",
+      "category": "technology",
+      "id": 2273
+    },
+    {
+      "ru": "Бот",
+      "kk": "Бот",
+      "ruTranscription": "бот",
+      "kkTranscription": "Bot",
+      "category": "technology",
+      "id": 2274
+    },
+    {
+      "ru": "Спам",
+      "kk": "Спам",
+      "ruTranscription": "спам",
+      "kkTranscription": "Spam",
+      "category": "technology",
+      "id": 2275
+    },
+    {
+      "ru": "Флуд",
+      "kk": "Флуд",
+      "ruTranscription": "флуд",
+      "kkTranscription": "Flud",
+      "category": "technology",
+      "id": 2276
+    },
+    {
+      "ru": "Тролль",
+      "kk": "Тролль",
+      "ruTranscription": "тролль",
+      "kkTranscription": "Troll",
+      "category": "technology",
+      "id": 2277
     }
   ],
   "categories": {
