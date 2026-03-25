@@ -1,5 +1,5 @@
 {
-  "version": "1.0.60",
+  "version": "1.0.61",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -12691,6 +12691,718 @@
       "kkTranscription": "Üşbūryş",
       "category": "adjectives",
       "id": 1579
+    },
+    {
+      "ru": "Очень",
+      "kk": "Өте",
+      "ruTranscription": "өте",
+      "kkTranscription": "Öte",
+      "category": "basic",
+      "id": 1580
+    },
+    {
+      "ru": "Слишком",
+      "kk": "Тым",
+      "ruTranscription": "тым",
+      "kkTranscription": "Tym",
+      "category": "basic",
+      "id": 1581
+    },
+    {
+      "ru": "Совсем",
+      "kk": "Мүлдем",
+      "ruTranscription": "мүлдем",
+      "kkTranscription": "Müldem",
+      "category": "basic",
+      "id": 1582
+    },
+    {
+      "ru": "Абсолютно",
+      "kk": "Мүлдем",
+      "ruTranscription": "мүлдем",
+      "kkTranscription": "Müldem",
+      "category": "basic",
+      "id": 1583
+    },
+    {
+      "ru": "Почти",
+      "kk": "Дерлік",
+      "ruTranscription": "дерлік",
+      "kkTranscription": "Derlık",
+      "category": "basic",
+      "id": 1584
+    },
+    {
+      "ru": "Примерно",
+      "kk": "Шамамен",
+      "ruTranscription": "шамамен",
+      "kkTranscription": "Şamamen",
+      "category": "basic",
+      "id": 1585
+    },
+    {
+      "ru": "Около",
+      "kk": "Шамамен",
+      "ruTranscription": "шамамен",
+      "kkTranscription": "Şamamen",
+      "category": "basic",
+      "id": 1586
+    },
+    {
+      "ru": "Приблизительно",
+      "kk": "Шамамен",
+      "ruTranscription": "шамамен",
+      "kkTranscription": "Şamamen",
+      "category": "basic",
+      "id": 1587
+    },
+    {
+      "ru": "Точно",
+      "kk": "Нақты",
+      "ruTranscription": "нақты",
+      "kkTranscription": "Naqty",
+      "category": "basic",
+      "id": 1588
+    },
+    {
+      "ru": "Именно",
+      "kk": "Дәл",
+      "ruTranscription": "дәл",
+      "kkTranscription": "Däl",
+      "category": "basic",
+      "id": 1589
+    },
+    {
+      "ru": "Конечно",
+      "kk": "Әрине",
+      "ruTranscription": "әрине",
+      "kkTranscription": "Ärine",
+      "category": "basic",
+      "id": 1590
+    },
+    {
+      "ru": "Обязательно",
+      "kk": "Міндетті түрде",
+      "ruTranscription": "міндетті түрде",
+      "kkTranscription": "Mındettı türde",
+      "category": "basic",
+      "id": 1591
+    },
+    {
+      "ru": "Возможно",
+      "kk": "Мүмкін",
+      "ruTranscription": "мүмкін",
+      "kkTranscription": "Mümkın",
+      "category": "basic",
+      "id": 1592
+    },
+    {
+      "ru": "Наверное",
+      "kk": "Мүмкін",
+      "ruTranscription": "мүмкін",
+      "kkTranscription": "Mümkın",
+      "category": "basic",
+      "id": 1593
+    },
+    {
+      "ru": "Вероятно",
+      "kk": "Бәлки",
+      "ruTranscription": "бәлки",
+      "kkTranscription": "Bälki",
+      "category": "basic",
+      "id": 1594
+    },
+    {
+      "ru": "Может быть",
+      "kk": "Бәлкім",
+      "ruTranscription": "бәлкім",
+      "kkTranscription": "Bälkım",
+      "category": "basic",
+      "id": 1595
+    },
+    {
+      "ru": "Наверняка",
+      "kk": "Сөзсіз",
+      "ruTranscription": "сөзсіз",
+      "kkTranscription": "Sözsız",
+      "category": "basic",
+      "id": 1596
+    },
+    {
+      "ru": "Вдруг",
+      "kk": "Кенеттен",
+      "ruTranscription": "кенеттен",
+      "kkTranscription": "Kenetten",
+      "category": "basic",
+      "id": 1597
+    },
+    {
+      "ru": "Неожиданно",
+      "kk": "Күтпеген жерден",
+      "ruTranscription": "күтпеген жерден",
+      "kkTranscription": "Kütpegen jerden",
+      "category": "basic",
+      "id": 1598
+    },
+    {
+      "ru": "Сразу",
+      "kk": "Бірден",
+      "ruTranscription": "бірден",
+      "kkTranscription": "Bırden",
+      "category": "basic",
+      "id": 1599
+    },
+    {
+      "ru": "Немедленно",
+      "kk": "Дереу",
+      "ruTranscription": "дереу",
+      "kkTranscription": "Dereu",
+      "category": "basic",
+      "id": 1600
+    },
+    {
+      "ru": "Медленно",
+      "kk": "Баяу",
+      "ruTranscription": "баяу",
+      "kkTranscription": "Baiau",
+      "category": "basic",
+      "id": 1601
+    },
+    {
+      "ru": "Быстро",
+      "kk": "Тез",
+      "ruTranscription": "тез",
+      "kkTranscription": "Tez",
+      "category": "basic",
+      "id": 1602
+    },
+    {
+      "ru": "Вместе",
+      "kk": "Бірге",
+      "ruTranscription": "бірге",
+      "kkTranscription": "Bırge",
+      "category": "basic",
+      "id": 1603
+    },
+    {
+      "ru": "Отдельно",
+      "kk": "Бөлек",
+      "ruTranscription": "бөлек",
+      "kkTranscription": "Bölek",
+      "category": "basic",
+      "id": 1604
+    },
+    {
+      "ru": "Одиноко",
+      "kk": "Жалғыз",
+      "ruTranscription": "жалғыз",
+      "kkTranscription": "Jalğyz",
+      "category": "basic",
+      "id": 1605
+    },
+    {
+      "ru": "Вместе",
+      "kk": "Бірлесіп",
+      "ruTranscription": "бірлесіп",
+      "kkTranscription": "Bırlesıp",
+      "category": "basic",
+      "id": 1606
+    },
+    {
+      "ru": "Пополам",
+      "kk": "Екіге бөліп",
+      "ruTranscription": "екіге бөліп",
+      "kkTranscription": "Ekıge bölıp",
+      "category": "basic",
+      "id": 1607
+    },
+    {
+      "ru": "Напрасно",
+      "kk": "Бекер",
+      "ruTranscription": "бекер",
+      "kkTranscription": "Beker",
+      "category": "basic",
+      "id": 1608
+    },
+    {
+      "ru": "Зря",
+      "kk": "Босқа",
+      "ruTranscription": "босқа",
+      "kkTranscription": "Bosqa",
+      "category": "basic",
+      "id": 1609
+    },
+    {
+      "ru": "Специально",
+      "kk": "Арнайы",
+      "ruTranscription": "арнайы",
+      "kkTranscription": "Arnaiy",
+      "category": "basic",
+      "id": 1610
+    },
+    {
+      "ru": "Намеренно",
+      "kk": "Әдейі",
+      "ruTranscription": "әдейі",
+      "kkTranscription": "Ädeiı",
+      "category": "basic",
+      "id": 1611
+    },
+    {
+      "ru": "Случайно",
+      "kk": "Кездейсоқ",
+      "ruTranscription": "кездейсоқ",
+      "kkTranscription": "Kezdeisoq",
+      "category": "basic",
+      "id": 1612
+    },
+    {
+      "ru": "Нечаянно",
+      "kk": "Кездейсоқ",
+      "ruTranscription": "кездейсоқ",
+      "kkTranscription": "Kezdeisoq",
+      "category": "basic",
+      "id": 1613
+    },
+    {
+      "ru": "Постоянно",
+      "kk": "Үнемі",
+      "ruTranscription": "үнемі",
+      "kkTranscription": "Ünemı",
+      "category": "basic",
+      "id": 1614
+    },
+    {
+      "ru": "Обычно",
+      "kk": "Әдетте",
+      "ruTranscription": "әдетте",
+      "kkTranscription": "Ädette",
+      "category": "basic",
+      "id": 1615
+    },
+    {
+      "ru": "Теперь",
+      "kk": "Қазір",
+      "ruTranscription": "қазір",
+      "kkTranscription": "Qazır",
+      "category": "basic",
+      "id": 1616
+    },
+    {
+      "ru": "Тогда",
+      "kk": "Сонда",
+      "ruTranscription": "сонда",
+      "kkTranscription": "Sonda",
+      "category": "basic",
+      "id": 1617
+    },
+    {
+      "ru": "Затем",
+      "kk": "Содан кейін",
+      "ruTranscription": "содан кейін",
+      "kkTranscription": "Sodan keiın",
+      "category": "basic",
+      "id": 1618
+    },
+    {
+      "ru": "Сначала",
+      "kk": "Алдымен",
+      "ruTranscription": "алдымен",
+      "kkTranscription": "Aldymen",
+      "category": "basic",
+      "id": 1619
+    },
+    {
+      "ru": "Позже",
+      "kk": "Кейінірек",
+      "ruTranscription": "кейінірек",
+      "kkTranscription": "Keiınırek",
+      "category": "basic",
+      "id": 1620
+    },
+    {
+      "ru": "Раньше",
+      "kk": "Бұрын",
+      "ruTranscription": "бұрын",
+      "kkTranscription": "Būryn",
+      "category": "basic",
+      "id": 1621
+    },
+    {
+      "ru": "Поздно",
+      "kk": "Кеш",
+      "ruTranscription": "кеш",
+      "kkTranscription": "Keş",
+      "category": "basic",
+      "id": 1622
+    },
+    {
+      "ru": "Рано",
+      "kk": "Ерте",
+      "ruTranscription": "ерте",
+      "kkTranscription": "Erte",
+      "category": "basic",
+      "id": 1623
+    },
+    {
+      "ru": "Давно",
+      "kk": "Көптен",
+      "ruTranscription": "көптен",
+      "kkTranscription": "Köpten",
+      "category": "basic",
+      "id": 1624
+    },
+    {
+      "ru": "Недавно",
+      "kk": "Жақында",
+      "ruTranscription": "жақында",
+      "kkTranscription": "Jaqynda",
+      "category": "basic",
+      "id": 1625
+    },
+    {
+      "ru": "Здесь",
+      "kk": "Мұнда",
+      "ruTranscription": "мұнда",
+      "kkTranscription": "Mūnda",
+      "category": "basic",
+      "id": 1626
+    },
+    {
+      "ru": "Тут",
+      "kk": "Мында",
+      "ruTranscription": "мында",
+      "kkTranscription": "Mynda",
+      "category": "basic",
+      "id": 1627
+    },
+    {
+      "ru": "Туда",
+      "kk": "Сонда",
+      "ruTranscription": "сонда",
+      "kkTranscription": "Sonda",
+      "category": "basic",
+      "id": 1628
+    },
+    {
+      "ru": "Сюда",
+      "kk": "Мында",
+      "ruTranscription": "мында",
+      "kkTranscription": "Mynda",
+      "category": "basic",
+      "id": 1629
+    },
+    {
+      "ru": "Оттуда",
+      "kk": "Сол жерден",
+      "ruTranscription": "сол жерден",
+      "kkTranscription": "Sol jerden",
+      "category": "basic",
+      "id": 1630
+    },
+    {
+      "ru": "Отсюда",
+      "kk": "Осы жерден",
+      "ruTranscription": "осы жерден",
+      "kkTranscription": "Osy jerden",
+      "category": "basic",
+      "id": 1631
+    },
+    {
+      "ru": "Везде",
+      "kk": "Барлық жерде",
+      "ruTranscription": "барлық жерде",
+      "kkTranscription": "Barlyq jerde",
+      "category": "basic",
+      "id": 1632
+    },
+    {
+      "ru": "Повсюду",
+      "kk": "Барлық жерде",
+      "ruTranscription": "барлық жерде",
+      "kkTranscription": "Barlyq jerde",
+      "category": "basic",
+      "id": 1633
+    },
+    {
+      "ru": "Нигде",
+      "kk": "Еш жерде",
+      "ruTranscription": "еш жерде",
+      "kkTranscription": "Eş jerde",
+      "category": "basic",
+      "id": 1634
+    },
+    {
+      "ru": "Куда-то",
+      "kk": "Бір жерге",
+      "ruTranscription": "бір жерге",
+      "kkTranscription": "Bır jerge",
+      "category": "basic",
+      "id": 1635
+    },
+    {
+      "ru": "Откуда-то",
+      "kk": "Бір жерден",
+      "ruTranscription": "бір жерден",
+      "kkTranscription": "Bır jerden",
+      "category": "basic",
+      "id": 1636
+    },
+    {
+      "ru": "Как-то",
+      "kk": "Қандай да бір",
+      "ruTranscription": "қандай да бір",
+      "kkTranscription": "Qandai da bır",
+      "category": "basic",
+      "id": 1637
+    },
+    {
+      "ru": "Кое-как",
+      "kk": "Әрең",
+      "ruTranscription": "әрең",
+      "kkTranscription": "Äreñ",
+      "category": "basic",
+      "id": 1638
+    },
+    {
+      "ru": "Еле-еле",
+      "kk": "Әрең",
+      "ruTranscription": "әрең",
+      "kkTranscription": "Äreñ",
+      "category": "basic",
+      "id": 1639
+    },
+    {
+      "ru": "По-другому",
+      "kk": "Басқаша",
+      "ruTranscription": "басқаша",
+      "kkTranscription": "Basqaşa",
+      "category": "basic",
+      "id": 1640
+    },
+    {
+      "ru": "По-прежнему",
+      "kk": "Әлі",
+      "ruTranscription": "әлі",
+      "kkTranscription": "Älı",
+      "category": "basic",
+      "id": 1641
+    },
+    {
+      "ru": "По-моему",
+      "kk": "Меніңше",
+      "ruTranscription": "меніңше",
+      "kkTranscription": "Menıñşe",
+      "category": "basic",
+      "id": 1642
+    },
+    {
+      "ru": "По-твоему",
+      "kk": "Сеніңше",
+      "ruTranscription": "сеніңше",
+      "kkTranscription": "Senıñşe",
+      "category": "basic",
+      "id": 1643
+    },
+    {
+      "ru": "Правильно",
+      "kk": "Дұрыс",
+      "ruTranscription": "дұрыс",
+      "kkTranscription": "Dūrys",
+      "category": "basic",
+      "id": 1644
+    },
+    {
+      "ru": "Неправильно",
+      "kk": "Қате",
+      "ruTranscription": "қате",
+      "kkTranscription": "Qate",
+      "category": "basic",
+      "id": 1645
+    },
+    {
+      "ru": "Легко",
+      "kk": "Оңай",
+      "ruTranscription": "оңай",
+      "kkTranscription": "Oñai",
+      "category": "basic",
+      "id": 1646
+    },
+    {
+      "ru": "Трудно",
+      "kk": "Қиын",
+      "ruTranscription": "қиын",
+      "kkTranscription": "Qiyn",
+      "category": "basic",
+      "id": 1647
+    },
+    {
+      "ru": "Сложно",
+      "kk": "Күрделі",
+      "ruTranscription": "күрделі",
+      "kkTranscription": "Kürdelı",
+      "category": "basic",
+      "id": 1648
+    },
+    {
+      "ru": "Просто",
+      "kk": "Жай",
+      "ruTranscription": "жай",
+      "kkTranscription": "Jai",
+      "category": "basic",
+      "id": 1649
+    },
+    {
+      "ru": "Интересно",
+      "kk": "Қызықты",
+      "ruTranscription": "қызықты",
+      "kkTranscription": "Qyzyqty",
+      "category": "basic",
+      "id": 1650
+    },
+    {
+      "ru": "Скучно",
+      "kk": "Жалықтырады",
+      "ruTranscription": "жалықтырады",
+      "kkTranscription": "Jalyqtyrady",
+      "category": "basic",
+      "id": 1651
+    },
+    {
+      "ru": "Весело",
+      "kk": "Көңілді",
+      "ruTranscription": "көңілді",
+      "kkTranscription": "Köñıldı",
+      "category": "basic",
+      "id": 1652
+    },
+    {
+      "ru": "Грустно",
+      "kk": "Мұңды",
+      "ruTranscription": "мұңды",
+      "kkTranscription": "Mūñdy",
+      "category": "basic",
+      "id": 1653
+    },
+    {
+      "ru": "Тихо",
+      "kk": "Тыныш",
+      "ruTranscription": "тыныш",
+      "kkTranscription": "Tynyş",
+      "category": "basic",
+      "id": 1654
+    },
+    {
+      "ru": "Громко",
+      "kk": "Қатты",
+      "ruTranscription": "қатты",
+      "kkTranscription": "Qatty",
+      "category": "basic",
+      "id": 1655
+    },
+    {
+      "ru": "Ярко",
+      "kk": "Жарқын",
+      "ruTranscription": "жарқын",
+      "kkTranscription": "Jarqyn",
+      "category": "basic",
+      "id": 1656
+    },
+    {
+      "ru": "Темно",
+      "kk": "Қараңғы",
+      "ruTranscription": "қараңғы",
+      "kkTranscription": "Qarañğy",
+      "category": "basic",
+      "id": 1657
+    },
+    {
+      "ru": "Светло",
+      "kk": "Жарық",
+      "ruTranscription": "жарық",
+      "kkTranscription": "Jaryq",
+      "category": "basic",
+      "id": 1658
+    },
+    {
+      "ru": "Чисто",
+      "kk": "Таза",
+      "ruTranscription": "таза",
+      "kkTranscription": "Taza",
+      "category": "basic",
+      "id": 1659
+    },
+    {
+      "ru": "Грязно",
+      "kk": "Лас",
+      "ruTranscription": "лас",
+      "kkTranscription": "Las",
+      "category": "basic",
+      "id": 1660
+    },
+    {
+      "ru": "Красиво",
+      "kk": "Әдемі",
+      "ruTranscription": "әдемі",
+      "kkTranscription": "Ädemı",
+      "category": "basic",
+      "id": 1661
+    },
+    {
+      "ru": "Некрасиво",
+      "kk": "Сұрықсыз",
+      "ruTranscription": "сұрықсыз",
+      "kkTranscription": "Sūryqsyz",
+      "category": "basic",
+      "id": 1662
+    },
+    {
+      "ru": "Невкусно",
+      "kk": "Дәмсіз",
+      "ruTranscription": "дәмсіз",
+      "kkTranscription": "Dämsız",
+      "category": "basic",
+      "id": 1663
+    },
+    {
+      "ru": "Достаточно",
+      "kk": "Жеткілікті",
+      "ruTranscription": "жеткілікті",
+      "kkTranscription": "Jetkılıktı",
+      "category": "basic",
+      "id": 1664
+    },
+    {
+      "ru": "Слишком много",
+      "kk": "Тым көп",
+      "ruTranscription": "тым көп",
+      "kkTranscription": "Tym köp",
+      "category": "basic",
+      "id": 1665
+    },
+    {
+      "ru": "Слишком мало",
+      "kk": "Тым аз",
+      "ruTranscription": "тым аз",
+      "kkTranscription": "Tym az",
+      "category": "basic",
+      "id": 1666
+    },
+    {
+      "ru": "Поровну",
+      "kk": "Бірдей",
+      "ruTranscription": "бірдей",
+      "kkTranscription": "Birdei",
+      "category": "basic",
+      "id": 1667
+    },
+    {
+      "ru": "Одинаково",
+      "kk": "Бірдей",
+      "ruTranscription": "бірдей",
+      "kkTranscription": "Birdei",
+      "category": "basic",
+      "id": 1668
     }
   ],
   "categories": {
