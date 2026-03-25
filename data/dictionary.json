@@ -1,5 +1,5 @@
 {
-  "version": "1.0.52",
+  "version": "1.0.53",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -10315,6 +10315,254 @@
       "kkTranscription": "Jastyq qaby",
       "category": "house",
       "id": 1282
+    },
+    {
+      "ru": "Транспорт",
+      "kk": "Көлік",
+      "ruTranscription": "көлік",
+      "kkTranscription": "Kölık",
+      "category": "transport",
+      "id": 1283
+    },
+    {
+      "ru": "Автомобиль",
+      "kk": "Көлік",
+      "ruTranscription": "көлік",
+      "kkTranscription": "Kölık",
+      "category": "transport",
+      "id": 1284
+    },
+    {
+      "ru": "Машина",
+      "kk": "Машина",
+      "ruTranscription": "машина",
+      "kkTranscription": "Mashina",
+      "category": "transport",
+      "id": 1285
+    },
+    {
+      "ru": "Грузовик",
+      "kk": "Жүк көлігі",
+      "ruTranscription": "жүк көлігі",
+      "kkTranscription": "Jük kölıgı",
+      "category": "transport",
+      "id": 1286
+    },
+    {
+      "ru": "Троллейбус",
+      "kk": "Троллейбус",
+      "ruTranscription": "троллейбус",
+      "kkTranscription": "Trolleibus",
+      "category": "transport",
+      "id": 1287
+    },
+    {
+      "ru": "Трамвай",
+      "kk": "Трамвай",
+      "ruTranscription": "трамвай",
+      "kkTranscription": "Tramvai",
+      "category": "transport",
+      "id": 1288
+    },
+    {
+      "ru": "Маршрутка",
+      "kk": "Маршрутты такси",
+      "ruTranscription": "маршрутты такси",
+      "kkTranscription": "Marshrutty taksi",
+      "category": "transport",
+      "id": 1289
+    },
+    {
+      "ru": "Поезд",
+      "kk": "Пойыз",
+      "ruTranscription": "пойыз",
+      "kkTranscription": "Poiyz",
+      "category": "transport",
+      "id": 1290
+    },
+    {
+      "ru": "Электричка",
+      "kk": "Электропойыз",
+      "ruTranscription": "электропойыз",
+      "kkTranscription": "Elek tropoiyz",
+      "category": "transport",
+      "id": 1291
+    },
+    {
+      "ru": "Самолёт",
+      "kk": "Ұшақ",
+      "ruTranscription": "ұшақ",
+      "kkTranscription": "Ūşaq",
+      "category": "transport",
+      "id": 1292
+    },
+    {
+      "ru": "Вертолёт",
+      "kk": "Тікұшақ",
+      "ruTranscription": "тікұшақ",
+      "kkTranscription": "Tıkūşaq",
+      "category": "transport",
+      "id": 1293
+    },
+    {
+      "ru": "Корабль",
+      "kk": "Кеме",
+      "ruTranscription": "кеме",
+      "kkTranscription": "Keme",
+      "category": "transport",
+      "id": 1294
+    },
+    {
+      "ru": "Лодка",
+      "kk": "Қайық",
+      "ruTranscription": "қайық",
+      "kkTranscription": "Qaiyq",
+      "category": "transport",
+      "id": 1295
+    },
+    {
+      "ru": "Катер",
+      "kk": "Катер",
+      "ruTranscription": "катер",
+      "kkTranscription": "Kater",
+      "category": "transport",
+      "id": 1296
+    },
+    {
+      "ru": "Паром",
+      "kk": "Паром",
+      "ruTranscription": "паром",
+      "kkTranscription": "Parom",
+      "category": "transport",
+      "id": 1297
+    },
+    {
+      "ru": "Велосипед",
+      "kk": "Велосипед",
+      "ruTranscription": "велосипед",
+      "kkTranscription": "Velosiped",
+      "category": "transport",
+      "id": 1298
+    },
+    {
+      "ru": "Мотоцикл",
+      "kk": "Мотоцикл",
+      "ruTranscription": "мотоцикл",
+      "kkTranscription": "Mototsikl",
+      "category": "transport",
+      "id": 1299
+    },
+    {
+      "ru": "Самокат",
+      "kk": "Самокат",
+      "ruTranscription": "самокат",
+      "kkTranscription": "Samokat",
+      "category": "transport",
+      "id": 1300
+    },
+    {
+      "ru": "Скутер",
+      "kk": "Скутер",
+      "ruTranscription": "скучер",
+      "kkTranscription": "Skuter",
+      "category": "transport",
+      "id": 1301
+    },
+    {
+      "ru": "Дорога",
+      "kk": "Жол",
+      "ruTranscription": "жол",
+      "kkTranscription": "Jol",
+      "category": "city",
+      "id": 1302
+    },
+    {
+      "ru": "Перекрёсток",
+      "kk": "Қиылыс",
+      "ruTranscription": "қиылыс",
+      "kkTranscription": "Qiily s",
+      "category": "city",
+      "id": 1303
+    },
+    {
+      "ru": "Тоннель",
+      "kk": "Тоннель",
+      "ruTranscription": "тоннель",
+      "kkTranscription": "Tonnel",
+      "category": "city",
+      "id": 1304
+    },
+    {
+      "ru": "Станция",
+      "kk": "Станция",
+      "ruTranscription": "станция",
+      "kkTranscription": "Stantsiia",
+      "category": "transport",
+      "id": 1305
+    },
+    {
+      "ru": "Порт",
+      "kk": "Порт",
+      "ruTranscription": "порт",
+      "kkTranscription": "Port",
+      "category": "transport",
+      "id": 1306
+    },
+    {
+      "ru": "Бензин",
+      "kk": "Бензин",
+      "ruTranscription": "бензин",
+      "kkTranscription": "Benzin",
+      "category": "transport",
+      "id": 1307
+    },
+    {
+      "ru": "Заправка",
+      "kk": "Жанармай құю станциясы",
+      "ruTranscription": "жанармай құю станциясы",
+      "kkTranscription": "Janarmai qūiu stantsiiasy",
+      "category": "transport",
+      "id": 1308
+    },
+    {
+      "ru": "Парковка",
+      "kk": "Тұрақ",
+      "ruTranscription": "тұрақ",
+      "kkTranscription": "Tūraq",
+      "category": "transport",
+      "id": 1309
+    },
+    {
+      "ru": "Гараж",
+      "kk": "Гараж",
+      "ruTranscription": "гараж",
+      "kkTranscription": "Garaj",
+      "category": "transport",
+      "id": 1310
+    },
+    {
+      "ru": "Светофор",
+      "kk": "Бағдаршам",
+      "ruTranscription": "бағдаршам",
+      "kkTranscription": "Bağdarşam",
+      "category": "city",
+      "id": 1311
+    },
+    {
+      "ru": "Пешеход",
+      "kk": "Жаяу жүргінші",
+      "ruTranscription": "жаяу жүргінші",
+      "kkTranscription": "Jaiаu jürgınşı",
+      "category": "city",
+      "id": 1312
+    },
+    {
+      "ru": "Зебра",
+      "kk": "Жаяу жүргінші өткелі",
+      "ruTranscription": "жаяу жүргінші өткелі",
+      "kkTranscription": "Jaiаu jürgınşı ötkelı",
+      "category": "city",
+      "id": 1313
     }
   ],
   "categories": {
