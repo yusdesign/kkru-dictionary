@@ -1,5 +1,5 @@
 {
-  "version": "1.0.79",
+  "version": "1.0.80",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -20487,6 +20487,374 @@
       "kkTranscription": "Uggi",
       "category": "clothing",
       "id": 2553
+    },
+    {
+      "ru": "Развлечение",
+      "kk": "Ойын-сауық",
+      "ruTranscription": "ойын-сауық",
+      "kkTranscription": "Oiyn-sauyq",
+      "category": "basic",
+      "id": 2554
+    },
+    {
+      "ru": "Хобби",
+      "kk": "Хобби",
+      "ruTranscription": "хобби",
+      "kkTranscription": "Hobbi",
+      "category": "basic",
+      "id": 2555
+    },
+    {
+      "ru": "Досуг",
+      "kk": "Бос уақыт",
+      "ruTranscription": "бос уақыт",
+      "kkTranscription": "Bos uaqyt",
+      "category": "basic",
+      "id": 2556
+    },
+    {
+      "ru": "Видеоигра",
+      "kk": "Видеоойын",
+      "ruTranscription": "видеоойын",
+      "kkTranscription": "Videooiyn",
+      "category": "technology",
+      "id": 2557
+    },
+    {
+      "ru": "Компьютерная игра",
+      "kk": "Компьютерлік ойын",
+      "ruTranscription": "компьютерлік ойын",
+      "kkTranscription": "Kompiuterlık oiyn",
+      "category": "technology",
+      "id": 2558
+    },
+    {
+      "ru": "Мобильная игра",
+      "kk": "Мобильді ойын",
+      "ruTranscription": "мобильді ойын",
+      "kkTranscription": "Mobıldı oiyn",
+      "category": "technology",
+      "id": 2559
+    },
+    {
+      "ru": "Настольная игра",
+      "kk": "Үстел ойыны",
+      "ruTranscription": "үстел ойыны",
+      "kkTranscription": "Üstel oiyny",
+      "category": "basic",
+      "id": 2560
+    },
+    {
+      "ru": "Геймер",
+      "kk": "Ойыншы",
+      "ruTranscription": "ойыншы",
+      "kkTranscription": "Oiynşy",
+      "category": "basic",
+      "id": 2561
+    },
+    {
+      "ru": "Киберспорт",
+      "kk": "Киберспорт",
+      "ruTranscription": "киберспорт",
+      "kkTranscription": "Kibersport",
+      "category": "sports",
+      "id": 2562
+    },
+    {
+      "ru": "Турнир",
+      "kk": "Турнир",
+      "ruTranscription": "турнир",
+      "kkTranscription": "Turnir",
+      "category": "sports",
+      "id": 2563
+    },
+    {
+      "ru": "Киберспортсмен",
+      "kk": "Киберспортшы",
+      "ruTranscription": "киберспортшы",
+      "kkTranscription": "Kibersportşy",
+      "category": "sports",
+      "id": 2564
+    },
+    {
+      "ru": "Уровень",
+      "kk": "Деңгей",
+      "ruTranscription": "деңгей",
+      "kkTranscription": "Deñgei",
+      "category": "basic",
+      "id": 2565
+    },
+    {
+      "ru": "Миссия",
+      "kk": "Тапсырма",
+      "ruTranscription": "тапсырма",
+      "kkTranscription": "Tapsyrma",
+      "category": "basic",
+      "id": 2566
+    },
+    {
+      "ru": "Квест",
+      "kk": "Квест",
+      "ruTranscription": "квест",
+      "kkTranscription": "Kvest",
+      "category": "basic",
+      "id": 2567
+    },
+    {
+      "ru": "Локация",
+      "kk": "Орын",
+      "ruTranscription": "орын",
+      "kkTranscription": "Oryn",
+      "category": "basic",
+      "id": 2568
+    },
+    {
+      "ru": "Графика",
+      "kk": "Графика",
+      "ruTranscription": "графика",
+      "kkTranscription": "Grafika",
+      "category": "technology",
+      "id": 2569
+    },
+    {
+      "ru": "Геймплей",
+      "kk": "Ойын барысы",
+      "ruTranscription": "ойын барысы",
+      "kkTranscription": "Oiyn barysy",
+      "category": "basic",
+      "id": 2570
+    },
+    {
+      "ru": "Мультиплеер",
+      "kk": "Көп ойыншылы",
+      "ruTranscription": "көп ойыншылы",
+      "kkTranscription": "Köp oiynşyly",
+      "category": "technology",
+      "id": 2571
+    },
+    {
+      "ru": "Одиночная игра",
+      "kk": "Жалғыз ойын",
+      "ruTranscription": "жалғыз ойын",
+      "kkTranscription": "Jalğyz oiyn",
+      "category": "technology",
+      "id": 2572
+    },
+    {
+      "ru": "Онлайн-игра",
+      "kk": "Онлайн ойын",
+      "ruTranscription": "онлайн ойын",
+      "kkTranscription": "Onlain oiyn",
+      "category": "technology",
+      "id": 2573
+    },
+    {
+      "ru": "Соревновательная игра",
+      "kk": "Жарыс ойыны",
+      "ruTranscription": "жарыс ойыны",
+      "kkTranscription": "Jarys oiyny",
+      "category": "sports",
+      "id": 2574
+    },
+    {
+      "ru": "Стратегия",
+      "kk": "Стратегия",
+      "ruTranscription": "стратегия",
+      "kkTranscription": "Strategiia",
+      "category": "basic",
+      "id": 2575
+    },
+    {
+      "ru": "Ролевая игра",
+      "kk": "Рөлдік ойын",
+      "ruTranscription": "рөлдік ойын",
+      "kkTranscription": "Röldık oiyn",
+      "category": "basic",
+      "id": 2576
+    },
+    {
+      "ru": "Шутер",
+      "kk": "Шутер",
+      "ruTranscription": "шутер",
+      "kkTranscription": "Shuter",
+      "category": "technology",
+      "id": 2577
+    },
+    {
+      "ru": "Головоломка",
+      "kk": "Басқатырғы",
+      "ruTranscription": "басқатырғы",
+      "kkTranscription": "Basqatyrğy",
+      "category": "basic",
+      "id": 2578
+    },
+    {
+      "ru": "Аркада",
+      "kk": "Аркада",
+      "ruTranscription": "аркада",
+      "kkTranscription": "Arkada",
+      "category": "technology",
+      "id": 2579
+    },
+    {
+      "ru": "Симулятор",
+      "kk": "Симулятор",
+      "ruTranscription": "симулятор",
+      "kkTranscription": "Simuliator",
+      "category": "technology",
+      "id": 2580
+    },
+    {
+      "ru": "Приставка",
+      "kk": "Консоль",
+      "ruTranscription": "консоль",
+      "kkTranscription": "Konsol",
+      "category": "technology",
+      "id": 2581
+    },
+    {
+      "ru": "Консоль",
+      "kk": "Консоль",
+      "ruTranscription": "консоль",
+      "kkTranscription": "Konsol",
+      "category": "technology",
+      "id": 2582
+    },
+    {
+      "ru": "Джойстик",
+      "kk": "Джойстик",
+      "ruTranscription": "джойстик",
+      "kkTranscription": "Dzhoistik",
+      "category": "technology",
+      "id": 2583
+    },
+    {
+      "ru": "Геймпад",
+      "kk": "Геймпад",
+      "ruTranscription": "геймпад",
+      "kkTranscription": "Geimpad",
+      "category": "technology",
+      "id": 2584
+    },
+    {
+      "ru": "Шахматы",
+      "kk": "Шахмат",
+      "ruTranscription": "шахмат",
+      "kkTranscription": "Shakhmat",
+      "category": "sports",
+      "id": 2585
+    },
+    {
+      "ru": "Шашки",
+      "kk": "Дамба",
+      "ruTranscription": "дамба",
+      "kkTranscription": "Damba",
+      "category": "sports",
+      "id": 2586
+    },
+    {
+      "ru": "Нарды",
+      "kk": "Нарды",
+      "ruTranscription": "нарды",
+      "kkTranscription": "Nardy",
+      "category": "sports",
+      "id": 2587
+    },
+    {
+      "ru": "Карты",
+      "kk": "Карталар",
+      "ruTranscription": "карталар",
+      "kkTranscription": "Kartalar",
+      "category": "basic",
+      "id": 2588
+    },
+    {
+      "ru": "Покер",
+      "kk": "Покер",
+      "ruTranscription": "покер",
+      "kkTranscription": "Poker",
+      "category": "basic",
+      "id": 2589
+    },
+    {
+      "ru": "Домино",
+      "kk": "Домино",
+      "ruTranscription": "домино",
+      "kkTranscription": "Domino",
+      "category": "basic",
+      "id": 2590
+    },
+    {
+      "ru": "Лото",
+      "kk": "Лото",
+      "ruTranscription": "лото",
+      "kkTranscription": "Loto",
+      "category": "basic",
+      "id": 2591
+    },
+    {
+      "ru": "Пазл",
+      "kk": "Пазл",
+      "ruTranscription": "пазл",
+      "kkTranscription": "Pazl",
+      "category": "basic",
+      "id": 2592
+    },
+    {
+      "ru": "Конструктор",
+      "kk": "Құрастырғыш",
+      "ruTranscription": "құрастырғыш",
+      "kkTranscription": "Qūrastyrğyş",
+      "category": "basic",
+      "id": 2593
+    },
+    {
+      "ru": "Лего",
+      "kk": "Лего",
+      "ruTranscription": "лего",
+      "kkTranscription": "Lego",
+      "category": "basic",
+      "id": 2594
+    },
+    {
+      "ru": "Кубик Рубика",
+      "kk": "Рубик кубы",
+      "ruTranscription": "рубик кубы",
+      "kkTranscription": "Rubik kuby",
+      "category": "basic",
+      "id": 2595
+    },
+    {
+      "ru": "Кроссворд",
+      "kk": "Сөзжұмбақ",
+      "ruTranscription": "сөзжұмбақ",
+      "kkTranscription": "Sözjūmbaq",
+      "category": "basic",
+      "id": 2596
+    },
+    {
+      "ru": "Судоку",
+      "kk": "Судоку",
+      "ruTranscription": "судоку",
+      "kkTranscription": "Sudoku",
+      "category": "basic",
+      "id": 2597
+    },
+    {
+      "ru": "Квест-комната",
+      "kk": "Квест бөлме",
+      "ruTranscription": "квест бөлме",
+      "kkTranscription": "Kvest bölme",
+      "category": "basic",
+      "id": 2598
+    },
+    {
+      "ru": "Караоке",
+      "kk": "Караоке",
+      "ruTranscription": "караоке",
+      "kkTranscription": "Karaoke",
+      "category": "culture",
+      "id": 2599
     }
   ],
   "categories": {
