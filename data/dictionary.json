@@ -1,5 +1,5 @@
 {
-  "version": "1.0.72",
+  "version": "1.0.73",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -18279,6 +18279,374 @@
       "kkTranscription": "Troll",
       "category": "technology",
       "id": 2277
+    },
+    {
+      "ru": "Ингредиент",
+      "kk": "Құрамыс",
+      "ruTranscription": "құрамыс",
+      "kkTranscription": "Qūramys",
+      "category": "food",
+      "id": 2278
+    },
+    {
+      "ru": "Запекать",
+      "kk": "Пісіру",
+      "ruTranscription": "пісіру",
+      "kkTranscription": "Pısıru",
+      "category": "food",
+      "id": 2279
+    },
+    {
+      "ru": "Парить",
+      "kk": "Булау",
+      "ruTranscription": "булау",
+      "kkTranscription": "Bulau",
+      "category": "food",
+      "id": 2280
+    },
+    {
+      "ru": "Перчить",
+      "kk": "Бұрыштау",
+      "ruTranscription": "бұрыштау",
+      "kkTranscription": "Būryştau",
+      "category": "food",
+      "id": 2281
+    },
+    {
+      "ru": "Мука",
+      "kk": "Ұн",
+      "ruTranscription": "ұн",
+      "kkTranscription": "Ūn",
+      "category": "food",
+      "id": 2282
+    },
+    {
+      "ru": "Яйцо",
+      "kk": "Жұмыртқа",
+      "ruTranscription": "жұмыртқа",
+      "kkTranscription": "Jūmyrtqa",
+      "category": "food",
+      "id": 2283
+    },
+    {
+      "ru": "Дрожжи",
+      "kk": "Ашытқы",
+      "ruTranscription": "ашытқы",
+      "kkTranscription": "Aşytqy",
+      "category": "food",
+      "id": 2284
+    },
+    {
+      "ru": "Сода",
+      "kk": "Сода",
+      "ruTranscription": "сода",
+      "kkTranscription": "Soda",
+      "category": "food",
+      "id": 2285
+    },
+    {
+      "ru": "Уксус",
+      "kk": "Сірке су",
+      "ruTranscription": "сірке су",
+      "kkTranscription": "Sırke su",
+      "category": "food",
+      "id": 2286
+    },
+    {
+      "ru": "Специи",
+      "kk": "Дәмдеуіштер",
+      "ruTranscription": "дәмдеуіштер",
+      "kkTranscription": "Dämdeuışter",
+      "category": "food",
+      "id": 2287
+    },
+    {
+      "ru": "Тесто",
+      "kk": "Қамыр",
+      "ruTranscription": "қамыр",
+      "kkTranscription": "Qamyr",
+      "category": "food",
+      "id": 2288
+    },
+    {
+      "ru": "Начинка",
+      "kk": "Салма",
+      "ruTranscription": "салма",
+      "kkTranscription": "Salma",
+      "category": "food",
+      "id": 2289
+    },
+    {
+      "ru": "Суповой набор",
+      "kk": "Сорпа жиынтығы",
+      "ruTranscription": "сорпа жиынтығы",
+      "kkTranscription": "Sorpa jiyn tyğy",
+      "category": "food",
+      "id": 2290
+    },
+    {
+      "ru": "Бульон",
+      "kk": "Сорпа",
+      "ruTranscription": "сорпа",
+      "kkTranscription": "Sorpa",
+      "category": "food",
+      "id": 2291
+    },
+    {
+      "ru": "Соус",
+      "kk": "Тұздық",
+      "ruTranscription": "тұздық",
+      "kkTranscription": "Tūzdyq",
+      "category": "food",
+      "id": 2292
+    },
+    {
+      "ru": "Маринад",
+      "kk": "Маринад",
+      "ruTranscription": "маринад",
+      "kkTranscription": "Marinad",
+      "category": "food",
+      "id": 2293
+    },
+    {
+      "ru": "Кляр",
+      "kk": "Қатқыл қамыр",
+      "ruTranscription": "қатқыл қамыр",
+      "kkTranscription": "Qatqyl qamyr",
+      "category": "food",
+      "id": 2294
+    },
+    {
+      "ru": "Пюре",
+      "kk": "Пюре",
+      "ruTranscription": "пюре",
+      "kkTranscription": "Piure",
+      "category": "food",
+      "id": 2295
+    },
+    {
+      "ru": "Каша",
+      "kk": "Ботқа",
+      "ruTranscription": "ботқа",
+      "kkTranscription": "Botqa",
+      "category": "food",
+      "id": 2296
+    },
+    {
+      "ru": "Рис",
+      "kk": "Күріш",
+      "ruTranscription": "күріш",
+      "kkTranscription": "Kürış",
+      "category": "food",
+      "id": 2297
+    },
+    {
+      "ru": "Гречка",
+      "kk": "Қарақұмық",
+      "ruTranscription": "қарақұмық",
+      "kkTranscription": "Qaraqūmyq",
+      "category": "food",
+      "id": 2298
+    },
+    {
+      "ru": "Макароны",
+      "kk": "Макарон",
+      "ruTranscription": "макарон",
+      "kkTranscription": "Makaron",
+      "category": "food",
+      "id": 2299
+    },
+    {
+      "ru": "Пельмени",
+      "kk": "Тұшпара",
+      "ruTranscription": "тұшпара",
+      "kkTranscription": "Tūşpara",
+      "category": "food",
+      "id": 2300
+    },
+    {
+      "ru": "Бешбармак",
+      "kk": "Бесбармақ",
+      "ruTranscription": "бесбармақ",
+      "kkTranscription": "Besbarmaq",
+      "category": "food",
+      "id": 2301
+    },
+    {
+      "ru": "Баурсак",
+      "kk": "Бауырсақ",
+      "ruTranscription": "бауырсақ",
+      "kkTranscription": "Bauyrsaq",
+      "category": "food",
+      "id": 2302
+    },
+    {
+      "ru": "Ширтан",
+      "kk": "Шыртан",
+      "ruTranscription": "шыртан",
+      "kkTranscription": "Şyrtan",
+      "category": "food",
+      "id": 2303
+    },
+    {
+      "ru": "Кумыс",
+      "kk": "Қымыз",
+      "ruTranscription": "қымыз",
+      "kkTranscription": "Qymyz",
+      "category": "food",
+      "id": 2304
+    },
+    {
+      "ru": "Шубат",
+      "kk": "Шұбат",
+      "ruTranscription": "шұбат",
+      "kkTranscription": "Şūbat",
+      "category": "food",
+      "id": 2305
+    },
+    {
+      "ru": "Айран",
+      "kk": "Айран",
+      "ruTranscription": "айран",
+      "kkTranscription": "Airan",
+      "category": "food",
+      "id": 2306
+    },
+    {
+      "ru": "Катык",
+      "kk": "Қатық",
+      "ruTranscription": "қатық",
+      "kkTranscription": "Qatyq",
+      "category": "food",
+      "id": 2307
+    },
+    {
+      "ru": "Курт",
+      "kk": "Құрт",
+      "ruTranscription": "құрт",
+      "kkTranscription": "Qūrt",
+      "category": "food",
+      "id": 2308
+    },
+    {
+      "ru": "Сливочное масло",
+      "kk": "Сары май",
+      "ruTranscription": "сары май",
+      "kkTranscription": "Sary mai",
+      "category": "food",
+      "id": 2309
+    },
+    {
+      "ru": "Творог",
+      "kk": "Сүзбе",
+      "ruTranscription": "сүзбе",
+      "kkTranscription": "Süzbe",
+      "category": "food",
+      "id": 2310
+    },
+    {
+      "ru": "Сметана",
+      "kk": "Қаймақ",
+      "ruTranscription": "қаймақ",
+      "kkTranscription": "Qaimaq",
+      "category": "food",
+      "id": 2311
+    },
+    {
+      "ru": "Кефир",
+      "kk": "Айран",
+      "ruTranscription": "айран",
+      "kkTranscription": "Airan",
+      "category": "food",
+      "id": 2312
+    },
+    {
+      "ru": "Йогурт",
+      "kk": "Йогурт",
+      "ruTranscription": "йогурт",
+      "kkTranscription": "Iogurt",
+      "category": "food",
+      "id": 2313
+    },
+    {
+      "ru": "Казан",
+      "kk": "Қазан",
+      "ruTranscription": "қазан",
+      "kkTranscription": "Qazan",
+      "category": "house",
+      "id": 2314
+    },
+    {
+      "ru": "Дуршлаг",
+      "kk": "Сүзгі",
+      "ruTranscription": "сүзгі",
+      "kkTranscription": "Süzgı",
+      "category": "house",
+      "id": 2315
+    },
+    {
+      "ru": "Тёрка",
+      "kk": "Үккіш",
+      "ruTranscription": "үккіш",
+      "kkTranscription": "Ükkış",
+      "category": "house",
+      "id": 2316
+    },
+    {
+      "ru": "Скалка",
+      "kk": "Жайғыш",
+      "ruTranscription": "жайғыш",
+      "kkTranscription": "Jaiğyş",
+      "category": "house",
+      "id": 2317
+    },
+    {
+      "ru": "Венчик",
+      "kk": "Шыбыртқы",
+      "ruTranscription": "шыбыртқы",
+      "kkTranscription": "Şybyrtqy",
+      "category": "house",
+      "id": 2318
+    },
+    {
+      "ru": "Лопатка",
+      "kk": "Күрек",
+      "ruTranscription": "күрек",
+      "kkTranscription": "Kürek",
+      "category": "house",
+      "id": 2319
+    },
+    {
+      "ru": "Половник",
+      "kk": "Ожау",
+      "ruTranscription": "ожау",
+      "kkTranscription": "Ojau",
+      "category": "house",
+      "id": 2320
+    },
+    {
+      "ru": "Доска разделочная",
+      "kk": "Кесу тақтасы",
+      "ruTranscription": "кесу тақтасы",
+      "kkTranscription": "Kesu taqtasy",
+      "category": "house",
+      "id": 2321
+    },
+    {
+      "ru": "Кухонные весы",
+      "kk": "Ас үй таразысы",
+      "ruTranscription": "ас үй таразысы",
+      "kkTranscription": "As üi tarazysy",
+      "category": "house",
+      "id": 2322
+    },
+    {
+      "ru": "Мерный стакан",
+      "kk": "Өлшеуіш стакан",
+      "ruTranscription": "өлшеуіш стакан",
+      "kkTranscription": "Ölşeuış stakan",
+      "category": "house",
+      "id": 2323
     }
   ],
   "categories": {
