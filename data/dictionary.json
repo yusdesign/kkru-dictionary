@@ -1,5 +1,5 @@
 {
-  "version": "1.0.43",
+  "version": "1.0.44",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -7947,6 +7947,358 @@
       "kkTranscription": "Ainalu",
       "category": "verbs",
       "id": 986
+    },
+    {
+      "ru": "Находиться",
+      "kk": "Тұру",
+      "ruTranscription": "тұру",
+      "kkTranscription": "Tūru",
+      "category": "verbs",
+      "id": 987
+    },
+    {
+      "ru": "Висеть",
+      "kk": "Ілу",
+      "ruTranscription": "ілу",
+      "kkTranscription": "Ilu",
+      "category": "verbs",
+      "id": 988
+    },
+    {
+      "ru": "Лежать (о предмете)",
+      "kk": "Жату",
+      "ruTranscription": "жату",
+      "kkTranscription": "Jatu",
+      "category": "verbs",
+      "id": 989
+    },
+    {
+      "ru": "Стоять (о предмете)",
+      "kk": "Тұру",
+      "ruTranscription": "тұру",
+      "kkTranscription": "Tūru",
+      "category": "verbs",
+      "id": 990
+    },
+    {
+      "ru": "Существовать",
+      "kk": "Болу",
+      "ruTranscription": "болу",
+      "kkTranscription": "Bolu",
+      "category": "verbs",
+      "id": 991
+    },
+    {
+      "ru": "Иметься",
+      "kk": "Бар болу",
+      "ruTranscription": "бар болу",
+      "kkTranscription": "Bar bolu",
+      "category": "verbs",
+      "id": 992
+    },
+    {
+      "ru": "Отсутствовать",
+      "kk": "Жоқ болу",
+      "ruTranscription": "жоқ болу",
+      "kkTranscription": "Joq bolu",
+      "category": "verbs",
+      "id": 993
+    },
+    {
+      "ru": "Происходить",
+      "kk": "Болу",
+      "ruTranscription": "болу",
+      "kkTranscription": "Bolu",
+      "category": "verbs",
+      "id": 994
+    },
+    {
+      "ru": "Случаться",
+      "kk": "Болып қалу",
+      "ruTranscription": "болып қалу",
+      "kkTranscription": "Bolyq qalu",
+      "category": "verbs",
+      "id": 995
+    },
+    {
+      "ru": "Казаться",
+      "kk": "Көріну",
+      "ruTranscription": "көріну",
+      "kkTranscription": "Körınu",
+      "category": "verbs",
+      "id": 996
+    },
+    {
+      "ru": "Оказываться",
+      "kk": "Болып шығу",
+      "ruTranscription": "болып шығу",
+      "kkTranscription": "Bolyp şyğu",
+      "category": "verbs",
+      "id": 997
+    },
+    {
+      "ru": "Становиться",
+      "kk": "Айналу",
+      "ruTranscription": "айналу",
+      "kkTranscription": "Ainalu",
+      "category": "verbs",
+      "id": 998
+    },
+    {
+      "ru": "Превращаться",
+      "kk": "Айналу",
+      "ruTranscription": "айналу",
+      "kkTranscription": "Ainalu",
+      "category": "verbs",
+      "id": 999
+    },
+    {
+      "ru": "Изменяться",
+      "kk": "Өзгеру",
+      "ruTranscription": "өзгеру",
+      "kkTranscription": "Özgeru",
+      "category": "verbs",
+      "id": 1000
+    },
+    {
+      "ru": "Увеличиваться",
+      "kk": "Арту",
+      "ruTranscription": "арту",
+      "kkTranscription": "Artu",
+      "category": "verbs",
+      "id": 1001
+    },
+    {
+      "ru": "Уменьшаться",
+      "kk": "Кему",
+      "ruTranscription": "кему",
+      "kkTranscription": "Kemu",
+      "category": "verbs",
+      "id": 1002
+    },
+    {
+      "ru": "Увеличивать",
+      "kk": "Арттыру",
+      "ruTranscription": "арттыру",
+      "kkTranscription": "Arttyru",
+      "category": "verbs",
+      "id": 1003
+    },
+    {
+      "ru": "Уменьшать",
+      "kk": "Кеміту",
+      "ruTranscription": "кеміту",
+      "kkTranscription": "Kemıtu",
+      "category": "verbs",
+      "id": 1004
+    },
+    {
+      "ru": "Состоять",
+      "kk": "Тұру",
+      "ruTranscription": "тұру",
+      "kkTranscription": "Tūru",
+      "category": "verbs",
+      "id": 1005
+    },
+    {
+      "ru": "Включать в себя",
+      "kk": "Қамту",
+      "ruTranscription": "қамту",
+      "kkTranscription": "Qamtu",
+      "category": "verbs",
+      "id": 1006
+    },
+    {
+      "ru": "Относиться",
+      "kk": "Жату",
+      "ruTranscription": "жату",
+      "kkTranscription": "Jatu",
+      "category": "verbs",
+      "id": 1007
+    },
+    {
+      "ru": "Принадлежать",
+      "kk": "Тию",
+      "ruTranscription": "тию",
+      "kkTranscription": "Tiıu",
+      "category": "verbs",
+      "id": 1008
+    },
+    {
+      "ru": "Зависеть",
+      "kk": "Тәуелді болу",
+      "ruTranscription": "тәуелді болу",
+      "kkTranscription": "Täueldı bolu",
+      "category": "verbs",
+      "id": 1009
+    },
+    {
+      "ru": "Соответствовать",
+      "kk": "Сәйкес келу",
+      "ruTranscription": "сәйкес келу",
+      "kkTranscription": "Säikes kelu",
+      "category": "verbs",
+      "id": 1010
+    },
+    {
+      "ru": "Отличаться",
+      "kk": "Ерекшелену",
+      "ruTranscription": "ерекшелену",
+      "kkTranscription": "Erekşelenu",
+      "category": "verbs",
+      "id": 1011
+    },
+    {
+      "ru": "Сходствовать",
+      "kk": "Ұқсау",
+      "ruTranscription": "ұқсау",
+      "kkTranscription": "Ūqsau",
+      "category": "verbs",
+      "id": 1012
+    },
+    {
+      "ru": "Напоминать",
+      "kk": "Еске салу",
+      "ruTranscription": "еске салу",
+      "kkTranscription": "Eske salu",
+      "category": "verbs",
+      "id": 1013
+    },
+    {
+      "ru": "Следовать",
+      "kk": "Еру",
+      "ruTranscription": "еру",
+      "kkTranscription": "Eru",
+      "category": "verbs",
+      "id": 1014
+    },
+    {
+      "ru": "Предшествовать",
+      "kk": "Алдында болу",
+      "ruTranscription": "алдында болу",
+      "kkTranscription": "Aldynda bolu",
+      "category": "verbs",
+      "id": 1015
+    },
+    {
+      "ru": "Сопровождать",
+      "kk": "Еріп жүру",
+      "ruTranscription": "еріп жүру",
+      "kkTranscription": "Erıp jüru",
+      "category": "verbs",
+      "id": 1016
+    },
+    {
+      "ru": "Сопутствовать",
+      "kk": "Қоса жүру",
+      "ruTranscription": "қоса жүру",
+      "kkTranscription": "Qosa jüru",
+      "category": "verbs",
+      "id": 1017
+    },
+    {
+      "ru": "Быть (в значении существовать)",
+      "kk": "Бар болу",
+      "ruTranscription": "бар болу",
+      "kkTranscription": "Bar bolu",
+      "category": "verbs",
+      "id": 1018
+    },
+    {
+      "ru": "Быть (в значении являться)",
+      "kk": "Болу",
+      "ruTranscription": "болу",
+      "kkTranscription": "Bolu",
+      "category": "verbs",
+      "id": 1019
+    },
+    {
+      "ru": "Стать",
+      "kk": "Болу",
+      "ruTranscription": "болу",
+      "kkTranscription": "Bolu",
+      "category": "verbs",
+      "id": 1020
+    },
+    {
+      "ru": "Являться",
+      "kk": "Болу",
+      "ruTranscription": "болу",
+      "kkTranscription": "Bolu",
+      "category": "verbs",
+      "id": 1021
+    },
+    {
+      "ru": "Оставаться (в том же состоянии)",
+      "kk": "Қалу",
+      "ruTranscription": "қалу",
+      "kkTranscription": "Qalu",
+      "category": "verbs",
+      "id": 1022
+    },
+    {
+      "ru": "Пребывать",
+      "kk": "Болу",
+      "ruTranscription": "болу",
+      "kkTranscription": "Bolu",
+      "category": "verbs",
+      "id": 1023
+    },
+    {
+      "ru": "Сохраняться",
+      "kk": "Сақталу",
+      "ruTranscription": "сақталу",
+      "kkTranscription": "Saqtalu",
+      "category": "verbs",
+      "id": 1024
+    },
+    {
+      "ru": "Исчезать",
+      "kk": "Жоғалу",
+      "ruTranscription": "жоғалу",
+      "kkTranscription": "Joğalu",
+      "category": "verbs",
+      "id": 1025
+    },
+    {
+      "ru": "Появляться",
+      "kk": "Пайда болу",
+      "ruTranscription": "пайда болу",
+      "kkTranscription": "Paida bolu",
+      "category": "verbs",
+      "id": 1026
+    },
+    {
+      "ru": "Возникать",
+      "kk": "Туу",
+      "ruTranscription": "туу",
+      "kkTranscription": "Tuu",
+      "category": "verbs",
+      "id": 1027
+    },
+    {
+      "ru": "Исходить",
+      "kk": "Шығу",
+      "ruTranscription": "шығу",
+      "kkTranscription": "Şyğu",
+      "category": "verbs",
+      "id": 1028
+    },
+    {
+      "ru": "Проистекать",
+      "kk": "Шығу",
+      "ruTranscription": "шығу",
+      "kkTranscription": "Şyğu",
+      "category": "verbs",
+      "id": 1029
+    },
+    {
+      "ru": "Следовать (из чего-то)",
+      "kk": "Шығу",
+      "ruTranscription": "шығу",
+      "kkTranscription": "Şyğu",
+      "category": "verbs",
+      "id": 1030
     }
   ],
   "categories": {
