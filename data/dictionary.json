@@ -1,5 +1,5 @@
 {
-  "version": "1.0.47",
+  "version": "1.0.48",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -8859,6 +8859,318 @@
       "kkTranscription": "Şeşım qabyldau",
       "category": "verbs",
       "id": 1100
+    },
+    {
+      "ru": "Трудиться",
+      "kk": "Еңбек ету",
+      "ruTranscription": "еңбек ету",
+      "kkTranscription": "Eñbek etu",
+      "category": "verbs",
+      "id": 1101
+    },
+    {
+      "ru": "Обучаться",
+      "kk": "Үйрену",
+      "ruTranscription": "үйрену",
+      "kkTranscription": "Üırenu",
+      "category": "verbs",
+      "id": 1102
+    },
+    {
+      "ru": "Изучать",
+      "kk": "Зерттеу",
+      "ruTranscription": "зерттеу",
+      "kkTranscription": "Zertteu",
+      "category": "verbs",
+      "id": 1103
+    },
+    {
+      "ru": "Преподавать",
+      "kk": "Оқыту",
+      "ruTranscription": "оқыту",
+      "kkTranscription": "Oqytu",
+      "category": "verbs",
+      "id": 1104
+    },
+    {
+      "ru": "Учить (кого-то)",
+      "kk": "Үйрету",
+      "ruTranscription": "үйрету",
+      "kkTranscription": "Üıretu",
+      "category": "verbs",
+      "id": 1105
+    },
+    {
+      "ru": "Тренировать",
+      "kk": "Жаттықтыру",
+      "ruTranscription": "жаттықтыру",
+      "kkTranscription": "Jattyqtyru",
+      "category": "verbs",
+      "id": 1106
+    },
+    {
+      "ru": "Тренироваться",
+      "kk": "Жаттығу",
+      "ruTranscription": "жаттығу",
+      "kkTranscription": "Jattyğu",
+      "category": "verbs",
+      "id": 1107
+    },
+    {
+      "ru": "Строить",
+      "kk": "Салу",
+      "ruTranscription": "салу",
+      "kkTranscription": "Salu",
+      "category": "verbs",
+      "id": 1108
+    },
+    {
+      "ru": "Возводить",
+      "kk": "Тұрғызу",
+      "ruTranscription": "тұрғызу",
+      "kkTranscription": "Tūrğyzu",
+      "category": "verbs",
+      "id": 1109
+    },
+    {
+      "ru": "Ремонтировать",
+      "kk": "Жөндеу",
+      "ruTranscription": "жөндеу",
+      "kkTranscription": "Jöndeu",
+      "category": "verbs",
+      "id": 1110
+    },
+    {
+      "ru": "Разрушать",
+      "kk": "Бұзу",
+      "ruTranscription": "бұзу",
+      "kkTranscription": "Būzu",
+      "category": "verbs",
+      "id": 1111
+    },
+    {
+      "ru": "Создавать",
+      "kk": "Жасау",
+      "ruTranscription": "жасау",
+      "kkTranscription": "Jasau",
+      "category": "verbs",
+      "id": 1112
+    },
+    {
+      "ru": "Производить",
+      "kk": "Өндіру",
+      "ruTranscription": "өндіру",
+      "kkTranscription": "Öndıru",
+      "category": "verbs",
+      "id": 1113
+    },
+    {
+      "ru": "Изготавливать",
+      "kk": "Жасау",
+      "ruTranscription": "жасау",
+      "kkTranscription": "Jasau",
+      "category": "verbs",
+      "id": 1114
+    },
+    {
+      "ru": "Чертить",
+      "kk": "Сызу",
+      "ruTranscription": "сызу",
+      "kkTranscription": "Syzu",
+      "category": "verbs",
+      "id": 1115
+    },
+    {
+      "ru": "Печатать",
+      "kk": "Басу",
+      "ruTranscription": "басу",
+      "kkTranscription": "Basu",
+      "category": "verbs",
+      "id": 1116
+    },
+    {
+      "ru": "Вырезать",
+      "kk": "Қию",
+      "ruTranscription": "қию",
+      "kkTranscription": "Qiıu",
+      "category": "verbs",
+      "id": 1117
+    },
+    {
+      "ru": "Клеить",
+      "kk": "Жабыстыру",
+      "ruTranscription": "жабыстыру",
+      "kkTranscription": "Jabystyru",
+      "category": "verbs",
+      "id": 1118
+    },
+    {
+      "ru": "Соединять",
+      "kk": "Қосу",
+      "ruTranscription": "қосу",
+      "kkTranscription": "Qosu",
+      "category": "verbs",
+      "id": 1119
+    },
+    {
+      "ru": "Разъединять",
+      "kk": "Ажырату",
+      "ruTranscription": "ажырату",
+      "kkTranscription": "Ajyratu",
+      "category": "verbs",
+      "id": 1120
+    },
+    {
+      "ru": "Собирать",
+      "kk": "Жинау",
+      "ruTranscription": "жинау",
+      "kkTranscription": "Jinau",
+      "category": "verbs",
+      "id": 1121
+    },
+    {
+      "ru": "Разбирать",
+      "kk": "Бөлшектеу",
+      "ruTranscription": "бөлшектеу",
+      "kkTranscription": "Bölşekteu",
+      "category": "verbs",
+      "id": 1122
+    },
+    {
+      "ru": "Чистить",
+      "kk": "Тазалау",
+      "ruTranscription": "тазалау",
+      "kkTranscription": "Tazalau",
+      "category": "verbs",
+      "id": 1123
+    },
+    {
+      "ru": "Стирать (одежду)",
+      "kk": "Жуу",
+      "ruTranscription": "жуу",
+      "kkTranscription": "Juu",
+      "category": "verbs",
+      "id": 1124
+    },
+    {
+      "ru": "Гладить",
+      "kk": "Үтіктеу",
+      "ruTranscription": "үтіктеу",
+      "kkTranscription": "Ütıkteu",
+      "category": "verbs",
+      "id": 1125
+    },
+    {
+      "ru": "Готовить (еду)",
+      "kk": "Пісіру",
+      "ruTranscription": "пісіру",
+      "kkTranscription": "Pısıru",
+      "category": "verbs",
+      "id": 1126
+    },
+    {
+      "ru": "Тушить",
+      "kk": "Бұқтыру",
+      "ruTranscription": "бұқтыру",
+      "kkTranscription": "Būqtyru",
+      "category": "verbs",
+      "id": 1127
+    },
+    {
+      "ru": "Печь",
+      "kk": "Пісіру",
+      "ruTranscription": "пісіру",
+      "kkTranscription": "Pısıru",
+      "category": "verbs",
+      "id": 1128
+    },
+    {
+      "ru": "Нарезать",
+      "kk": "Турау",
+      "ruTranscription": "турау",
+      "kkTranscription": "Turau",
+      "category": "verbs",
+      "id": 1129
+    },
+    {
+      "ru": "Солить",
+      "kk": "Тұздау",
+      "ruTranscription": "тұздау",
+      "kkTranscription": "Tūzdau",
+      "category": "verbs",
+      "id": 1130
+    },
+    {
+      "ru": "Мешать (перемешивать)",
+      "kk": "Араластыру",
+      "ruTranscription": "араластыру",
+      "kkTranscription": "Aralastyru",
+      "category": "verbs",
+      "id": 1131
+    },
+    {
+      "ru": "Наливать",
+      "kk": "Құю",
+      "ruTranscription": "құю",
+      "kkTranscription": "Qūiu",
+      "category": "verbs",
+      "id": 1132
+    },
+    {
+      "ru": "Носить",
+      "kk": "Тасу",
+      "ruTranscription": "тасу",
+      "kkTranscription": "Tasu",
+      "category": "verbs",
+      "id": 1133
+    },
+    {
+      "ru": "Переносить",
+      "kk": "Тасымалдау",
+      "ruTranscription": "тасымалдау",
+      "kkTranscription": "Tasymaldau",
+      "category": "verbs",
+      "id": 1134
+    },
+    {
+      "ru": "Перевозить",
+      "kk": "Тасу",
+      "ruTranscription": "тасу",
+      "kkTranscription": "Tasu",
+      "category": "verbs",
+      "id": 1135
+    },
+    {
+      "ru": "Хранить",
+      "kk": "Сақтау",
+      "ruTranscription": "сақтау",
+      "kkTranscription": "Saqtau",
+      "category": "verbs",
+      "id": 1136
+    },
+    {
+      "ru": "Беречь",
+      "kk": "Сақтау",
+      "ruTranscription": "сақтау",
+      "kkTranscription": "Saqtau",
+      "category": "verbs",
+      "id": 1137
+    },
+    {
+      "ru": "Экономить",
+      "kk": "Үнемдеу",
+      "ruTranscription": "үнемдеу",
+      "kkTranscription": "Ünemdeu",
+      "category": "verbs",
+      "id": 1138
+    },
+    {
+      "ru": "Тратить",
+      "kk": "Жұмсау",
+      "ruTranscription": "жұмсау",
+      "kkTranscription": "Jūmsau",
+      "category": "verbs",
+      "id": 1139
     }
   ],
   "categories": {
